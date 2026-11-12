@@ -4,9 +4,9 @@
     "season": "2026-27",
     "matchweek": 10,
     "status": "Completed",
-    "generatedAt": "2026-11-11T12:27:52-08:00",
+    "generatedAt": "2026-11-10T12:27:52-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
-    "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
+    "note": "2_hand_edited_for_test_of_push Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
   "entries": [
     {
