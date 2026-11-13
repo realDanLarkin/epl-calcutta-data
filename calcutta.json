@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "Not Started",
-    "generatedAt": "2026-11-12T20:41:55-08:00",
+    "generatedAt": "2026-11-12T20:57:07-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -9676,7 +9676,7 @@
         "lostTo": null,
         "nextOpponent": "Sunderland",
         "site": "Home",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-16T11:30:00-08:00",
         "category": "HomeRow",
         "matchHome": "Crystal Palace",
         "matchAway": "Sunderland"
@@ -9688,7 +9688,7 @@
         "lostTo": null,
         "nextOpponent": "Crystal Palace",
         "site": "Away",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-16T11:30:00-08:00",
         "category": "Skip",
         "matchHome": null,
         "matchAway": null
@@ -9700,7 +9700,7 @@
         "lostTo": null,
         "nextOpponent": "Bradford City",
         "site": "Home",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-15T12:00:00-08:00",
         "category": "HomeRow",
         "matchHome": "Man City",
         "matchAway": "Bradford City"
