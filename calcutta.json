@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "Not Started",
-    "generatedAt": "2026-11-12T20:57:07-08:00",
+    "generatedAt": "2026-11-12T21:27:26-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -10048,7 +10048,7 @@
       "matchesRemaining": 4,
       "clinched": false,
       "status": "Safe Zone",
-      "nextDateTime": "2026-11-26T07:00:00-08:00",
+      "nextDateTime": "2026-11-26T09:45:00-08:00",
       "site": "Away",
       "opponent": "Celta Vigo"
     },
