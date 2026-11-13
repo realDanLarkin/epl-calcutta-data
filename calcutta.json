@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "Not Started",
-    "generatedAt": "2026-11-12T16:10:05-08:00",
+    "generatedAt": "2026-11-12T20:41:55-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -9640,7 +9640,7 @@
         "lostTo": null,
         "nextOpponent": "Fleetwood Town",
         "site": "Away",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-17T12:00:00-08:00",
         "category": "AwayRow",
         "matchHome": "Fleetwood Town",
         "matchAway": "Everton"
