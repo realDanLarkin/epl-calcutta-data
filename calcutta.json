@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 11,
-    "status": "In Progress - 6 of 10 Complete",
-    "generatedAt": "2026-11-21T09:14:04-08:00",
+    "status": "In Progress - 7 of 10 Complete",
+    "generatedAt": "2026-11-21T11:31:25-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -940,13 +940,13 @@
     {
       "place": 1,
       "club": "Arsenal",
-      "played": 10,
-      "points": 27,
+      "played": 11,
+      "points": 28,
       "wins": 9,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "gf": 15,
-      "ga": 5,
+      "gf": 17,
+      "ga": 7,
       "gd": 10
     },
     {
@@ -1072,13 +1072,13 @@
     {
       "place": 12,
       "club": "Newcastle",
-      "played": 10,
-      "points": 12,
+      "played": 11,
+      "points": 13,
       "wins": 3,
-      "draws": 3,
+      "draws": 4,
       "losses": 4,
-      "gf": 13,
-      "ga": 16,
+      "gf": 15,
+      "ga": 18,
       "gd": -3
     },
     {
@@ -3418,13 +3418,13 @@
         "club": "Arsenal",
         "entry": "Dilks"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "2 - 2",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "homeGoalkeeper": "Lukas Hornícek",
+      "awayGoalkeeper": "David Raya"
     },
     {
       "matchNumber": 106,
@@ -10526,6 +10526,25 @@
       ]
     },
     {
+      "player": "Harvey Barnes",
+      "club": "Newcastle",
+      "entry": "Brennan",
+      "current": 3,
+      "history": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    {
       "player": "Enzo Le Fée",
       "club": "Sunderland",
       "entry": "Bishop/Foster",
@@ -10868,25 +10887,6 @@
       ]
     },
     {
-      "player": "Harvey Barnes",
-      "club": "Newcastle",
-      "entry": "Brennan",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2
-      ]
-    },
-    {
       "player": "Jayden Bogle",
       "club": "Leeds United",
       "entry": "Nelson",
@@ -11164,6 +11164,25 @@
         0,
         0,
         1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "player": "Noni Madueke",
+      "club": "Arsenal",
+      "entry": "Dilks",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
         1,
         1,
@@ -12426,25 +12445,6 @@
       ]
     },
     {
-      "player": "Noni Madueke",
-      "club": "Arsenal",
-      "entry": "Dilks",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
       "player": "James Maddison",
       "club": "Tottenham",
       "entry": "Dilks",
@@ -12980,6 +12980,44 @@
       "player": "Luca Williams-Barnett",
       "club": "Tottenham",
       "entry": "Dilks",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Eberechi Eze",
+      "club": "Arsenal",
+      "entry": "Dilks",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Malick Thiaw",
+      "club": "Bournemouth",
+      "entry": "Bishop/Foster",
       "current": 1,
       "history": [
         0,
@@ -28766,9 +28804,9 @@
       "surgeCollapse": [
         {
           "club": "Arsenal",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 27,
-          "firstHalfPPM": 2.7,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 28,
+          "firstHalfPPM": 2.5454545454545454,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28942,9 +28980,9 @@
         },
         {
           "club": "Newcastle",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 12,
-          "firstHalfPPM": 1.2,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 13,
+          "firstHalfPPM": 1.1818181818181819,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
