@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 11,
-    "status": "In Progress - 9 of 10 Complete",
-    "generatedAt": "2026-11-22T10:38:21-08:00",
+    "status": "In Progress - 7 complete, 2 in progress, 1 not started",
+    "generatedAt": "2026-11-22T11:24:03-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
