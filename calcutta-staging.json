@@ -2,11 +2,11 @@
   "meta": {
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
-    "matchweek": 10,
-    "status": "Completed",
-    "generatedAt": "2026-11-10T12:27:52-08:00",
+    "matchweek": 11,
+    "status": "In Progress - 8 complete, 1 in progress, 1 not started",
+    "generatedAt": "2026-11-22T12:07:33-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
-    "note": "2_hand_edited_for_test_of_push Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
+    "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
   "entries": [
     {
@@ -20,12 +20,12 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": 515,
+      "tablePayout": 525,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
-      "props": 12.5,
+      "props": 162.5,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -35,15 +35,15 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 0,
+      "biggestRise": 50,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
-      "biggestUpsetWin": 0,
-      "totalPayout": 538.9,
-      "net": 338.9,
-      "return": 1.6945
+      "biggestUpsetWin": 100,
+      "totalPayout": 698.9,
+      "net": 498.9,
+      "return": 2.4945
     },
     {
       "rank": 2,
@@ -55,7 +55,7 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": 330,
+      "tablePayout": 320,
       "luxuryTaxRebate": 11.4,
       "derbies": 50,
       "derbyWinner": 50,
@@ -76,12 +76,12 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 403.9,
-      "net": 203.89999999999998,
-      "return": 1.0194999999999999
+      "totalPayout": 393.9,
+      "net": 193.89999999999998,
+      "return": 0.9694999999999999
     },
     {
-      "rank": 3,
+      "rank": 4,
       "entry": "Larkin",
       "clubs": [
         "Man City",
@@ -91,11 +91,11 @@
       "luxuryTax": 39,
       "totalCost": 239,
       "tablePayout": 200,
-      "luxuryTaxRebate": 11.4,
+      "luxuryTaxRebate": 0,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
-      "props": 61,
+      "props": -39,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 25,
@@ -109,14 +109,14 @@
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
-      "biggestUpsetLoss": 0,
+      "biggestUpsetLoss": -100,
       "biggestUpsetWin": 0,
-      "totalPayout": 297.4,
-      "net": 58.39999999999998,
-      "return": 0.24435146443514635
+      "totalPayout": 186,
+      "net": -53,
+      "return": -0.2217573221757322
     },
     {
-      "rank": 4,
+      "rank": 6,
       "entry": "Bishop/Foster",
       "clubs": [
         "Everton",
@@ -127,12 +127,12 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": 40,
+      "tablePayout": 75,
       "luxuryTaxRebate": 22.8,
       "derbies": -25,
       "derbyWinner": 0,
       "derbyLoser": -25,
-      "props": 200,
+      "props": 0,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -142,18 +142,18 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 100,
+      "biggestRise": 0,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
-      "biggestUpsetWin": 100,
-      "totalPayout": 237.8,
-      "net": 37.80000000000001,
-      "return": 0.18900000000000006
+      "biggestUpsetWin": 0,
+      "totalPayout": 72.80000000000001,
+      "net": -127.19999999999999,
+      "return": -0.6359999999999999
     },
     {
-      "rank": 5,
+      "rank": 3,
       "entry": "Hasz/Baby",
       "clubs": [
         "Liverpool",
@@ -163,7 +163,7 @@
       "luxuryTax": 22,
       "totalCost": 222,
       "tablePayout": 150,
-      "luxuryTaxRebate": 0,
+      "luxuryTaxRebate": 11.4,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
@@ -183,12 +183,12 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 211,
-      "net": -11,
-      "return": -0.04954954954954955
+      "totalPayout": 222.4,
+      "net": 0.4000000000000057,
+      "return": 0.0018018018018018274
     },
     {
-      "rank": 6,
+      "rank": 5,
       "entry": "Evans/Newell",
       "clubs": [
         "Chelsea",
@@ -197,12 +197,12 @@
       "buyIn": 200,
       "luxuryTax": 53,
       "totalCost": 253,
-      "tablePayout": 65,
+      "tablePayout": 45,
       "luxuryTaxRebate": 22.8,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
-      "props": -2,
+      "props": 98,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -216,14 +216,14 @@
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
-      "biggestUpsetLoss": -100,
+      "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 85.80000000000001,
-      "net": -167.2,
-      "return": -0.6608695652173913
+      "totalPayout": 165.8,
+      "net": -87.19999999999999,
+      "return": -0.3446640316205533
     },
     {
-      "rank": 7,
+      "rank": 8,
       "entry": "Brennan",
       "clubs": [
         "Aston Villa",
@@ -233,7 +233,7 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": -45,
+      "tablePayout": -60,
       "luxuryTaxRebate": 22.8,
       "derbies": -50,
       "derbyWinner": 0,
@@ -254,12 +254,12 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -72.2,
-      "net": -272.2,
-      "return": -1.361
+      "totalPayout": -87.2,
+      "net": -287.2,
+      "return": -1.436
     },
     {
-      "rank": 8,
+      "rank": 7,
       "entry": "Nelson",
       "clubs": [
         "Man United",
@@ -273,7 +273,7 @@
       "derbies": -25,
       "derbyWinner": 0,
       "derbyLoser": -25,
-      "props": -75,
+      "props": -25,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -283,15 +283,15 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 0,
+      "biggestRise": 50,
       "biggestFall": -100,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -88.6,
-      "net": -288.6,
-      "return": -1.443
+      "totalPayout": -38.599999999999994,
+      "net": -238.6,
+      "return": -1.193
     }
   ],
   "clubs": [
@@ -371,7 +371,7 @@
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
-      "props": 25,
+      "props": -75,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 25,
@@ -385,11 +385,11 @@
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
-      "biggestUpsetLoss": 0,
+      "biggestUpsetLoss": -100,
       "biggestUpsetWin": 0,
-      "totalPayout": 250,
-      "net": 79,
-      "return": 0.4619883040935672
+      "totalPayout": 150,
+      "net": -21,
+      "return": -0.12280701754385964
     },
     {
       "place": 4,
@@ -424,18 +424,18 @@
       "return": 0.041666666666666664
     },
     {
-      "place": 5,
+      "place": 8,
       "entry": "Evans/Newell",
       "club": "Chelsea",
       "bid": 139,
       "luxuryTax": 53,
       "totalCost": 192,
-      "tablePayout": 60,
+      "tablePayout": 30,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
-      "props": -100,
+      "props": 0,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -449,51 +449,19 @@
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
-      "biggestUpsetLoss": -100,
+      "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -28.599999999999994,
-      "net": -220.6,
-      "return": -1.1489583333333333
+      "totalPayout": 41.4,
+      "net": -150.6,
+      "return": -0.7843749999999999
     },
     {
-      "place": 6,
+      "place": 7,
       "entry": "Bishop/Foster",
       "club": "Everton",
       "bid": 41,
       "luxuryTax": 0,
       "totalCost": 41,
-      "tablePayout": 50,
-      "luxuryTaxRebate": 11.4,
-      "derbies": 0,
-      "derbyWinner": 0,
-      "derbyLoser": 0,
-      "props": 100,
-      "faCup": 0,
-      "eflCup": 0,
-      "goldenBoot": 0,
-      "goldenGlove": 0,
-      "firstSacked": 0,
-      "bestPromoted": 0,
-      "survivalPool": 0,
-      "brexitPenalty": 0,
-      "brexitReward": 0,
-      "biggestRise": 100,
-      "biggestFall": 0,
-      "secondHalfSurge": 0,
-      "secondHalfCollapse": 0,
-      "biggestUpsetLoss": 0,
-      "biggestUpsetWin": 0,
-      "totalPayout": 161.4,
-      "net": 120.4,
-      "return": 2.9365853658536585
-    },
-    {
-      "place": 7,
-      "entry": "Bishop/Foster",
-      "club": "Bournemouth",
-      "bid": 35,
-      "luxuryTax": 0,
-      "totalCost": 35,
       "tablePayout": 40,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
@@ -516,17 +484,49 @@
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
       "totalPayout": 51.4,
-      "net": 16.4,
-      "return": 0.4685714285714285
+      "net": 10.399999999999999,
+      "return": 0.2536585365853658
     },
     {
-      "place": 8,
+      "place": 5,
+      "entry": "Bishop/Foster",
+      "club": "Bournemouth",
+      "bid": 35,
+      "luxuryTax": 0,
+      "totalCost": 35,
+      "tablePayout": 60,
+      "luxuryTaxRebate": 11.4,
+      "derbies": 0,
+      "derbyWinner": 0,
+      "derbyLoser": 0,
+      "props": 0,
+      "faCup": 0,
+      "eflCup": 0,
+      "goldenBoot": 0,
+      "goldenGlove": 0,
+      "firstSacked": 0,
+      "bestPromoted": 0,
+      "survivalPool": 0,
+      "brexitPenalty": 0,
+      "brexitReward": 0,
+      "biggestRise": 0,
+      "biggestFall": 0,
+      "secondHalfSurge": 0,
+      "secondHalfCollapse": 0,
+      "biggestUpsetLoss": 0,
+      "biggestUpsetWin": 0,
+      "totalPayout": 71.4,
+      "net": 36.400000000000006,
+      "return": 1.0400000000000003
+    },
+    {
+      "place": 10,
       "entry": "Machel/Machel",
       "club": "Brentford",
       "bid": 80,
       "luxuryTax": 0,
       "totalCost": 80,
-      "tablePayout": 30,
+      "tablePayout": 20,
       "luxuryTaxRebate": 11.4,
       "derbies": 25,
       "derbyWinner": 25,
@@ -547,23 +547,23 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 66.4,
-      "net": -13.599999999999994,
-      "return": -0.16999999999999993
+      "totalPayout": 56.4,
+      "net": -23.6,
+      "return": -0.29500000000000004
     },
     {
-      "place": 9,
+      "place": 6,
       "entry": "Nelson",
       "club": "Leeds United",
       "bid": 51,
       "luxuryTax": 0,
       "totalCost": 51,
-      "tablePayout": 25,
+      "tablePayout": 50,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
       "derbyLoser": 0,
-      "props": 0,
+      "props": 50,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -573,24 +573,24 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 0,
+      "biggestRise": 50,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 36.4,
-      "net": -14.600000000000001,
-      "return": -0.2862745098039216
+      "totalPayout": 111.4,
+      "net": 60.400000000000006,
+      "return": 1.184313725490196
     },
     {
-      "place": 10,
+      "place": 12,
       "entry": "Brennan",
       "club": "Aston Villa",
       "bid": 100,
       "luxuryTax": 0,
       "totalCost": 100,
-      "tablePayout": 20,
+      "tablePayout": 10,
       "luxuryTaxRebate": 11.4,
       "derbies": -25,
       "derbyWinner": 0,
@@ -611,23 +611,23 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 6.399999999999999,
-      "net": -93.6,
-      "return": -0.9359999999999999
+      "totalPayout": -3.6000000000000014,
+      "net": -103.6,
+      "return": -1.036
     },
     {
-      "place": 11,
+      "place": 9,
       "entry": "Dilks",
       "club": "Tottenham",
       "bid": 67,
       "luxuryTax": 0,
       "totalCost": 67,
-      "tablePayout": 15,
+      "tablePayout": 25,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
       "derbyLoser": 0,
-      "props": 0,
+      "props": 50,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -637,24 +637,24 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 0,
+      "biggestRise": 50,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 26.4,
-      "net": -40.6,
-      "return": -0.6059701492537314
+      "totalPayout": 86.4,
+      "net": 19.400000000000006,
+      "return": 0.28955223880597025
     },
     {
-      "place": 12,
+      "place": 13,
       "entry": "Brennan",
       "club": "Newcastle",
       "bid": 45,
       "luxuryTax": 0,
       "totalCost": 45,
-      "tablePayout": 10,
+      "tablePayout": 5,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
@@ -675,18 +675,18 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 21.4,
-      "net": -23.6,
-      "return": -0.5244444444444445
+      "totalPayout": 16.4,
+      "net": -28.6,
+      "return": -0.6355555555555555
     },
     {
-      "place": 13,
+      "place": 11,
       "entry": "Evans/Newell",
       "club": "Hull City",
       "bid": 14,
       "luxuryTax": 0,
       "totalCost": 14,
-      "tablePayout": 5,
+      "tablePayout": 15,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
@@ -707,19 +707,19 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 114.4,
-      "net": 100.4,
-      "return": 7.171428571428572
+      "totalPayout": 124.4,
+      "net": 110.4,
+      "return": 7.885714285714286
     },
     {
-      "place": 14,
+      "place": 16,
       "entry": "Larkin",
       "club": "Ipswich Town",
       "bid": 40,
       "luxuryTax": 0,
       "totalCost": 40,
       "tablePayout": 0,
-      "luxuryTaxRebate": 11.4,
+      "luxuryTaxRebate": 0,
       "derbies": 0,
       "derbyWinner": 0,
       "derbyLoser": 0,
@@ -739,9 +739,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 47.4,
-      "net": 7.399999999999999,
-      "return": 0.18499999999999997
+      "totalPayout": 36,
+      "net": -4,
+      "return": -0.1
     },
     {
       "place": 15,
@@ -776,7 +776,7 @@
       "return": -1.9259259259259258
     },
     {
-      "place": 16,
+      "place": 17,
       "entry": "Dilks",
       "club": "Nott'm Forest",
       "bid": 66,
@@ -787,7 +787,7 @@
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
-      "props": 0,
+      "props": 100,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -802,20 +802,20 @@
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
-      "biggestUpsetWin": 0,
-      "totalPayout": 0,
-      "net": -66,
-      "return": -1
+      "biggestUpsetWin": 100,
+      "totalPayout": 100,
+      "net": 34,
+      "return": 0.5151515151515151
     },
     {
-      "place": 17,
+      "place": 14,
       "entry": "Hasz/Baby",
       "club": "Coventry City",
       "bid": 12,
       "luxuryTax": 0,
       "totalCost": 12,
       "tablePayout": 0,
-      "luxuryTaxRebate": 0,
+      "luxuryTaxRebate": 11.4,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
@@ -835,18 +835,18 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 61,
-      "net": 49,
-      "return": 4.083333333333333
+      "totalPayout": 72.4,
+      "net": 60.400000000000006,
+      "return": 5.033333333333334
     },
     {
-      "place": 18,
+      "place": 19,
       "entry": "Nelson",
       "club": "Man United",
       "bid": 99,
       "luxuryTax": 0,
       "totalCost": 99,
-      "tablePayout": -25,
+      "tablePayout": -50,
       "luxuryTaxRebate": 0,
       "derbies": -25,
       "derbyWinner": 0,
@@ -867,23 +867,23 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -125,
-      "net": -224,
-      "return": -2.2626262626262625
+      "totalPayout": -150,
+      "net": -249,
+      "return": -2.515151515151515
     },
     {
-      "place": 19,
+      "place": 18,
       "entry": "Bishop/Foster",
       "club": "Sunderland",
       "bid": 41,
       "luxuryTax": 0,
       "totalCost": 41,
-      "tablePayout": -50,
+      "tablePayout": -25,
       "luxuryTaxRebate": 0,
       "derbies": 0,
       "derbyWinner": 0,
       "derbyLoser": 0,
-      "props": 100,
+      "props": 0,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -898,10 +898,10 @@
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
-      "biggestUpsetWin": 100,
-      "totalPayout": 50,
-      "net": 9,
-      "return": 0.21951219512195122
+      "biggestUpsetWin": 0,
+      "totalPayout": -25,
+      "net": -66,
+      "return": -1.6097560975609757
     },
     {
       "place": 20,
@@ -940,65 +940,77 @@
     {
       "place": 1,
       "club": "Arsenal",
-      "played": 10,
-      "points": 27,
+      "played": 11,
+      "points": 28,
       "wins": 9,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "gf": 15,
-      "ga": 5,
+      "gf": 17,
+      "ga": 7,
       "gd": 10
     },
     {
       "place": 2,
       "club": "Brighton",
-      "played": 10,
+      "played": 11,
       "points": 22,
       "wins": 7,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "gf": 26,
-      "ga": 7,
-      "gd": 19
+      "ga": 9,
+      "gd": 17
     },
     {
       "place": 3,
       "club": "Man City",
-      "played": 10,
-      "points": 21,
+      "played": 11,
+      "points": 22,
       "wins": 7,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
-      "gf": 21,
-      "ga": 13,
+      "gf": 22,
+      "ga": 14,
       "gd": 8
     },
     {
       "place": 4,
       "club": "Liverpool",
-      "played": 10,
-      "points": 18,
-      "wins": 5,
+      "played": 11,
+      "points": 21,
+      "wins": 6,
       "draws": 3,
       "losses": 2,
-      "gf": 14,
+      "gf": 18,
       "ga": 10,
-      "gd": 4
+      "gd": 8
     },
     {
       "place": 5,
-      "club": "Chelsea",
-      "played": 10,
-      "points": 16,
+      "club": "Bournemouth",
+      "played": 11,
+      "points": 18,
       "wins": 5,
-      "draws": 1,
-      "losses": 4,
-      "gf": 19,
-      "ga": 16,
-      "gd": 3
+      "draws": 3,
+      "losses": 3,
+      "gf": 18,
+      "ga": 14,
+      "gd": 4
     },
     {
       "place": 6,
+      "club": "Leeds United",
+      "played": 11,
+      "points": 17,
+      "wins": 4,
+      "draws": 5,
+      "losses": 2,
+      "gf": 14,
+      "ga": 9,
+      "gd": 5
+    },
+    {
+      "place": 7,
       "club": "Everton",
       "played": 10,
       "points": 16,
@@ -1010,19 +1022,31 @@
       "gd": 2
     },
     {
-      "place": 7,
-      "club": "Bournemouth",
-      "played": 10,
+      "place": 8,
+      "club": "Chelsea",
+      "played": 11,
+      "points": 16,
+      "wins": 5,
+      "draws": 1,
+      "losses": 5,
+      "gf": 20,
+      "ga": 20,
+      "gd": 0
+    },
+    {
+      "place": 9,
+      "club": "Tottenham",
+      "played": 11,
       "points": 15,
       "wins": 4,
       "draws": 3,
-      "losses": 3,
-      "gf": 16,
-      "ga": 14,
-      "gd": 2
+      "losses": 4,
+      "gf": 12,
+      "ga": 11,
+      "gd": 1
     },
     {
-      "place": 8,
+      "place": 10,
       "club": "Brentford",
       "played": 10,
       "points": 14,
@@ -1034,148 +1058,124 @@
       "gd": 5
     },
     {
-      "place": 9,
-      "club": "Leeds United",
-      "played": 10,
+      "place": 11,
+      "club": "Hull City",
+      "played": 11,
       "points": 14,
       "wins": 3,
       "draws": 5,
-      "losses": 2,
-      "gf": 10,
-      "ga": 8,
+      "losses": 3,
+      "gf": 13,
+      "ga": 11,
       "gd": 2
     },
     {
-      "place": 10,
+      "place": 12,
       "club": "Aston Villa",
-      "played": 10,
-      "points": 13,
+      "played": 11,
+      "points": 14,
       "wins": 3,
-      "draws": 4,
+      "draws": 5,
       "losses": 3,
       "gf": 14,
       "ga": 17,
       "gd": -3
     },
     {
-      "place": 11,
-      "club": "Tottenham",
-      "played": 10,
-      "points": 12,
-      "wins": 3,
-      "draws": 3,
-      "losses": 4,
-      "gf": 10,
-      "ga": 11,
-      "gd": -1
-    },
-    {
-      "place": 12,
+      "place": 13,
       "club": "Newcastle",
-      "played": 10,
-      "points": 12,
+      "played": 11,
+      "points": 13,
       "wins": 3,
-      "draws": 3,
+      "draws": 4,
       "losses": 4,
-      "gf": 13,
-      "ga": 16,
+      "gf": 15,
+      "ga": 18,
       "gd": -3
     },
     {
-      "place": 13,
-      "club": "Hull City",
-      "played": 10,
-      "points": 11,
-      "wins": 2,
-      "draws": 5,
-      "losses": 3,
-      "gf": 11,
-      "ga": 11,
-      "gd": 0
-    },
-    {
       "place": 14,
-      "club": "Ipswich Town",
-      "played": 10,
-      "points": 11,
-      "wins": 3,
-      "draws": 2,
-      "losses": 5,
-      "gf": 15,
-      "ga": 20,
-      "gd": -5
+      "club": "Coventry City",
+      "played": 11,
+      "points": 12,
+      "wins": 4,
+      "draws": 0,
+      "losses": 7,
+      "gf": 13,
+      "ga": 21,
+      "gd": -8
     },
     {
       "place": 15,
       "club": "Fulham",
-      "played": 10,
-      "points": 10,
+      "played": 11,
+      "points": 11,
       "wins": 2,
-      "draws": 4,
+      "draws": 5,
       "losses": 4,
-      "gf": 10,
-      "ga": 12,
+      "gf": 11,
+      "ga": 13,
       "gd": -2
     },
     {
       "place": 16,
-      "club": "Nott'm Forest",
-      "played": 10,
-      "points": 9,
-      "wins": 2,
-      "draws": 3,
-      "losses": 5,
-      "gf": 9,
-      "ga": 13,
-      "gd": -4
+      "club": "Ipswich Town",
+      "played": 11,
+      "points": 11,
+      "wins": 3,
+      "draws": 2,
+      "losses": 6,
+      "gf": 15,
+      "ga": 22,
+      "gd": -7
     },
     {
       "place": 17,
-      "club": "Coventry City",
-      "played": 10,
+      "club": "Nott'm Forest",
+      "played": 11,
       "points": 9,
-      "wins": 3,
-      "draws": 0,
-      "losses": 7,
-      "gf": 10,
-      "ga": 19,
-      "gd": -9
+      "wins": 2,
+      "draws": 3,
+      "losses": 6,
+      "gf": 9,
+      "ga": 15,
+      "gd": -6
     },
     {
       "place": 18,
-      "club": "Man United",
-      "played": 10,
-      "points": 8,
-      "wins": 1,
-      "draws": 5,
-      "losses": 4,
-      "gf": 14,
-      "ga": 19,
-      "gd": -5
-    },
-    {
-      "place": 19,
       "club": "Sunderland",
-      "played": 10,
-      "points": 8,
+      "played": 11,
+      "points": 9,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "losses": 6,
       "gf": 8,
       "ga": 17,
       "gd": -9
     },
     {
+      "place": 19,
+      "club": "Man United",
+      "played": 11,
+      "points": 8,
+      "wins": 1,
+      "draws": 5,
+      "losses": 5,
+      "gf": 14,
+      "ga": 23,
+      "gd": -9
+    },
+    {
       "place": 20,
       "club": "Crystal Palace",
-      "played": 10,
+      "played": 11,
       "points": 7,
       "wins": 2,
       "draws": 1,
-      "losses": 7,
-      "gf": 10,
-      "ga": 24,
-      "gd": -14
+      "losses": 8,
+      "gf": 12,
+      "ga": 27,
+      "gd": -15
     }
   ],
   "fixtures": [
@@ -1198,7 +1198,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 2,
@@ -1219,7 +1221,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 3,
@@ -1240,7 +1244,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 4,
@@ -1261,7 +1267,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Kjell Scherpen",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 5,
@@ -1282,7 +1290,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 6,
@@ -1303,7 +1313,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 7,
@@ -1324,7 +1336,9 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "Marco Bizot"
+      "awayGoalkeeper": "Marco Bizot",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 8,
@@ -1345,7 +1359,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 9,
@@ -1366,7 +1382,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 10,
@@ -1387,7 +1405,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Robert Sanchez"
+      "awayGoalkeeper": "Robert Sanchez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 15,
@@ -1408,7 +1428,9 @@
       "homeGoals": 1,
       "awayGoals": 4,
       "homeGoalkeeper": "Dean Henderson",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 17,
@@ -1429,7 +1451,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 11,
@@ -1450,7 +1474,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 14,
@@ -1471,7 +1497,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 20,
@@ -1492,7 +1520,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 13,
@@ -1513,7 +1543,9 @@
       "homeGoals": 4,
       "awayGoals": 3,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 16,
@@ -1534,7 +1566,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 19,
@@ -1555,7 +1589,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 18,
@@ -1576,7 +1612,9 @@
       "homeGoals": 5,
       "awayGoals": 2,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Kjell Scherpen"
+      "awayGoalkeeper": "Kjell Scherpen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 12,
@@ -1597,7 +1635,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 27,
@@ -1618,7 +1658,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Kjell Scherpen",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 29,
@@ -1639,7 +1681,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 22,
@@ -1660,7 +1704,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 23,
@@ -1681,7 +1727,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 25,
@@ -1702,7 +1750,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 28,
@@ -1723,7 +1773,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 30,
@@ -1744,7 +1796,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 26,
@@ -1765,7 +1819,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 24,
@@ -1786,7 +1842,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 21,
@@ -1807,7 +1865,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Emiliano Martínez"
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 31,
@@ -1828,7 +1888,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 32,
@@ -1849,7 +1911,9 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 33,
@@ -1870,7 +1934,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 35,
@@ -1891,7 +1957,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Walter Benítez",
-      "awayGoalkeeper": "Kjell Scherpen"
+      "awayGoalkeeper": "Kjell Scherpen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 37,
@@ -1912,7 +1980,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 40,
@@ -1933,7 +2003,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 39,
@@ -1954,7 +2026,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 34,
@@ -1975,7 +2049,9 @@
       "homeGoals": 0,
       "awayGoals": 5,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 38,
@@ -1996,7 +2072,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 36,
@@ -2017,7 +2095,9 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 42,
@@ -2038,7 +2118,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Emiliano Martínez"
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 50,
@@ -2059,7 +2141,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 43,
@@ -2080,7 +2164,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 44,
@@ -2101,7 +2187,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 48,
@@ -2122,7 +2210,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 49,
@@ -2143,7 +2233,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 41,
@@ -2164,7 +2256,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 46,
@@ -2185,7 +2279,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Walter Benítez"
+      "awayGoalkeeper": "Walter Benítez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 47,
@@ -2206,7 +2302,9 @@
       "homeGoals": 5,
       "awayGoals": 3,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 45,
@@ -2227,7 +2325,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 51,
@@ -2248,7 +2348,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 52,
@@ -2269,7 +2371,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 53,
@@ -2290,7 +2394,9 @@
       "homeGoals": 5,
       "awayGoals": 1,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 57,
@@ -2311,7 +2417,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Christian Walton",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 60,
@@ -2332,7 +2440,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 59,
@@ -2353,7 +2463,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 55,
@@ -2374,7 +2486,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Walter Benítez",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 56,
@@ -2395,7 +2509,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 58,
@@ -2416,7 +2532,9 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 54,
@@ -2437,7 +2555,9 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 64,
@@ -2458,7 +2578,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Emiliano Martínez"
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 62,
@@ -2479,7 +2601,9 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 65,
@@ -2500,7 +2624,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 67,
@@ -2521,7 +2647,9 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 68,
@@ -2542,7 +2670,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 61,
@@ -2563,7 +2693,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 63,
@@ -2584,7 +2716,9 @@
       "homeGoals": 5,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "Walter Benítez"
+      "awayGoalkeeper": "Walter Benítez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 66,
@@ -2605,7 +2739,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 69,
@@ -2626,7 +2762,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 70,
@@ -2647,7 +2785,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 77,
@@ -2668,7 +2808,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Christian Walton",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 72,
@@ -2689,7 +2831,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 71,
@@ -2710,7 +2854,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 74,
@@ -2731,7 +2877,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 73,
@@ -2752,7 +2900,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Mike Penders",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 75,
@@ -2773,7 +2923,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Walter Benítez",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 76,
@@ -2794,7 +2946,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 78,
@@ -2815,7 +2969,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 79,
@@ -2836,7 +2992,9 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 80,
@@ -2857,7 +3015,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 84,
@@ -2878,7 +3038,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Mike Penders",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 81,
@@ -2899,7 +3061,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 83,
@@ -2920,7 +3084,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 85,
@@ -2941,7 +3107,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 86,
@@ -2962,7 +3130,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 88,
@@ -2983,7 +3153,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 90,
@@ -3004,7 +3176,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 82,
@@ -3025,7 +3199,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 87,
@@ -3046,7 +3222,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 89,
@@ -3067,7 +3245,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 94,
@@ -3088,7 +3268,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 97,
@@ -3109,7 +3291,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 91,
@@ -3130,7 +3314,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 95,
@@ -3151,7 +3337,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 99,
@@ -3172,7 +3360,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 92,
@@ -3193,7 +3383,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 93,
@@ -3214,7 +3406,9 @@
       "homeGoals": 1,
       "awayGoals": 3,
       "homeGoalkeeper": "Dean Henderson",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 96,
@@ -3235,7 +3429,9 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "homeGoalkeeper": "Christian Walton",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 100,
@@ -3256,7 +3452,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "Mike Penders"
+      "awayGoalkeeper": "Mike Penders",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 98,
@@ -3277,7 +3475,9 @@
       "homeGoals": 4,
       "awayGoals": 4,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 108,
@@ -3292,13 +3492,15 @@
         "club": "Fulham",
         "entry": "Bishop/Foster"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "1 - 1",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "homeGoalkeeper": "Gianluigi Donnarumma",
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 101,
@@ -3313,13 +3515,15 @@
         "club": "Nott'm Forest",
         "entry": "Dilks"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "2 - 0",
+      "homeResult": "Win",
+      "awayResult": "Loss",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Djordje Petrovic",
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 102,
@@ -3334,13 +3538,15 @@
         "club": "Sunderland",
         "entry": "Bishop/Foster"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "0 - 0",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Zion Suzuki",
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 104,
@@ -3355,13 +3561,15 @@
         "club": "Leeds United",
         "entry": "Nelson"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "1 - 4",
+      "homeResult": "Loss",
+      "awayResult": "Win",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "homeGoalkeeper": "Emiliano Martínez",
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 105,
@@ -3376,13 +3584,15 @@
         "club": "Crystal Palace",
         "entry": "Brennan"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "3 - 2",
+      "homeResult": "Win",
+      "awayResult": "Loss",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "homeGoalkeeper": "Carl Rushworth",
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 110,
@@ -3397,13 +3607,15 @@
         "club": "Ipswich Town",
         "entry": "Larkin"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "2 - 0",
+      "homeResult": "Win",
+      "awayResult": "Loss",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Antonín Kinský",
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 109,
@@ -3418,13 +3630,15 @@
         "club": "Arsenal",
         "entry": "Dilks"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "2 - 2",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "homeGoalkeeper": "Lukas Hornícek",
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 106,
@@ -3439,13 +3653,15 @@
         "club": "Brighton",
         "entry": "Machel/Machel"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "2 - 0",
+      "homeResult": "Win",
+      "awayResult": "Loss",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Konstantinos Tzolakis",
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "In Progress",
+      "matchClock": "59'"
     },
     {
       "matchNumber": 107,
@@ -3460,13 +3676,15 @@
         "club": "Man United",
         "entry": "Nelson"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "result": "4 - 0",
+      "homeResult": "Win",
+      "awayResult": "Loss",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Alisson Becker",
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 103,
@@ -3487,7 +3705,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 119,
@@ -3508,7 +3728,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 117,
@@ -3529,7 +3751,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 118,
@@ -3550,7 +3774,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 116,
@@ -3571,7 +3797,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 114,
@@ -3592,7 +3820,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 112,
@@ -3613,7 +3843,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 113,
@@ -3634,7 +3866,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 115,
@@ -3655,7 +3889,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 120,
@@ -3676,7 +3912,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 111,
@@ -3697,7 +3935,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 125,
@@ -3718,7 +3958,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 124,
@@ -3739,7 +3981,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 126,
@@ -3760,7 +4004,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 127,
@@ -3781,7 +4027,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 128,
@@ -3802,7 +4050,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 121,
@@ -3823,7 +4073,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 122,
@@ -3844,7 +4096,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 123,
@@ -3865,7 +4119,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 129,
@@ -3886,7 +4142,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 130,
@@ -3907,7 +4165,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 134,
@@ -3928,7 +4188,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 131,
@@ -3949,7 +4211,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 132,
@@ -3970,7 +4234,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 136,
@@ -3991,7 +4257,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 137,
@@ -4012,7 +4280,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 139,
@@ -4033,7 +4303,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 133,
@@ -4054,7 +4326,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 135,
@@ -4075,7 +4349,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 138,
@@ -4096,7 +4372,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 140,
@@ -4117,7 +4395,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 145,
@@ -4138,7 +4418,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 147,
@@ -4159,7 +4441,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 148,
@@ -4180,7 +4464,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 149,
@@ -4201,7 +4487,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 141,
@@ -4222,7 +4510,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 142,
@@ -4243,7 +4533,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 150,
@@ -4264,7 +4556,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 143,
@@ -4285,7 +4579,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 144,
@@ -4306,7 +4602,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 146,
@@ -4327,7 +4625,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 153,
@@ -4348,7 +4648,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 151,
@@ -4369,7 +4671,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 156,
@@ -4390,7 +4694,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 158,
@@ -4411,7 +4717,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 157,
@@ -4432,7 +4740,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 159,
@@ -4453,7 +4763,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 154,
@@ -4474,7 +4786,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 160,
@@ -4495,7 +4809,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 152,
@@ -4516,7 +4832,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 155,
@@ -4537,7 +4855,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 161,
@@ -4558,7 +4878,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 164,
@@ -4579,7 +4901,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 165,
@@ -4600,7 +4924,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 167,
@@ -4621,7 +4947,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 170,
@@ -4642,7 +4970,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 166,
@@ -4663,7 +4993,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 169,
@@ -4684,7 +5016,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 162,
@@ -4705,7 +5039,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 168,
@@ -4726,7 +5062,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 163,
@@ -4747,7 +5085,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 176,
@@ -4768,7 +5108,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 180,
@@ -4789,7 +5131,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 174,
@@ -4810,7 +5154,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 172,
@@ -4831,7 +5177,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 173,
@@ -4852,7 +5200,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 175,
@@ -4873,7 +5223,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 178,
@@ -4894,7 +5246,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 179,
@@ -4915,7 +5269,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 171,
@@ -4936,7 +5292,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 177,
@@ -4957,7 +5315,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 186,
@@ -4978,7 +5338,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 184,
@@ -4999,7 +5361,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 182,
@@ -5020,7 +5384,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 183,
@@ -5041,7 +5407,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 187,
@@ -5062,7 +5430,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 189,
@@ -5083,7 +5453,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 190,
@@ -5104,7 +5476,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 181,
@@ -5125,7 +5499,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 185,
@@ -5146,7 +5522,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 188,
@@ -5167,7 +5545,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 191,
@@ -5188,7 +5568,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 192,
@@ -5209,7 +5591,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 194,
@@ -5230,7 +5614,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 199,
@@ -5251,7 +5637,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 200,
@@ -5272,7 +5660,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 193,
@@ -5293,7 +5683,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 195,
@@ -5314,7 +5706,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 196,
@@ -5335,7 +5729,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 197,
@@ -5356,7 +5752,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 198,
@@ -5377,7 +5775,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 201,
@@ -5398,7 +5798,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 202,
@@ -5419,7 +5821,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 203,
@@ -5440,7 +5844,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 204,
@@ -5461,7 +5867,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 205,
@@ -5482,7 +5890,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 206,
@@ -5503,7 +5913,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 207,
@@ -5524,7 +5936,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 208,
@@ -5545,7 +5959,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 209,
@@ -5566,7 +5982,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 210,
@@ -5587,7 +6005,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 211,
@@ -5608,7 +6028,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 212,
@@ -5629,7 +6051,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 213,
@@ -5650,7 +6074,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 214,
@@ -5671,7 +6097,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 215,
@@ -5692,7 +6120,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 216,
@@ -5713,7 +6143,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 217,
@@ -5734,7 +6166,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 218,
@@ -5755,7 +6189,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 219,
@@ -5776,7 +6212,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 220,
@@ -5797,7 +6235,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 221,
@@ -5818,7 +6258,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 222,
@@ -5839,7 +6281,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 223,
@@ -5860,7 +6304,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 224,
@@ -5881,7 +6327,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 225,
@@ -5902,7 +6350,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 226,
@@ -5923,7 +6373,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 227,
@@ -5944,7 +6396,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 228,
@@ -5965,7 +6419,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 229,
@@ -5986,7 +6442,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 230,
@@ -6007,7 +6465,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 231,
@@ -6028,7 +6488,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 232,
@@ -6049,7 +6511,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 233,
@@ -6070,7 +6534,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 234,
@@ -6091,7 +6557,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 235,
@@ -6112,7 +6580,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 236,
@@ -6133,7 +6603,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 237,
@@ -6154,7 +6626,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 238,
@@ -6175,7 +6649,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 239,
@@ -6196,7 +6672,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 240,
@@ -6217,7 +6695,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 241,
@@ -6238,7 +6718,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 242,
@@ -6259,7 +6741,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 243,
@@ -6280,7 +6764,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 244,
@@ -6301,7 +6787,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 245,
@@ -6322,7 +6810,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 246,
@@ -6343,7 +6833,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 247,
@@ -6364,7 +6856,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 248,
@@ -6385,7 +6879,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 249,
@@ -6406,7 +6902,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 250,
@@ -6427,7 +6925,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 251,
@@ -6448,7 +6948,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 252,
@@ -6469,7 +6971,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 253,
@@ -6490,7 +6994,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 254,
@@ -6511,7 +7017,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 255,
@@ -6532,7 +7040,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 256,
@@ -6553,7 +7063,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 257,
@@ -6574,7 +7086,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 258,
@@ -6595,7 +7109,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 259,
@@ -6616,7 +7132,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 260,
@@ -6637,7 +7155,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 261,
@@ -6658,7 +7178,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 262,
@@ -6679,7 +7201,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 263,
@@ -6700,7 +7224,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 264,
@@ -6721,7 +7247,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 265,
@@ -6742,7 +7270,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 266,
@@ -6763,7 +7293,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 267,
@@ -6784,7 +7316,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 268,
@@ -6805,7 +7339,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 269,
@@ -6826,7 +7362,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 270,
@@ -6847,7 +7385,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 271,
@@ -6868,7 +7408,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 272,
@@ -6889,7 +7431,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 273,
@@ -6910,7 +7454,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 274,
@@ -6931,7 +7477,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 275,
@@ -6952,7 +7500,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 276,
@@ -6973,7 +7523,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 277,
@@ -6994,7 +7546,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 278,
@@ -7015,7 +7569,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 279,
@@ -7036,7 +7592,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 280,
@@ -7057,7 +7615,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 281,
@@ -7078,7 +7638,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 282,
@@ -7099,7 +7661,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 283,
@@ -7120,7 +7684,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 284,
@@ -7141,7 +7707,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 285,
@@ -7162,7 +7730,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 286,
@@ -7183,7 +7753,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 287,
@@ -7204,7 +7776,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 288,
@@ -7225,7 +7799,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 289,
@@ -7246,7 +7822,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 290,
@@ -7267,7 +7845,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 291,
@@ -7288,7 +7868,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 292,
@@ -7309,7 +7891,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 293,
@@ -7330,7 +7914,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 294,
@@ -7351,7 +7937,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 295,
@@ -7372,7 +7960,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 296,
@@ -7393,7 +7983,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 297,
@@ -7414,7 +8006,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 298,
@@ -7435,7 +8029,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 299,
@@ -7456,7 +8052,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 300,
@@ -7477,7 +8075,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 301,
@@ -7498,7 +8098,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 302,
@@ -7519,7 +8121,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 303,
@@ -7540,7 +8144,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 304,
@@ -7561,7 +8167,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 305,
@@ -7582,7 +8190,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 306,
@@ -7603,7 +8213,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 307,
@@ -7624,7 +8236,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 308,
@@ -7645,7 +8259,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 309,
@@ -7666,7 +8282,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 310,
@@ -7687,7 +8305,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 311,
@@ -7708,7 +8328,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 312,
@@ -7729,7 +8351,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 313,
@@ -7750,7 +8374,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 314,
@@ -7771,7 +8397,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 315,
@@ -7792,7 +8420,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 316,
@@ -7813,7 +8443,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 317,
@@ -7834,7 +8466,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 318,
@@ -7855,7 +8489,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 319,
@@ -7876,7 +8512,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 320,
@@ -7897,7 +8535,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 321,
@@ -7918,7 +8558,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 322,
@@ -7939,7 +8581,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 323,
@@ -7960,7 +8604,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 324,
@@ -7981,7 +8627,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 325,
@@ -8002,7 +8650,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 326,
@@ -8023,7 +8673,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 327,
@@ -8044,7 +8696,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 328,
@@ -8065,7 +8719,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 329,
@@ -8086,7 +8742,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 330,
@@ -8107,7 +8765,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 331,
@@ -8128,7 +8788,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 332,
@@ -8149,7 +8811,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 333,
@@ -8170,7 +8834,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 334,
@@ -8191,7 +8857,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 335,
@@ -8212,7 +8880,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 336,
@@ -8233,7 +8903,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 337,
@@ -8254,7 +8926,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 338,
@@ -8275,7 +8949,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 339,
@@ -8296,7 +8972,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 340,
@@ -8317,7 +8995,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 341,
@@ -8338,7 +9018,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 342,
@@ -8359,7 +9041,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 343,
@@ -8380,7 +9064,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 344,
@@ -8401,7 +9087,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 345,
@@ -8422,7 +9110,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 346,
@@ -8443,7 +9133,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 347,
@@ -8464,7 +9156,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 348,
@@ -8485,7 +9179,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 349,
@@ -8506,7 +9202,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 350,
@@ -8527,7 +9225,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 351,
@@ -8548,7 +9248,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 352,
@@ -8569,7 +9271,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 353,
@@ -8590,7 +9294,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 354,
@@ -8611,7 +9317,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 355,
@@ -8632,7 +9340,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 356,
@@ -8653,7 +9363,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 357,
@@ -8674,7 +9386,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 358,
@@ -8695,7 +9409,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 359,
@@ -8716,7 +9432,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 360,
@@ -8737,7 +9455,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 361,
@@ -8758,7 +9478,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 362,
@@ -8779,7 +9501,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 363,
@@ -8800,7 +9524,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 364,
@@ -8821,7 +9547,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 365,
@@ -8842,7 +9570,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 366,
@@ -8863,7 +9593,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 367,
@@ -8884,7 +9616,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 368,
@@ -8905,7 +9639,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 369,
@@ -8926,7 +9662,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 370,
@@ -8947,7 +9685,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 371,
@@ -8968,7 +9708,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 372,
@@ -8989,7 +9731,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 373,
@@ -9010,7 +9754,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 374,
@@ -9031,7 +9777,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 375,
@@ -9052,7 +9800,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 376,
@@ -9073,7 +9823,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 377,
@@ -9094,7 +9846,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 378,
@@ -9115,7 +9869,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 379,
@@ -9136,7 +9892,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 380,
@@ -9157,7 +9915,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     }
   ],
   "props": [
@@ -9254,11 +10014,13 @@
       "name": "Biggest Rise",
       "payout": 100,
       "calculatedWinner": [
-        "Everton"
+        "Leeds United",
+        "Tottenham"
       ],
       "override": [],
       "winner": [
-        "Everton"
+        "Leeds United",
+        "Tottenham"
       ]
     },
     {
@@ -9312,22 +10074,22 @@
       "name": "Biggest Upset Loss",
       "payout": -100,
       "calculatedWinner": [
-        "Chelsea"
+        "Man City"
       ],
       "override": [],
       "winner": [
-        "Chelsea"
+        "Man City"
       ]
     },
     {
       "name": "Biggest Upset Win",
       "payout": 100,
       "calculatedWinner": [
-        "Sunderland"
+        "Nott'm Forest"
       ],
       "override": [],
       "winner": [
-        "Sunderland"
+        "Nott'm Forest"
       ]
     }
   ],
@@ -9640,7 +10402,7 @@
         "lostTo": null,
         "nextOpponent": "Fleetwood Town",
         "site": "Away",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-17T12:00:00-08:00",
         "category": "AwayRow",
         "matchHome": "Fleetwood Town",
         "matchAway": "Everton"
@@ -9676,7 +10438,7 @@
         "lostTo": null,
         "nextOpponent": "Sunderland",
         "site": "Home",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-16T11:30:00-08:00",
         "category": "HomeRow",
         "matchHome": "Crystal Palace",
         "matchAway": "Sunderland"
@@ -9688,7 +10450,7 @@
         "lostTo": null,
         "nextOpponent": "Crystal Palace",
         "site": "Away",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-16T11:30:00-08:00",
         "category": "Skip",
         "matchHome": null,
         "matchAway": null
@@ -9700,7 +10462,7 @@
         "lostTo": null,
         "nextOpponent": "Bradford City",
         "site": "Home",
-        "nextDateTime": "2026-12-16T12:00:00-08:00",
+        "nextDateTime": "2026-12-15T12:00:00-08:00",
         "category": "HomeRow",
         "matchHome": "Man City",
         "matchAway": "Bradford City"
@@ -10048,7 +10810,7 @@
       "matchesRemaining": 4,
       "clinched": false,
       "status": "Safe Zone",
-      "nextDateTime": "2026-11-26T07:00:00-08:00",
+      "nextDateTime": "2026-11-26T09:45:00-08:00",
       "site": "Away",
       "opponent": "Celta Vigo"
     },
@@ -10182,6 +10944,25 @@
       ]
     },
     {
+      "player": "Evanilson",
+      "club": "Bournemouth",
+      "entry": "Bishop/Foster",
+      "current": 6,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
       "player": "Marcus Tavernier",
       "club": "Bournemouth",
       "entry": "Bishop/Foster",
@@ -10258,22 +11039,22 @@
       ]
     },
     {
-      "player": "Evanilson",
-      "club": "Bournemouth",
-      "entry": "Bishop/Foster",
-      "current": 5,
+      "player": "Dominic Calvert-Lewin",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 4,
       "history": [
         0,
-        0,
-        0,
-        0,
-        0,
+        1,
         1,
         2,
+        2,
+        2,
         3,
-        4,
-        5,
-        5
+        3,
+        3,
+        3,
+        4
       ]
     },
     {
@@ -10330,6 +11111,44 @@
         4,
         4,
         4,
+        4
+      ]
+    },
+    {
+      "player": "Noah Okafor",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 4,
+      "history": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "player": "Oliver McBurnie",
+      "club": "Hull City",
+      "entry": "Evans/Newell",
+      "current": 4,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
         4
       ]
     },
@@ -10467,25 +11286,6 @@
       ]
     },
     {
-      "player": "Dominic Calvert-Lewin",
-      "club": "Leeds United",
-      "entry": "Nelson",
-      "current": 3,
-      "history": [
-        0,
-        1,
-        1,
-        2,
-        2,
-        2,
-        3,
-        3,
-        3,
-        3,
-        3
-      ]
-    },
-    {
       "player": "Pedro Neto",
       "club": "Chelsea",
       "entry": "Evans/Newell",
@@ -10501,6 +11301,25 @@
         3,
         3,
         3,
+        3
+      ]
+    },
+    {
+      "player": "Harvey Barnes",
+      "club": "Newcastle",
+      "entry": "Brennan",
+      "current": 3,
+      "history": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
         3
       ]
     },
@@ -10771,6 +11590,25 @@
       ]
     },
     {
+      "player": "Dominik Szoboszlai",
+      "club": "Liverpool",
+      "entry": "Hasz/Baby",
+      "current": 2,
+      "history": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "player": "Josh King",
       "club": "Fulham",
       "entry": "Bishop/Foster",
@@ -10809,6 +11647,25 @@
       ]
     },
     {
+      "player": "Víctor Muñoz",
+      "club": "Liverpool",
+      "entry": "Hasz/Baby",
+      "current": 2,
+      "history": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "player": "Malick Yalcouyé",
       "club": "Brighton",
       "entry": "Machel/Machel",
@@ -10840,25 +11697,6 @@
         2,
         2,
         2,
-        2,
-        2,
-        2,
-        2
-      ]
-    },
-    {
-      "player": "Harvey Barnes",
-      "club": "Newcastle",
-      "entry": "Brennan",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
         2,
         2,
         2,
@@ -10904,6 +11742,25 @@
       ]
     },
     {
+      "player": "Justin Kluivert",
+      "club": "Bournemouth",
+      "entry": "Bishop/Foster",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "player": "Alysson",
       "club": "Aston Villa",
       "entry": "Brennan",
@@ -10919,6 +11776,25 @@
         1,
         1,
         2,
+        2
+      ]
+    },
+    {
+      "player": "Jørgen Strand Larsen",
+      "club": "Crystal Palace",
+      "entry": "Brennan",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         2
       ]
     },
@@ -10956,25 +11832,6 @@
         2,
         2,
         2,
-        2,
-        2
-      ]
-    },
-    {
-      "player": "Noah Okafor",
-      "club": "Leeds United",
-      "entry": "Nelson",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         2,
         2
       ]
@@ -11094,6 +11951,63 @@
       ]
     },
     {
+      "player": "Dominic Solanke",
+      "club": "Tottenham",
+      "entry": "Dilks",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "player": "Yeremy Pino",
+      "club": "Crystal Palace",
+      "entry": "Brennan",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "player": "Noni Madueke",
+      "club": "Arsenal",
+      "entry": "Dilks",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "player": "Diego Gómez",
       "club": "Brighton",
       "entry": "Machel/Machel",
@@ -11132,9 +12046,9 @@
       ]
     },
     {
-      "player": "Oliver McBurnie",
-      "club": "Hull City",
-      "entry": "Evans/Newell",
+      "player": "Tatsuhiro Sakamoto",
+      "club": "Coventry City",
+      "entry": "Hasz/Baby",
       "current": 2,
       "history": [
         0,
@@ -11144,9 +12058,66 @@
         0,
         0,
         0,
+        0,
         1,
-        2,
-        2,
+        1,
+        2
+      ]
+    },
+    {
+      "player": "Taiwo Awoniyi",
+      "club": "Coventry City",
+      "entry": "Hasz/Baby",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "player": "Rodrigo Muniz",
+      "club": "Fulham",
+      "entry": "Bishop/Foster",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "player": "Florian Wirtz",
+      "club": "Liverpool",
+      "entry": "Hasz/Baby",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
         2
       ]
     },
@@ -11303,25 +12274,6 @@
       ]
     },
     {
-      "player": "Dominik Szoboszlai",
-      "club": "Liverpool",
-      "entry": "Hasz/Baby",
-      "current": 1,
-      "history": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
       "player": "Gonzalo García",
       "club": "Fulham",
       "entry": "Bishop/Foster",
@@ -11344,25 +12296,6 @@
       "player": "Morgan Gibbs-White",
       "club": "Nott'm Forest",
       "entry": "Dilks",
-      "current": 1,
-      "history": [
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Víctor Muñoz",
-      "club": "Liverpool",
-      "entry": "Hasz/Baby",
       "current": 1,
       "history": [
         0,
@@ -11645,25 +12578,6 @@
       ]
     },
     {
-      "player": "Justin Kluivert",
-      "club": "Bournemouth",
-      "entry": "Bishop/Foster",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
       "player": "Igor Jesus",
       "club": "Nott'm Forest",
       "entry": "Dilks",
@@ -11684,25 +12598,6 @@
     },
     {
       "player": "Anan Khalaili",
-      "club": "Crystal Palace",
-      "entry": "Brennan",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Jørgen Strand Larsen",
       "club": "Crystal Palace",
       "entry": "Brennan",
       "current": 1,
@@ -12101,25 +12996,6 @@
       ]
     },
     {
-      "player": "Dominic Solanke",
-      "club": "Tottenham",
-      "entry": "Dilks",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
       "player": "Daichi Kamada",
       "club": "Crystal Palace",
       "entry": "Brennan",
@@ -12140,25 +13016,6 @@
     },
     {
       "player": "Jefferson Lerma",
-      "club": "Crystal Palace",
-      "entry": "Brennan",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Yeremy Pino",
       "club": "Crystal Palace",
       "entry": "Brennan",
       "current": 1,
@@ -12351,25 +13208,6 @@
       "player": "Daizen Maeda",
       "club": "Ipswich Town",
       "entry": "Larkin",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Noni Madueke",
-      "club": "Arsenal",
-      "entry": "Dilks",
       "current": 1,
       "history": [
         0,
@@ -12614,44 +13452,6 @@
       ]
     },
     {
-      "player": "Tatsuhiro Sakamoto",
-      "club": "Coventry City",
-      "entry": "Hasz/Baby",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Taiwo Awoniyi",
-      "club": "Coventry City",
-      "entry": "Hasz/Baby",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1
-      ]
-    },
-    {
       "player": "Tim Iroegbunam",
       "club": "Hull City",
       "entry": "Evans/Newell",
@@ -12728,25 +13528,6 @@
       ]
     },
     {
-      "player": "Rodrigo Muniz",
-      "club": "Fulham",
-      "entry": "Bishop/Foster",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1
-      ]
-    },
-    {
       "player": "Jacob Murphy",
       "club": "Newcastle",
       "entry": "Brennan",
@@ -12785,25 +13566,6 @@
       ]
     },
     {
-      "player": "Eddie Nketiah",
-      "club": "Crystal Palace",
-      "entry": "Brennan",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1
-      ]
-    },
-    {
       "player": "Alexis Mac Allister",
       "club": "Liverpool",
       "entry": "Hasz/Baby",
@@ -12823,9 +13585,9 @@
       ]
     },
     {
-      "player": "Florian Wirtz",
-      "club": "Liverpool",
-      "entry": "Hasz/Baby",
+      "player": "Eddie Nketiah",
+      "club": "Crystal Palace",
+      "entry": "Brennan",
       "current": 1,
       "history": [
         0,
@@ -12916,6 +13678,139 @@
         1,
         1
       ]
+    },
+    {
+      "player": "Elliot Anderson",
+      "club": "Man City",
+      "entry": "Larkin",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Emmanuel Emegha",
+      "club": "Chelsea",
+      "entry": "Evans/Newell",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Brenden Aaronson",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Luca Williams-Barnett",
+      "club": "Tottenham",
+      "entry": "Dilks",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Eberechi Eze",
+      "club": "Arsenal",
+      "entry": "Dilks",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Malick Thiaw",
+      "club": "Bournemouth",
+      "entry": "Bishop/Foster",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "player": "Rio Ngumoha",
+      "club": "Liverpool",
+      "entry": "Hasz/Baby",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
     }
   ],
   "goldenGlove": [
@@ -12958,6 +13853,63 @@
       ]
     },
     {
+      "goalkeeper": "Alisson Becker",
+      "club": "Liverpool",
+      "entry": "Hasz/Baby",
+      "current": 5,
+      "history": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "goalkeeper": "Antonín Kinský",
+      "club": "Tottenham",
+      "entry": "Dilks",
+      "current": 5,
+      "history": [
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "goalkeeper": "Konstantinos Tzolakis",
+      "club": "Hull City",
+      "entry": "Evans/Newell",
+      "current": 4,
+      "history": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4
+      ]
+    },
+    {
       "goalkeeper": "Jordan Pickford",
       "club": "Everton",
       "entry": "Bishop/Foster",
@@ -12977,40 +13929,21 @@
       ]
     },
     {
-      "goalkeeper": "Alisson Becker",
-      "club": "Liverpool",
-      "entry": "Hasz/Baby",
+      "goalkeeper": "Djordje Petrovic",
+      "club": "Bournemouth",
+      "entry": "Bishop/Foster",
       "current": 4,
       "history": [
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         1,
         2,
         3,
         3,
-        3,
-        4,
-        4,
-        4,
-        4
-      ]
-    },
-    {
-      "goalkeeper": "Antonín Kinský",
-      "club": "Tottenham",
-      "entry": "Dilks",
-      "current": 4,
-      "history": [
-        0,
-        0,
-        1,
-        2,
-        2,
-        2,
-        2,
-        3,
-        4,
-        4,
         4
       ]
     },
@@ -13034,22 +13967,22 @@
       ]
     },
     {
-      "goalkeeper": "Konstantinos Tzolakis",
-      "club": "Hull City",
-      "entry": "Evans/Newell",
-      "current": 3,
+      "goalkeeper": "Robin Roefs",
+      "club": "Sunderland",
+      "entry": "Bishop/Foster",
+      "current": 4,
       "history": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         2,
+        2,
         3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3
+        4
       ]
     },
     {
@@ -13110,40 +14043,21 @@
       ]
     },
     {
-      "goalkeeper": "Djordje Petrovic",
-      "club": "Bournemouth",
-      "entry": "Bishop/Foster",
+      "goalkeeper": "Zion Suzuki",
+      "club": "Aston Villa",
+      "entry": "Brennan",
       "current": 3,
       "history": [
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        2,
-        3,
-        3,
-        3
-      ]
-    },
-    {
-      "goalkeeper": "Robin Roefs",
-      "club": "Sunderland",
-      "entry": "Bishop/Foster",
-      "current": 3,
-      "history": [
-        0,
-        1,
-        1,
         1,
         1,
         1,
         1,
         2,
         2,
-        3,
+        2,
+        2,
         3
       ]
     },
@@ -13160,25 +14074,6 @@
         1,
         1,
         1,
-        2,
-        2,
-        2,
-        2
-      ]
-    },
-    {
-      "goalkeeper": "Zion Suzuki",
-      "club": "Aston Villa",
-      "entry": "Brennan",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        2,
         2,
         2,
         2,
@@ -22742,12 +23637,12 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": 515,
+          "tablePayout": 525,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
-          "props": 12.5,
+          "props": 162.5,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -22757,15 +23652,15 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 0,
+          "biggestRise": 50,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
-          "biggestUpsetWin": 0,
-          "totalPayout": 538.9,
-          "net": 338.9,
-          "return": 1.6945
+          "biggestUpsetWin": 100,
+          "totalPayout": 698.9,
+          "net": 498.9,
+          "return": 2.4945
         },
         {
           "rank": 2,
@@ -22777,7 +23672,7 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": 330,
+          "tablePayout": 320,
           "luxuryTaxRebate": 11.4,
           "derbies": 50,
           "derbyWinner": 50,
@@ -22798,12 +23693,12 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 403.9,
-          "net": 203.89999999999998,
-          "return": 1.0194999999999999
+          "totalPayout": 393.9,
+          "net": 193.89999999999998,
+          "return": 0.9694999999999999
         },
         {
-          "rank": 3,
+          "rank": 4,
           "entry": "Larkin",
           "clubs": [
             "Man City",
@@ -22813,11 +23708,11 @@
           "luxuryTax": 39,
           "totalCost": 239,
           "tablePayout": 200,
-          "luxuryTaxRebate": 11.4,
+          "luxuryTaxRebate": 0,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
-          "props": 61,
+          "props": -39,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 25,
@@ -22831,14 +23726,14 @@
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
-          "biggestUpsetLoss": 0,
+          "biggestUpsetLoss": -100,
           "biggestUpsetWin": 0,
-          "totalPayout": 297.4,
-          "net": 58.39999999999998,
-          "return": 0.24435146443514635
+          "totalPayout": 186,
+          "net": -53,
+          "return": -0.2217573221757322
         },
         {
-          "rank": 4,
+          "rank": 6,
           "entry": "Bishop/Foster",
           "clubs": [
             "Everton",
@@ -22849,12 +23744,12 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": 40,
+          "tablePayout": 75,
           "luxuryTaxRebate": 22.8,
           "derbies": -25,
           "derbyWinner": 0,
           "derbyLoser": -25,
-          "props": 200,
+          "props": 0,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -22864,18 +23759,18 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 100,
+          "biggestRise": 0,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
-          "biggestUpsetWin": 100,
-          "totalPayout": 237.8,
-          "net": 37.80000000000001,
-          "return": 0.18900000000000006
+          "biggestUpsetWin": 0,
+          "totalPayout": 72.80000000000001,
+          "net": -127.19999999999999,
+          "return": -0.6359999999999999
         },
         {
-          "rank": 5,
+          "rank": 3,
           "entry": "Hasz/Baby",
           "clubs": [
             "Liverpool",
@@ -22885,7 +23780,7 @@
           "luxuryTax": 22,
           "totalCost": 222,
           "tablePayout": 150,
-          "luxuryTaxRebate": 0,
+          "luxuryTaxRebate": 11.4,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
@@ -22905,12 +23800,12 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 211,
-          "net": -11,
-          "return": -0.04954954954954955
+          "totalPayout": 222.4,
+          "net": 0.4000000000000057,
+          "return": 0.0018018018018018274
         },
         {
-          "rank": 6,
+          "rank": 5,
           "entry": "Evans/Newell",
           "clubs": [
             "Chelsea",
@@ -22919,12 +23814,12 @@
           "buyIn": 200,
           "luxuryTax": 53,
           "totalCost": 253,
-          "tablePayout": 65,
+          "tablePayout": 45,
           "luxuryTaxRebate": 22.8,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
-          "props": -2,
+          "props": 98,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -22938,14 +23833,14 @@
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
-          "biggestUpsetLoss": -100,
+          "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 85.80000000000001,
-          "net": -167.2,
-          "return": -0.6608695652173913
+          "totalPayout": 165.8,
+          "net": -87.19999999999999,
+          "return": -0.3446640316205533
         },
         {
-          "rank": 7,
+          "rank": 8,
           "entry": "Brennan",
           "clubs": [
             "Aston Villa",
@@ -22955,7 +23850,7 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": -45,
+          "tablePayout": -60,
           "luxuryTaxRebate": 22.8,
           "derbies": -50,
           "derbyWinner": 0,
@@ -22976,12 +23871,12 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -72.2,
-          "net": -272.2,
-          "return": -1.361
+          "totalPayout": -87.2,
+          "net": -287.2,
+          "return": -1.436
         },
         {
-          "rank": 8,
+          "rank": 7,
           "entry": "Nelson",
           "clubs": [
             "Man United",
@@ -22995,7 +23890,7 @@
           "derbies": -25,
           "derbyWinner": 0,
           "derbyLoser": -25,
-          "props": -75,
+          "props": -25,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -23005,15 +23900,15 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 0,
+          "biggestRise": 50,
           "biggestFall": -100,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -88.6,
-          "net": -288.6,
-          "return": -1.443
+          "totalPayout": -38.599999999999994,
+          "net": -238.6,
+          "return": -1.193
         }
       ],
       "clubs": [
@@ -23093,7 +23988,7 @@
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
-          "props": 25,
+          "props": -75,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 25,
@@ -23107,11 +24002,11 @@
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
-          "biggestUpsetLoss": 0,
+          "biggestUpsetLoss": -100,
           "biggestUpsetWin": 0,
-          "totalPayout": 250,
-          "net": 79,
-          "return": 0.4619883040935672
+          "totalPayout": 150,
+          "net": -21,
+          "return": -0.12280701754385964
         },
         {
           "place": 4,
@@ -23146,18 +24041,18 @@
           "return": 0.041666666666666664
         },
         {
-          "place": 5,
+          "place": 8,
           "entry": "Evans/Newell",
           "club": "Chelsea",
           "bid": 139,
           "luxuryTax": 53,
           "totalCost": 192,
-          "tablePayout": 60,
+          "tablePayout": 30,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
-          "props": -100,
+          "props": 0,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -23171,51 +24066,19 @@
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
-          "biggestUpsetLoss": -100,
+          "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -28.599999999999994,
-          "net": -220.6,
-          "return": -1.1489583333333333
+          "totalPayout": 41.4,
+          "net": -150.6,
+          "return": -0.7843749999999999
         },
         {
-          "place": 6,
+          "place": 7,
           "entry": "Bishop/Foster",
           "club": "Everton",
           "bid": 41,
           "luxuryTax": 0,
           "totalCost": 41,
-          "tablePayout": 50,
-          "luxuryTaxRebate": 11.4,
-          "derbies": 0,
-          "derbyWinner": 0,
-          "derbyLoser": 0,
-          "props": 100,
-          "faCup": 0,
-          "eflCup": 0,
-          "goldenBoot": 0,
-          "goldenGlove": 0,
-          "firstSacked": 0,
-          "bestPromoted": 0,
-          "survivalPool": 0,
-          "brexitPenalty": 0,
-          "brexitReward": 0,
-          "biggestRise": 100,
-          "biggestFall": 0,
-          "secondHalfSurge": 0,
-          "secondHalfCollapse": 0,
-          "biggestUpsetLoss": 0,
-          "biggestUpsetWin": 0,
-          "totalPayout": 161.4,
-          "net": 120.4,
-          "return": 2.9365853658536585
-        },
-        {
-          "place": 7,
-          "entry": "Bishop/Foster",
-          "club": "Bournemouth",
-          "bid": 35,
-          "luxuryTax": 0,
-          "totalCost": 35,
           "tablePayout": 40,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
@@ -23238,17 +24101,49 @@
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
           "totalPayout": 51.4,
-          "net": 16.4,
-          "return": 0.4685714285714285
+          "net": 10.399999999999999,
+          "return": 0.2536585365853658
         },
         {
-          "place": 8,
+          "place": 5,
+          "entry": "Bishop/Foster",
+          "club": "Bournemouth",
+          "bid": 35,
+          "luxuryTax": 0,
+          "totalCost": 35,
+          "tablePayout": 60,
+          "luxuryTaxRebate": 11.4,
+          "derbies": 0,
+          "derbyWinner": 0,
+          "derbyLoser": 0,
+          "props": 0,
+          "faCup": 0,
+          "eflCup": 0,
+          "goldenBoot": 0,
+          "goldenGlove": 0,
+          "firstSacked": 0,
+          "bestPromoted": 0,
+          "survivalPool": 0,
+          "brexitPenalty": 0,
+          "brexitReward": 0,
+          "biggestRise": 0,
+          "biggestFall": 0,
+          "secondHalfSurge": 0,
+          "secondHalfCollapse": 0,
+          "biggestUpsetLoss": 0,
+          "biggestUpsetWin": 0,
+          "totalPayout": 71.4,
+          "net": 36.400000000000006,
+          "return": 1.0400000000000003
+        },
+        {
+          "place": 10,
           "entry": "Machel/Machel",
           "club": "Brentford",
           "bid": 80,
           "luxuryTax": 0,
           "totalCost": 80,
-          "tablePayout": 30,
+          "tablePayout": 20,
           "luxuryTaxRebate": 11.4,
           "derbies": 25,
           "derbyWinner": 25,
@@ -23269,23 +24164,23 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 66.4,
-          "net": -13.599999999999994,
-          "return": -0.16999999999999993
+          "totalPayout": 56.4,
+          "net": -23.6,
+          "return": -0.29500000000000004
         },
         {
-          "place": 9,
+          "place": 6,
           "entry": "Nelson",
           "club": "Leeds United",
           "bid": 51,
           "luxuryTax": 0,
           "totalCost": 51,
-          "tablePayout": 25,
+          "tablePayout": 50,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
           "derbyLoser": 0,
-          "props": 0,
+          "props": 50,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -23295,24 +24190,24 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 0,
+          "biggestRise": 50,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 36.4,
-          "net": -14.600000000000001,
-          "return": -0.2862745098039216
+          "totalPayout": 111.4,
+          "net": 60.400000000000006,
+          "return": 1.184313725490196
         },
         {
-          "place": 10,
+          "place": 12,
           "entry": "Brennan",
           "club": "Aston Villa",
           "bid": 100,
           "luxuryTax": 0,
           "totalCost": 100,
-          "tablePayout": 20,
+          "tablePayout": 10,
           "luxuryTaxRebate": 11.4,
           "derbies": -25,
           "derbyWinner": 0,
@@ -23333,23 +24228,23 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 6.399999999999999,
-          "net": -93.6,
-          "return": -0.9359999999999999
+          "totalPayout": -3.6000000000000014,
+          "net": -103.6,
+          "return": -1.036
         },
         {
-          "place": 11,
+          "place": 9,
           "entry": "Dilks",
           "club": "Tottenham",
           "bid": 67,
           "luxuryTax": 0,
           "totalCost": 67,
-          "tablePayout": 15,
+          "tablePayout": 25,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
           "derbyLoser": 0,
-          "props": 0,
+          "props": 50,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -23359,24 +24254,24 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 0,
+          "biggestRise": 50,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 26.4,
-          "net": -40.6,
-          "return": -0.6059701492537314
+          "totalPayout": 86.4,
+          "net": 19.400000000000006,
+          "return": 0.28955223880597025
         },
         {
-          "place": 12,
+          "place": 13,
           "entry": "Brennan",
           "club": "Newcastle",
           "bid": 45,
           "luxuryTax": 0,
           "totalCost": 45,
-          "tablePayout": 10,
+          "tablePayout": 5,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
@@ -23397,18 +24292,18 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 21.4,
-          "net": -23.6,
-          "return": -0.5244444444444445
+          "totalPayout": 16.4,
+          "net": -28.6,
+          "return": -0.6355555555555555
         },
         {
-          "place": 13,
+          "place": 11,
           "entry": "Evans/Newell",
           "club": "Hull City",
           "bid": 14,
           "luxuryTax": 0,
           "totalCost": 14,
-          "tablePayout": 5,
+          "tablePayout": 15,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
@@ -23429,19 +24324,19 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 114.4,
-          "net": 100.4,
-          "return": 7.171428571428572
+          "totalPayout": 124.4,
+          "net": 110.4,
+          "return": 7.885714285714286
         },
         {
-          "place": 14,
+          "place": 16,
           "entry": "Larkin",
           "club": "Ipswich Town",
           "bid": 40,
           "luxuryTax": 0,
           "totalCost": 40,
           "tablePayout": 0,
-          "luxuryTaxRebate": 11.4,
+          "luxuryTaxRebate": 0,
           "derbies": 0,
           "derbyWinner": 0,
           "derbyLoser": 0,
@@ -23461,9 +24356,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 47.4,
-          "net": 7.399999999999999,
-          "return": 0.18499999999999997
+          "totalPayout": 36,
+          "net": -4,
+          "return": -0.1
         },
         {
           "place": 15,
@@ -23498,7 +24393,7 @@
           "return": -1.9259259259259258
         },
         {
-          "place": 16,
+          "place": 17,
           "entry": "Dilks",
           "club": "Nott'm Forest",
           "bid": 66,
@@ -23509,7 +24404,7 @@
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
-          "props": 0,
+          "props": 100,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -23524,20 +24419,20 @@
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
-          "biggestUpsetWin": 0,
-          "totalPayout": 0,
-          "net": -66,
-          "return": -1
+          "biggestUpsetWin": 100,
+          "totalPayout": 100,
+          "net": 34,
+          "return": 0.5151515151515151
         },
         {
-          "place": 17,
+          "place": 14,
           "entry": "Hasz/Baby",
           "club": "Coventry City",
           "bid": 12,
           "luxuryTax": 0,
           "totalCost": 12,
           "tablePayout": 0,
-          "luxuryTaxRebate": 0,
+          "luxuryTaxRebate": 11.4,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
@@ -23557,18 +24452,18 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 61,
-          "net": 49,
-          "return": 4.083333333333333
+          "totalPayout": 72.4,
+          "net": 60.400000000000006,
+          "return": 5.033333333333334
         },
         {
-          "place": 18,
+          "place": 19,
           "entry": "Nelson",
           "club": "Man United",
           "bid": 99,
           "luxuryTax": 0,
           "totalCost": 99,
-          "tablePayout": -25,
+          "tablePayout": -50,
           "luxuryTaxRebate": 0,
           "derbies": -25,
           "derbyWinner": 0,
@@ -23589,23 +24484,23 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -125,
-          "net": -224,
-          "return": -2.2626262626262625
+          "totalPayout": -150,
+          "net": -249,
+          "return": -2.515151515151515
         },
         {
-          "place": 19,
+          "place": 18,
           "entry": "Bishop/Foster",
           "club": "Sunderland",
           "bid": 41,
           "luxuryTax": 0,
           "totalCost": 41,
-          "tablePayout": -50,
+          "tablePayout": -25,
           "luxuryTaxRebate": 0,
           "derbies": 0,
           "derbyWinner": 0,
           "derbyLoser": 0,
-          "props": 100,
+          "props": 0,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -23620,10 +24515,10 @@
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
-          "biggestUpsetWin": 100,
-          "totalPayout": 50,
-          "net": 9,
-          "return": 0.21951219512195122
+          "biggestUpsetWin": 0,
+          "totalPayout": -25,
+          "net": -66,
+          "return": -1.6097560975609757
         },
         {
           "place": 20,
@@ -28323,24 +29218,24 @@
     "11": {
       "upsets": [
         {
-          "winner": "Sunderland",
-          "loser": "Chelsea",
-          "venue": "Home",
-          "score": "1 - 0",
-          "matchweek": 10,
-          "winnerPlace": 19,
-          "loserPlace": 5,
-          "gap": 14
-        },
-        {
           "winner": "Nott'm Forest",
           "loser": "Man City",
           "venue": "Home",
           "score": "3 - 1",
           "matchweek": 10,
-          "winnerPlace": 16,
+          "winnerPlace": 17,
           "loserPlace": 3,
-          "gap": 13
+          "gap": 14
+        },
+        {
+          "winner": "Sunderland",
+          "loser": "Chelsea",
+          "venue": "Home",
+          "score": "1 - 0",
+          "matchweek": 10,
+          "winnerPlace": 18,
+          "loserPlace": 8,
+          "gap": 10
         },
         {
           "winner": "Aston Villa",
@@ -28348,28 +29243,28 @@
           "venue": "Home",
           "score": "2 - 1",
           "matchweek": 8,
-          "winnerPlace": 10,
+          "winnerPlace": 12,
           "loserPlace": 3,
-          "gap": 7
+          "gap": 9
         },
         {
-          "winner": "Nott'm Forest",
-          "loser": "Aston Villa",
-          "venue": "Away",
-          "score": "1 - 2",
-          "matchweek": 4,
-          "winnerPlace": 16,
-          "loserPlace": 10,
-          "gap": 6
-        },
-        {
-          "winner": "Tottenham",
-          "loser": "Chelsea",
-          "venue": "Away",
-          "score": "0 - 2",
-          "matchweek": 8,
+          "winner": "Hull City",
+          "loser": "Brighton",
+          "venue": "Home",
+          "score": "2 - 0",
+          "matchweek": 11,
           "winnerPlace": 11,
-          "loserPlace": 5,
+          "loserPlace": 2,
+          "gap": 9
+        },
+        {
+          "winner": "Chelsea",
+          "loser": "Brighton",
+          "venue": "Home",
+          "score": "4 - 3",
+          "matchweek": 2,
+          "winnerPlace": 8,
+          "loserPlace": 2,
           "gap": 6
         },
         {
@@ -28383,64 +29278,24 @@
           "gap": 5
         },
         {
-          "winner": "Coventry City",
-          "loser": "Newcastle",
-          "venue": "Home",
-          "score": "4 - 1",
-          "matchweek": 6,
+          "winner": "Nott'm Forest",
+          "loser": "Aston Villa",
+          "venue": "Away",
+          "score": "1 - 2",
+          "matchweek": 4,
           "winnerPlace": 17,
           "loserPlace": 12,
           "gap": 5
         },
         {
-          "winner": "Sunderland",
-          "loser": "Fulham",
-          "venue": "Home",
-          "score": "1 - 0",
+          "winner": "Newcastle",
+          "loser": "Tottenham",
+          "venue": "Away",
+          "score": "0 - 2",
           "matchweek": 2,
-          "winnerPlace": 19,
-          "loserPlace": 15,
+          "winnerPlace": 13,
+          "loserPlace": 9,
           "gap": 4
-        },
-        {
-          "winner": "Man United",
-          "loser": "Ipswich Town",
-          "venue": "Home",
-          "score": "5 - 2",
-          "matchweek": 2,
-          "winnerPlace": 18,
-          "loserPlace": 14,
-          "gap": 4
-        },
-        {
-          "winner": "Crystal Palace",
-          "loser": "Nott'm Forest",
-          "venue": "Home",
-          "score": "3 - 1",
-          "matchweek": 6,
-          "winnerPlace": 20,
-          "loserPlace": 16,
-          "gap": 4
-        },
-        {
-          "winner": "Chelsea",
-          "loser": "Brighton",
-          "venue": "Home",
-          "score": "4 - 3",
-          "matchweek": 2,
-          "winnerPlace": 5,
-          "loserPlace": 2,
-          "gap": 3
-        },
-        {
-          "winner": "Brentford",
-          "loser": "Chelsea",
-          "venue": "Home",
-          "score": "3 - 0",
-          "matchweek": 5,
-          "winnerPlace": 8,
-          "loserPlace": 5,
-          "gap": 3
         },
         {
           "winner": "Fulham",
@@ -28449,7 +29304,77 @@
           "score": "1 - 0",
           "matchweek": 7,
           "winnerPlace": 15,
-          "loserPlace": 13,
+          "loserPlace": 11,
+          "gap": 4
+        },
+        {
+          "winner": "Sunderland",
+          "loser": "Fulham",
+          "venue": "Home",
+          "score": "1 - 0",
+          "matchweek": 2,
+          "winnerPlace": 18,
+          "loserPlace": 15,
+          "gap": 3
+        },
+        {
+          "winner": "Man United",
+          "loser": "Ipswich Town",
+          "venue": "Home",
+          "score": "5 - 2",
+          "matchweek": 2,
+          "winnerPlace": 19,
+          "loserPlace": 16,
+          "gap": 3
+        },
+        {
+          "winner": "Aston Villa",
+          "loser": "Tottenham",
+          "venue": "Away",
+          "score": "2 - 3",
+          "matchweek": 5,
+          "winnerPlace": 12,
+          "loserPlace": 9,
+          "gap": 3
+        },
+        {
+          "winner": "Chelsea",
+          "loser": "Bournemouth",
+          "venue": "Home",
+          "score": "5 - 1",
+          "matchweek": 6,
+          "winnerPlace": 8,
+          "loserPlace": 5,
+          "gap": 3
+        },
+        {
+          "winner": "Crystal Palace",
+          "loser": "Nott'm Forest",
+          "venue": "Home",
+          "score": "3 - 1",
+          "matchweek": 6,
+          "winnerPlace": 20,
+          "loserPlace": 17,
+          "gap": 3
+        },
+        {
+          "winner": "Brentford",
+          "loser": "Chelsea",
+          "venue": "Home",
+          "score": "3 - 0",
+          "matchweek": 5,
+          "winnerPlace": 10,
+          "loserPlace": 8,
+          "gap": 2
+        },
+        {
+          "winner": "Newcastle",
+          "loser": "Hull City",
+          "venue": "Home",
+          "score": "2 - 1",
+          "matchweek": 5,
+          "winnerPlace": 13,
+          "loserPlace": 11,
           "gap": 2
         },
         {
@@ -28463,13 +29388,13 @@
           "gap": 2
         },
         {
-          "winner": "Newcastle",
+          "winner": "Brentford",
           "loser": "Tottenham",
-          "venue": "Away",
-          "score": "0 - 2",
-          "matchweek": 2,
-          "winnerPlace": 12,
-          "loserPlace": 11,
+          "venue": "Home",
+          "score": "3 - 0",
+          "matchweek": 1,
+          "winnerPlace": 10,
+          "loserPlace": 9,
           "gap": 1
         },
         {
@@ -28483,22 +29408,68 @@
           "gap": 1
         },
         {
+          "winner": "Ipswich Town",
+          "loser": "Fulham",
+          "venue": "Home",
+          "score": "2 - 1",
+          "matchweek": 6,
+          "winnerPlace": 16,
+          "loserPlace": 15,
+          "gap": 1
+        },
+        {
           "winner": "Coventry City",
-          "loser": "Nott'm Forest",
+          "loser": "Newcastle",
+          "venue": "Home",
+          "score": "4 - 1",
+          "matchweek": 6,
+          "winnerPlace": 14,
+          "loserPlace": 13,
+          "gap": 1
+        },
+        {
+          "winner": "Chelsea",
+          "loser": "Everton",
+          "venue": "Away",
+          "score": "0 - 2",
+          "matchweek": 7,
+          "winnerPlace": 8,
+          "loserPlace": 7,
+          "gap": 1
+        },
+        {
+          "winner": "Fulham",
+          "loser": "Coventry City",
           "venue": "Away",
           "score": "0 - 1",
-          "matchweek": 5,
-          "winnerPlace": 17,
-          "loserPlace": 16,
+          "matchweek": 8,
+          "winnerPlace": 15,
+          "loserPlace": 14,
+          "gap": 1
+        },
+        {
+          "winner": "Tottenham",
+          "loser": "Chelsea",
+          "venue": "Away",
+          "score": "0 - 2",
+          "matchweek": 8,
+          "winnerPlace": 9,
+          "loserPlace": 8,
           "gap": 1
         }
       ],
       "riseFall": [
         {
-          "club": "Everton",
+          "club": "Leeds United",
           "place": 6,
-          "lastSeasonPlace": 13,
-          "change": 7
+          "lastSeasonPlace": 14,
+          "change": 8
+        },
+        {
+          "club": "Tottenham",
+          "place": 9,
+          "lastSeasonPlace": 17,
+          "change": 8
         },
         {
           "club": "Brighton",
@@ -28507,27 +29478,21 @@
           "change": 6
         },
         {
-          "club": "Tottenham",
-          "place": 11,
-          "lastSeasonPlace": 17,
+          "club": "Everton",
+          "place": 7,
+          "lastSeasonPlace": 13,
           "change": 6
         },
         {
           "club": "Chelsea",
-          "place": 5,
-          "lastSeasonPlace": 10,
-          "change": 5
-        },
-        {
-          "club": "Leeds United",
-          "place": 9,
-          "lastSeasonPlace": 14,
-          "change": 5
-        },
-        {
-          "club": "Brentford",
           "place": 8,
-          "lastSeasonPlace": 9,
+          "lastSeasonPlace": 10,
+          "change": 2
+        },
+        {
+          "club": "Bournemouth",
+          "place": 5,
+          "lastSeasonPlace": 6,
           "change": 1
         },
         {
@@ -28544,44 +29509,44 @@
         },
         {
           "club": "Coventry City",
-          "place": 17,
-          "lastSeasonPlace": "Promoted",
-          "change": 0
-        },
-        {
-          "club": "Hull City",
-          "place": 13,
-          "lastSeasonPlace": "Promoted",
-          "change": 0
-        },
-        {
-          "club": "Ipswich Town",
           "place": 14,
           "lastSeasonPlace": "Promoted",
           "change": 0
         },
         {
-          "club": "Newcastle",
-          "place": 12,
-          "lastSeasonPlace": 12,
+          "club": "Hull City",
+          "place": 11,
+          "lastSeasonPlace": "Promoted",
           "change": 0
         },
         {
-          "club": "Nott'm Forest",
+          "club": "Ipswich Town",
           "place": 16,
-          "lastSeasonPlace": 16,
+          "lastSeasonPlace": "Promoted",
           "change": 0
         },
         {
-          "club": "Bournemouth",
-          "place": 7,
-          "lastSeasonPlace": 6,
+          "club": "Brentford",
+          "place": 10,
+          "lastSeasonPlace": 9,
           "change": -1
         },
         {
           "club": "Man City",
           "place": 3,
           "lastSeasonPlace": 2,
+          "change": -1
+        },
+        {
+          "club": "Newcastle",
+          "place": 13,
+          "lastSeasonPlace": 12,
+          "change": -1
+        },
+        {
+          "club": "Nott'm Forest",
+          "place": 17,
+          "lastSeasonPlace": 16,
           "change": -1
         },
         {
@@ -28598,29 +29563,29 @@
         },
         {
           "club": "Aston Villa",
-          "place": 10,
+          "place": 12,
           "lastSeasonPlace": 4,
-          "change": -6
+          "change": -8
         },
         {
           "club": "Sunderland",
-          "place": 19,
+          "place": 18,
           "lastSeasonPlace": 7,
-          "change": -12
+          "change": -11
         },
         {
           "club": "Man United",
-          "place": 18,
+          "place": 19,
           "lastSeasonPlace": 3,
-          "change": -15
+          "change": -16
         }
       ],
       "surgeCollapse": [
         {
           "club": "Arsenal",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 27,
-          "firstHalfPPM": 2.7,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 28,
+          "firstHalfPPM": 2.5454545454545454,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28629,9 +29594,9 @@
         },
         {
           "club": "Aston Villa",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 13,
-          "firstHalfPPM": 1.3,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 14,
+          "firstHalfPPM": 1.2727272727272727,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28640,9 +29605,9 @@
         },
         {
           "club": "Bournemouth",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 15,
-          "firstHalfPPM": 1.5,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 18,
+          "firstHalfPPM": 1.6363636363636365,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28662,9 +29627,9 @@
         },
         {
           "club": "Brighton",
-          "firstHalfPlayed": 10,
+          "firstHalfPlayed": 11,
           "firstHalfPoints": 22,
-          "firstHalfPPM": 2.2,
+          "firstHalfPPM": 2,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28673,9 +29638,9 @@
         },
         {
           "club": "Chelsea",
-          "firstHalfPlayed": 10,
+          "firstHalfPlayed": 11,
           "firstHalfPoints": 16,
-          "firstHalfPPM": 1.6,
+          "firstHalfPPM": 1.4545454545454546,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28684,9 +29649,9 @@
         },
         {
           "club": "Coventry City",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 9,
-          "firstHalfPPM": 0.9,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 12,
+          "firstHalfPPM": 1.0909090909090908,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28695,9 +29660,9 @@
         },
         {
           "club": "Crystal Palace",
-          "firstHalfPlayed": 10,
+          "firstHalfPlayed": 11,
           "firstHalfPoints": 7,
-          "firstHalfPPM": 0.7,
+          "firstHalfPPM": 0.6363636363636364,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28717,8 +29682,8 @@
         },
         {
           "club": "Fulham",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 10,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 11,
           "firstHalfPPM": 1,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
@@ -28728,9 +29693,9 @@
         },
         {
           "club": "Hull City",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 11,
-          "firstHalfPPM": 1.1,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 14,
+          "firstHalfPPM": 1.2727272727272727,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28739,9 +29704,9 @@
         },
         {
           "club": "Ipswich Town",
-          "firstHalfPlayed": 10,
+          "firstHalfPlayed": 11,
           "firstHalfPoints": 11,
-          "firstHalfPPM": 1.1,
+          "firstHalfPPM": 1,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28750,9 +29715,9 @@
         },
         {
           "club": "Leeds United",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 14,
-          "firstHalfPPM": 1.4,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 17,
+          "firstHalfPPM": 1.5454545454545454,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28761,9 +29726,9 @@
         },
         {
           "club": "Liverpool",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 18,
-          "firstHalfPPM": 1.8,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 21,
+          "firstHalfPPM": 1.9090909090909092,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28772,9 +29737,9 @@
         },
         {
           "club": "Man City",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 21,
-          "firstHalfPPM": 2.1,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 22,
+          "firstHalfPPM": 2,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28783,9 +29748,9 @@
         },
         {
           "club": "Man United",
-          "firstHalfPlayed": 10,
+          "firstHalfPlayed": 11,
           "firstHalfPoints": 8,
-          "firstHalfPPM": 0.8,
+          "firstHalfPPM": 0.7272727272727273,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28794,9 +29759,9 @@
         },
         {
           "club": "Newcastle",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 12,
-          "firstHalfPPM": 1.2,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 13,
+          "firstHalfPPM": 1.1818181818181819,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28805,9 +29770,9 @@
         },
         {
           "club": "Nott'm Forest",
-          "firstHalfPlayed": 10,
+          "firstHalfPlayed": 11,
           "firstHalfPoints": 9,
-          "firstHalfPPM": 0.9,
+          "firstHalfPPM": 0.8181818181818182,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28816,9 +29781,9 @@
         },
         {
           "club": "Sunderland",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 8,
-          "firstHalfPPM": 0.8,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 9,
+          "firstHalfPPM": 0.8181818181818182,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28827,9 +29792,9 @@
         },
         {
           "club": "Tottenham",
-          "firstHalfPlayed": 10,
-          "firstHalfPoints": 12,
-          "firstHalfPPM": 1.2,
+          "firstHalfPlayed": 11,
+          "firstHalfPoints": 15,
+          "firstHalfPPM": 1.3636363636363635,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -28841,46 +29806,46 @@
         {
           "club": "Hull City",
           "entry": "Evans/Newell",
-          "place": 13,
-          "played": 10,
-          "wins": 2,
+          "place": 11,
+          "played": 11,
+          "wins": 3,
           "draws": 5,
           "losses": 3,
-          "goalsFor": 11,
+          "goalsFor": 13,
           "goalsAgainst": 11,
-          "goalDifference": 0,
-          "points": 11,
+          "goalDifference": 2,
+          "points": 14,
+          "pointsVsRelegation": 5,
+          "status": "Safe"
+        },
+        {
+          "club": "Coventry City",
+          "entry": "Hasz/Baby",
+          "place": 14,
+          "played": 11,
+          "wins": 4,
+          "draws": 0,
+          "losses": 7,
+          "goalsFor": 13,
+          "goalsAgainst": 21,
+          "goalDifference": -8,
+          "points": 12,
           "pointsVsRelegation": 3,
           "status": "Safe"
         },
         {
           "club": "Ipswich Town",
           "entry": "Larkin",
-          "place": 14,
-          "played": 10,
+          "place": 16,
+          "played": 11,
           "wins": 3,
           "draws": 2,
-          "losses": 5,
+          "losses": 6,
           "goalsFor": 15,
-          "goalsAgainst": 20,
-          "goalDifference": -5,
+          "goalsAgainst": 22,
+          "goalDifference": -7,
           "points": 11,
-          "pointsVsRelegation": 3,
-          "status": "Safe"
-        },
-        {
-          "club": "Coventry City",
-          "entry": "Hasz/Baby",
-          "place": 17,
-          "played": 10,
-          "wins": 3,
-          "draws": 0,
-          "losses": 7,
-          "goalsFor": 10,
-          "goalsAgainst": 19,
-          "goalDifference": -9,
-          "points": 9,
-          "pointsVsRelegation": 1,
+          "pointsVsRelegation": 2,
           "status": "Safe"
         }
       ]
