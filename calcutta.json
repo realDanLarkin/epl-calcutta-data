@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 11,
-    "status": "In Progress - 7 complete, 2 in progress, 1 not started",
-    "generatedAt": "2026-11-22T11:24:03-08:00",
+    "status": "In Progress - 9 complete, 0 in progress, 1 not started",
+    "generatedAt": "2026-11-22T12:07:33-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1198,7 +1198,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 2,
@@ -1219,7 +1221,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 3,
@@ -1240,7 +1244,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 4,
@@ -1261,7 +1267,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Kjell Scherpen",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 5,
@@ -1282,7 +1290,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 6,
@@ -1303,7 +1313,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 7,
@@ -1324,7 +1336,9 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "Marco Bizot"
+      "awayGoalkeeper": "Marco Bizot",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 8,
@@ -1345,7 +1359,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 9,
@@ -1366,7 +1382,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 10,
@@ -1387,7 +1405,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Robert Sanchez"
+      "awayGoalkeeper": "Robert Sanchez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 15,
@@ -1408,7 +1428,9 @@
       "homeGoals": 1,
       "awayGoals": 4,
       "homeGoalkeeper": "Dean Henderson",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 17,
@@ -1429,7 +1451,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 11,
@@ -1450,7 +1474,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 14,
@@ -1471,7 +1497,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 20,
@@ -1492,7 +1520,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 13,
@@ -1513,7 +1543,9 @@
       "homeGoals": 4,
       "awayGoals": 3,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 16,
@@ -1534,7 +1566,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 19,
@@ -1555,7 +1589,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 18,
@@ -1576,7 +1612,9 @@
       "homeGoals": 5,
       "awayGoals": 2,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Kjell Scherpen"
+      "awayGoalkeeper": "Kjell Scherpen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 12,
@@ -1597,7 +1635,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 27,
@@ -1618,7 +1658,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Kjell Scherpen",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 29,
@@ -1639,7 +1681,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 22,
@@ -1660,7 +1704,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 23,
@@ -1681,7 +1727,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 25,
@@ -1702,7 +1750,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 28,
@@ -1723,7 +1773,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 30,
@@ -1744,7 +1796,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 26,
@@ -1765,7 +1819,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 24,
@@ -1786,7 +1842,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 21,
@@ -1807,7 +1865,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Emiliano Martínez"
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 31,
@@ -1828,7 +1888,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 32,
@@ -1849,7 +1911,9 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 33,
@@ -1870,7 +1934,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 35,
@@ -1891,7 +1957,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Walter Benítez",
-      "awayGoalkeeper": "Kjell Scherpen"
+      "awayGoalkeeper": "Kjell Scherpen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 37,
@@ -1912,7 +1980,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 40,
@@ -1933,7 +2003,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 39,
@@ -1954,7 +2026,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 34,
@@ -1975,7 +2049,9 @@
       "homeGoals": 0,
       "awayGoals": 5,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 38,
@@ -1996,7 +2072,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 36,
@@ -2017,7 +2095,9 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 42,
@@ -2038,7 +2118,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Emiliano Martínez"
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 50,
@@ -2059,7 +2141,9 @@
       "homeGoals": 2,
       "awayGoals": 3,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 43,
@@ -2080,7 +2164,9 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 44,
@@ -2101,7 +2187,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 48,
@@ -2122,7 +2210,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 49,
@@ -2143,7 +2233,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 41,
@@ -2164,7 +2256,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 46,
@@ -2185,7 +2279,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Walter Benítez"
+      "awayGoalkeeper": "Walter Benítez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 47,
@@ -2206,7 +2302,9 @@
       "homeGoals": 5,
       "awayGoals": 3,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 45,
@@ -2227,7 +2325,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 51,
@@ -2248,7 +2348,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 52,
@@ -2269,7 +2371,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 53,
@@ -2290,7 +2394,9 @@
       "homeGoals": 5,
       "awayGoals": 1,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 57,
@@ -2311,7 +2417,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Christian Walton",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 60,
@@ -2332,7 +2440,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 59,
@@ -2353,7 +2463,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 55,
@@ -2374,7 +2486,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Walter Benítez",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 56,
@@ -2395,7 +2509,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 58,
@@ -2416,7 +2532,9 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 54,
@@ -2437,7 +2555,9 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 64,
@@ -2458,7 +2578,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Emiliano Martínez"
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 62,
@@ -2479,7 +2601,9 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 65,
@@ -2500,7 +2624,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 67,
@@ -2521,7 +2647,9 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 68,
@@ -2542,7 +2670,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 61,
@@ -2563,7 +2693,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 63,
@@ -2584,7 +2716,9 @@
       "homeGoals": 5,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "Walter Benítez"
+      "awayGoalkeeper": "Walter Benítez",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 66,
@@ -2605,7 +2739,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 69,
@@ -2626,7 +2762,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 70,
@@ -2647,7 +2785,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 77,
@@ -2668,7 +2808,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Christian Walton",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 72,
@@ -2689,7 +2831,9 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 71,
@@ -2710,7 +2854,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 74,
@@ -2731,7 +2877,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 73,
@@ -2752,7 +2900,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Mike Penders",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 75,
@@ -2773,7 +2923,9 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "homeGoalkeeper": "Walter Benítez",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 76,
@@ -2794,7 +2946,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 78,
@@ -2815,7 +2969,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 79,
@@ -2836,7 +2992,9 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 80,
@@ -2857,7 +3015,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 84,
@@ -2878,7 +3038,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Mike Penders",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 81,
@@ -2899,7 +3061,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 83,
@@ -2920,7 +3084,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 85,
@@ -2941,7 +3107,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 86,
@@ -2962,7 +3130,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 88,
@@ -2983,7 +3153,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 90,
@@ -3004,7 +3176,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 82,
@@ -3025,7 +3199,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 87,
@@ -3046,7 +3222,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 89,
@@ -3067,7 +3245,9 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "Jordan Pickford"
+      "awayGoalkeeper": "Jordan Pickford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 94,
@@ -3088,7 +3268,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Jordan Pickford",
-      "awayGoalkeeper": "Carl Rushworth"
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 97,
@@ -3109,7 +3291,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
-      "awayGoalkeeper": "Antonín Kinský"
+      "awayGoalkeeper": "Antonín Kinský",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 91,
@@ -3130,7 +3314,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "David Raya",
-      "awayGoalkeeper": "Konstantinos Tzolakis"
+      "awayGoalkeeper": "Konstantinos Tzolakis",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 95,
@@ -3151,7 +3337,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Bernd Leno",
-      "awayGoalkeeper": "Lukas Hornícek"
+      "awayGoalkeeper": "Lukas Hornícek",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 99,
@@ -3172,7 +3360,9 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "homeGoalkeeper": "Matz Sels",
-      "awayGoalkeeper": "Gianluigi Donnarumma"
+      "awayGoalkeeper": "Gianluigi Donnarumma",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 92,
@@ -3193,7 +3383,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Bart Verbruggen",
-      "awayGoalkeeper": "Caoimhin Kelleher"
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 93,
@@ -3214,7 +3406,9 @@
       "homeGoals": 1,
       "awayGoals": 3,
       "homeGoalkeeper": "Dean Henderson",
-      "awayGoalkeeper": "Alisson Becker"
+      "awayGoalkeeper": "Alisson Becker",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 96,
@@ -3235,7 +3429,9 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "homeGoalkeeper": "Christian Walton",
-      "awayGoalkeeper": "Djordje Petrovic"
+      "awayGoalkeeper": "Djordje Petrovic",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 100,
@@ -3256,7 +3452,9 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "homeGoalkeeper": "Robin Roefs",
-      "awayGoalkeeper": "Mike Penders"
+      "awayGoalkeeper": "Mike Penders",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 98,
@@ -3277,7 +3475,9 @@
       "homeGoals": 4,
       "awayGoals": 4,
       "homeGoalkeeper": "Senne Lammens",
-      "awayGoalkeeper": "Zion Suzuki"
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 108,
@@ -3298,7 +3498,9 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "homeGoalkeeper": "Gianluigi Donnarumma",
-      "awayGoalkeeper": "Bernd Leno"
+      "awayGoalkeeper": "Bernd Leno",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 101,
@@ -3319,7 +3521,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Djordje Petrovic",
-      "awayGoalkeeper": "Matz Sels"
+      "awayGoalkeeper": "Matz Sels",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 102,
@@ -3340,7 +3544,9 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "homeGoalkeeper": "Zion Suzuki",
-      "awayGoalkeeper": "Robin Roefs"
+      "awayGoalkeeper": "Robin Roefs",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 104,
@@ -3361,7 +3567,9 @@
       "homeGoals": 1,
       "awayGoals": 4,
       "homeGoalkeeper": "Emiliano Martínez",
-      "awayGoalkeeper": "James Trafford"
+      "awayGoalkeeper": "James Trafford",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 105,
@@ -3382,7 +3590,9 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "homeGoalkeeper": "Carl Rushworth",
-      "awayGoalkeeper": "Dean Henderson"
+      "awayGoalkeeper": "Dean Henderson",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 110,
@@ -3403,7 +3613,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Antonín Kinský",
-      "awayGoalkeeper": "Christian Walton"
+      "awayGoalkeeper": "Christian Walton",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 109,
@@ -3424,7 +3636,9 @@
       "homeGoals": 2,
       "awayGoals": 2,
       "homeGoalkeeper": "Lukas Hornícek",
-      "awayGoalkeeper": "David Raya"
+      "awayGoalkeeper": "David Raya",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 106,
@@ -3445,7 +3659,9 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Konstantinos Tzolakis",
-      "awayGoalkeeper": "Bart Verbruggen"
+      "awayGoalkeeper": "Bart Verbruggen",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 107,
@@ -3466,7 +3682,9 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "homeGoalkeeper": "Alisson Becker",
-      "awayGoalkeeper": "Senne Lammens"
+      "awayGoalkeeper": "Senne Lammens",
+      "matchStatus": "Full Time",
+      "matchClock": null
     },
     {
       "matchNumber": 103,
@@ -3487,7 +3705,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 119,
@@ -3508,7 +3728,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 117,
@@ -3529,7 +3751,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 118,
@@ -3550,7 +3774,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 116,
@@ -3571,7 +3797,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 114,
@@ -3592,7 +3820,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 112,
@@ -3613,7 +3843,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 113,
@@ -3634,7 +3866,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 115,
@@ -3655,7 +3889,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 120,
@@ -3676,7 +3912,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 111,
@@ -3697,7 +3935,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 125,
@@ -3718,7 +3958,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 124,
@@ -3739,7 +3981,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 126,
@@ -3760,7 +4004,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 127,
@@ -3781,7 +4027,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 128,
@@ -3802,7 +4050,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 121,
@@ -3823,7 +4073,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 122,
@@ -3844,7 +4096,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 123,
@@ -3865,7 +4119,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 129,
@@ -3886,7 +4142,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 130,
@@ -3907,7 +4165,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 134,
@@ -3928,7 +4188,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 131,
@@ -3949,7 +4211,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 132,
@@ -3970,7 +4234,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 136,
@@ -3991,7 +4257,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 137,
@@ -4012,7 +4280,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 139,
@@ -4033,7 +4303,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 133,
@@ -4054,7 +4326,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 135,
@@ -4075,7 +4349,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 138,
@@ -4096,7 +4372,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 140,
@@ -4117,7 +4395,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 145,
@@ -4138,7 +4418,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 147,
@@ -4159,7 +4441,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 148,
@@ -4180,7 +4464,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 149,
@@ -4201,7 +4487,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 141,
@@ -4222,7 +4510,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 142,
@@ -4243,7 +4533,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 150,
@@ -4264,7 +4556,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 143,
@@ -4285,7 +4579,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 144,
@@ -4306,7 +4602,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 146,
@@ -4327,7 +4625,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 153,
@@ -4348,7 +4648,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 151,
@@ -4369,7 +4671,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 156,
@@ -4390,7 +4694,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 158,
@@ -4411,7 +4717,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 157,
@@ -4432,7 +4740,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 159,
@@ -4453,7 +4763,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 154,
@@ -4474,7 +4786,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 160,
@@ -4495,7 +4809,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 152,
@@ -4516,7 +4832,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 155,
@@ -4537,7 +4855,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 161,
@@ -4558,7 +4878,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 164,
@@ -4579,7 +4901,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 165,
@@ -4600,7 +4924,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 167,
@@ -4621,7 +4947,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 170,
@@ -4642,7 +4970,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 166,
@@ -4663,7 +4993,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 169,
@@ -4684,7 +5016,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 162,
@@ -4705,7 +5039,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 168,
@@ -4726,7 +5062,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 163,
@@ -4747,7 +5085,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 176,
@@ -4768,7 +5108,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 180,
@@ -4789,7 +5131,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 174,
@@ -4810,7 +5154,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 172,
@@ -4831,7 +5177,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 173,
@@ -4852,7 +5200,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 175,
@@ -4873,7 +5223,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 178,
@@ -4894,7 +5246,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 179,
@@ -4915,7 +5269,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 171,
@@ -4936,7 +5292,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 177,
@@ -4957,7 +5315,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 186,
@@ -4978,7 +5338,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 184,
@@ -4999,7 +5361,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 182,
@@ -5020,7 +5384,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 183,
@@ -5041,7 +5407,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 187,
@@ -5062,7 +5430,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 189,
@@ -5083,7 +5453,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 190,
@@ -5104,7 +5476,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 181,
@@ -5125,7 +5499,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 185,
@@ -5146,7 +5522,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 188,
@@ -5167,7 +5545,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 191,
@@ -5188,7 +5568,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 192,
@@ -5209,7 +5591,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 194,
@@ -5230,7 +5614,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 199,
@@ -5251,7 +5637,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 200,
@@ -5272,7 +5660,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 193,
@@ -5293,7 +5683,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 195,
@@ -5314,7 +5706,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 196,
@@ -5335,7 +5729,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 197,
@@ -5356,7 +5752,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 198,
@@ -5377,7 +5775,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 201,
@@ -5398,7 +5798,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 202,
@@ -5419,7 +5821,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 203,
@@ -5440,7 +5844,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 204,
@@ -5461,7 +5867,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 205,
@@ -5482,7 +5890,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 206,
@@ -5503,7 +5913,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 207,
@@ -5524,7 +5936,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 208,
@@ -5545,7 +5959,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 209,
@@ -5566,7 +5982,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 210,
@@ -5587,7 +6005,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 211,
@@ -5608,7 +6028,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 212,
@@ -5629,7 +6051,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 213,
@@ -5650,7 +6074,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 214,
@@ -5671,7 +6097,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 215,
@@ -5692,7 +6120,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 216,
@@ -5713,7 +6143,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 217,
@@ -5734,7 +6166,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 218,
@@ -5755,7 +6189,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 219,
@@ -5776,7 +6212,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 220,
@@ -5797,7 +6235,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 221,
@@ -5818,7 +6258,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 222,
@@ -5839,7 +6281,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 223,
@@ -5860,7 +6304,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 224,
@@ -5881,7 +6327,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 225,
@@ -5902,7 +6350,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 226,
@@ -5923,7 +6373,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 227,
@@ -5944,7 +6396,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 228,
@@ -5965,7 +6419,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 229,
@@ -5986,7 +6442,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 230,
@@ -6007,7 +6465,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 231,
@@ -6028,7 +6488,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 232,
@@ -6049,7 +6511,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 233,
@@ -6070,7 +6534,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 234,
@@ -6091,7 +6557,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 235,
@@ -6112,7 +6580,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 236,
@@ -6133,7 +6603,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 237,
@@ -6154,7 +6626,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 238,
@@ -6175,7 +6649,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 239,
@@ -6196,7 +6672,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 240,
@@ -6217,7 +6695,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 241,
@@ -6238,7 +6718,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 242,
@@ -6259,7 +6741,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 243,
@@ -6280,7 +6764,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 244,
@@ -6301,7 +6787,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 245,
@@ -6322,7 +6810,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 246,
@@ -6343,7 +6833,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 247,
@@ -6364,7 +6856,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 248,
@@ -6385,7 +6879,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 249,
@@ -6406,7 +6902,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 250,
@@ -6427,7 +6925,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 251,
@@ -6448,7 +6948,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 252,
@@ -6469,7 +6971,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 253,
@@ -6490,7 +6994,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 254,
@@ -6511,7 +7017,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 255,
@@ -6532,7 +7040,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 256,
@@ -6553,7 +7063,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 257,
@@ -6574,7 +7086,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 258,
@@ -6595,7 +7109,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 259,
@@ -6616,7 +7132,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 260,
@@ -6637,7 +7155,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 261,
@@ -6658,7 +7178,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 262,
@@ -6679,7 +7201,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 263,
@@ -6700,7 +7224,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 264,
@@ -6721,7 +7247,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 265,
@@ -6742,7 +7270,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 266,
@@ -6763,7 +7293,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 267,
@@ -6784,7 +7316,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 268,
@@ -6805,7 +7339,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 269,
@@ -6826,7 +7362,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 270,
@@ -6847,7 +7385,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 271,
@@ -6868,7 +7408,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 272,
@@ -6889,7 +7431,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 273,
@@ -6910,7 +7454,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 274,
@@ -6931,7 +7477,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 275,
@@ -6952,7 +7500,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 276,
@@ -6973,7 +7523,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 277,
@@ -6994,7 +7546,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 278,
@@ -7015,7 +7569,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 279,
@@ -7036,7 +7592,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 280,
@@ -7057,7 +7615,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 281,
@@ -7078,7 +7638,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 282,
@@ -7099,7 +7661,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 283,
@@ -7120,7 +7684,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 284,
@@ -7141,7 +7707,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 285,
@@ -7162,7 +7730,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 286,
@@ -7183,7 +7753,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 287,
@@ -7204,7 +7776,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 288,
@@ -7225,7 +7799,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 289,
@@ -7246,7 +7822,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 290,
@@ -7267,7 +7845,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 291,
@@ -7288,7 +7868,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 292,
@@ -7309,7 +7891,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 293,
@@ -7330,7 +7914,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 294,
@@ -7351,7 +7937,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 295,
@@ -7372,7 +7960,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 296,
@@ -7393,7 +7983,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 297,
@@ -7414,7 +8006,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 298,
@@ -7435,7 +8029,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 299,
@@ -7456,7 +8052,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 300,
@@ -7477,7 +8075,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 301,
@@ -7498,7 +8098,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 302,
@@ -7519,7 +8121,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 303,
@@ -7540,7 +8144,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 304,
@@ -7561,7 +8167,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 305,
@@ -7582,7 +8190,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 306,
@@ -7603,7 +8213,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 307,
@@ -7624,7 +8236,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 308,
@@ -7645,7 +8259,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 309,
@@ -7666,7 +8282,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 310,
@@ -7687,7 +8305,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 311,
@@ -7708,7 +8328,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 312,
@@ -7729,7 +8351,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 313,
@@ -7750,7 +8374,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 314,
@@ -7771,7 +8397,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 315,
@@ -7792,7 +8420,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 316,
@@ -7813,7 +8443,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 317,
@@ -7834,7 +8466,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 318,
@@ -7855,7 +8489,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 319,
@@ -7876,7 +8512,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 320,
@@ -7897,7 +8535,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 321,
@@ -7918,7 +8558,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 322,
@@ -7939,7 +8581,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 323,
@@ -7960,7 +8604,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 324,
@@ -7981,7 +8627,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 325,
@@ -8002,7 +8650,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 326,
@@ -8023,7 +8673,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 327,
@@ -8044,7 +8696,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 328,
@@ -8065,7 +8719,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 329,
@@ -8086,7 +8742,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 330,
@@ -8107,7 +8765,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 331,
@@ -8128,7 +8788,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 332,
@@ -8149,7 +8811,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 333,
@@ -8170,7 +8834,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 334,
@@ -8191,7 +8857,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 335,
@@ -8212,7 +8880,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 336,
@@ -8233,7 +8903,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 337,
@@ -8254,7 +8926,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 338,
@@ -8275,7 +8949,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 339,
@@ -8296,7 +8972,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 340,
@@ -8317,7 +8995,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 341,
@@ -8338,7 +9018,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 342,
@@ -8359,7 +9041,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 343,
@@ -8380,7 +9064,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 344,
@@ -8401,7 +9087,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 345,
@@ -8422,7 +9110,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 346,
@@ -8443,7 +9133,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 347,
@@ -8464,7 +9156,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 348,
@@ -8485,7 +9179,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 349,
@@ -8506,7 +9202,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 350,
@@ -8527,7 +9225,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 351,
@@ -8548,7 +9248,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 352,
@@ -8569,7 +9271,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 353,
@@ -8590,7 +9294,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 354,
@@ -8611,7 +9317,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 355,
@@ -8632,7 +9340,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 356,
@@ -8653,7 +9363,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 357,
@@ -8674,7 +9386,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 358,
@@ -8695,7 +9409,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 359,
@@ -8716,7 +9432,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 360,
@@ -8737,7 +9455,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 361,
@@ -8758,7 +9478,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 362,
@@ -8779,7 +9501,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 363,
@@ -8800,7 +9524,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 364,
@@ -8821,7 +9547,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 365,
@@ -8842,7 +9570,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 366,
@@ -8863,7 +9593,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 367,
@@ -8884,7 +9616,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 368,
@@ -8905,7 +9639,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 369,
@@ -8926,7 +9662,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 370,
@@ -8947,7 +9685,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 371,
@@ -8968,7 +9708,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 372,
@@ -8989,7 +9731,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 373,
@@ -9010,7 +9754,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 374,
@@ -9031,7 +9777,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 375,
@@ -9052,7 +9800,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 376,
@@ -9073,7 +9823,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 377,
@@ -9094,7 +9846,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 378,
@@ -9115,7 +9869,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 379,
@@ -9136,7 +9892,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     },
     {
       "matchNumber": 380,
@@ -9157,7 +9915,9 @@
       "homeGoals": null,
       "awayGoals": null,
       "homeGoalkeeper": null,
-      "awayGoalkeeper": null
+      "awayGoalkeeper": null,
+      "matchStatus": null,
+      "matchClock": null
     }
   ],
   "props": [
