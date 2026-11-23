@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "In Progress - 9 complete, 1 in progress, 0 not started",
-    "generatedAt": "2026-11-23T13:32:08-08:00",
+    "generatedAt": "2026-11-23T13:38:37-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1005,9 +1005,9 @@
       "wins": 4,
       "draws": 5,
       "losses": 2,
-      "gf": 18,
+      "gf": 19,
       "ga": 11,
-      "gd": 7
+      "gd": 8
     },
     {
       "place": 7,
@@ -1042,8 +1042,8 @@
       "draws": 4,
       "losses": 3,
       "gf": 12,
-      "ga": 12,
-      "gd": 0
+      "ga": 13,
+      "gd": -1
     },
     {
       "place": 10,
@@ -3699,15 +3699,15 @@
         "club": "Everton",
         "entry": "Bishop/Foster"
       },
-      "result": "2 - 0",
+      "result": "3 - 0",
       "homeResult": "Win",
       "awayResult": "Loss",
-      "homeGoals": 2,
+      "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "In Progress",
-      "matchClock": "60'"
+      "matchClock": "70'"
     },
     {
       "matchNumber": 119,
@@ -11248,6 +11248,25 @@
       ]
     },
     {
+      "player": "Vitaly Janelt",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
+      "current": 3,
+      "history": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    {
       "player": "Jack Hinshelwood",
       "club": "Brighton",
       "entry": "Machel/Machel",
@@ -11509,25 +11528,6 @@
         1,
         1,
         1,
-        2,
-        2
-      ]
-    },
-    {
-      "player": "Vitaly Janelt",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
-      "current": 2,
-      "history": [
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
         2,
         2
       ]
