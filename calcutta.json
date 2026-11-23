@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "In Progress - 9 complete, 1 in progress, 0 not started",
-    "generatedAt": "2026-11-23T12:26:32-08:00",
+    "generatedAt": "2026-11-23T12:32:10-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -127,7 +127,7 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": 65,
+      "tablePayout": 60,
       "luxuryTaxRebate": 22.8,
       "derbies": -25,
       "derbyWinner": 0,
@@ -148,9 +148,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 62.80000000000001,
-      "net": -137.2,
-      "return": -0.6859999999999999
+      "totalPayout": 57.80000000000001,
+      "net": -142.2,
+      "return": -0.711
     },
     {
       "rank": 3,
@@ -197,7 +197,7 @@
       "buyIn": 200,
       "luxuryTax": 53,
       "totalCost": 253,
-      "tablePayout": 40,
+      "tablePayout": 45,
       "luxuryTaxRebate": 22.8,
       "derbies": 0,
       "derbyWinner": 25,
@@ -218,9 +218,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 160.8,
-      "net": -92.19999999999999,
-      "return": -0.3644268774703557
+      "totalPayout": 165.8,
+      "net": -87.19999999999999,
+      "return": -0.3446640316205533
     },
     {
       "rank": 8,
@@ -424,13 +424,13 @@
       "return": 0.041666666666666664
     },
     {
-      "place": 9,
+      "place": 8,
       "entry": "Evans/Newell",
       "club": "Chelsea",
       "bid": 139,
       "luxuryTax": 53,
       "totalCost": 192,
-      "tablePayout": 25,
+      "tablePayout": 30,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 25,
@@ -451,18 +451,18 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 36.4,
-      "net": -155.6,
-      "return": -0.8104166666666667
+      "totalPayout": 41.4,
+      "net": -150.6,
+      "return": -0.7843749999999999
     },
     {
-      "place": 8,
+      "place": 9,
       "entry": "Bishop/Foster",
       "club": "Everton",
       "bid": 41,
       "luxuryTax": 0,
       "totalCost": 41,
-      "tablePayout": 30,
+      "tablePayout": 25,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
@@ -483,9 +483,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 41.4,
-      "net": 0.3999999999999986,
-      "return": 0.009756097560975575
+      "totalPayout": 36.4,
+      "net": -4.600000000000001,
+      "return": -0.11219512195121954
     },
     {
       "place": 5,
@@ -1005,9 +1005,9 @@
       "wins": 4,
       "draws": 5,
       "losses": 2,
-      "gf": 17,
+      "gf": 18,
       "ga": 11,
-      "gd": 6
+      "gd": 7
     },
     {
       "place": 7,
@@ -1023,18 +1023,6 @@
     },
     {
       "place": 8,
-      "club": "Everton",
-      "played": 11,
-      "points": 16,
-      "wins": 4,
-      "draws": 4,
-      "losses": 3,
-      "gf": 12,
-      "ga": 11,
-      "gd": 1
-    },
-    {
-      "place": 9,
       "club": "Chelsea",
       "played": 11,
       "points": 16,
@@ -1043,6 +1031,18 @@
       "losses": 5,
       "gf": 20,
       "ga": 20,
+      "gd": 0
+    },
+    {
+      "place": 9,
+      "club": "Everton",
+      "played": 11,
+      "points": 16,
+      "wins": 4,
+      "draws": 4,
+      "losses": 3,
+      "gf": 12,
+      "ga": 12,
       "gd": 0
     },
     {
@@ -1200,7 +1200,7 @@
       "homeGoalkeeper": "David Raya",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 2,
@@ -1223,7 +1223,7 @@
       "homeGoalkeeper": "Konstantinos Tzolakis",
       "awayGoalkeeper": "Senne Lammens",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 3,
@@ -1246,7 +1246,7 @@
       "homeGoalkeeper": "Jordan Pickford",
       "awayGoalkeeper": "Dean Henderson",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 4,
@@ -1269,7 +1269,7 @@
       "homeGoalkeeper": "Kjell Scherpen",
       "awayGoalkeeper": "Robin Roefs",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 5,
@@ -1292,7 +1292,7 @@
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "James Trafford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 6,
@@ -1315,7 +1315,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Antonín Kinský",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 7,
@@ -1338,7 +1338,7 @@
       "homeGoalkeeper": "Bart Verbruggen",
       "awayGoalkeeper": "Marco Bizot",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 8,
@@ -1361,7 +1361,7 @@
       "homeGoalkeeper": "Gianluigi Donnarumma",
       "awayGoalkeeper": "Djordje Petrovic",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 9,
@@ -1384,7 +1384,7 @@
       "homeGoalkeeper": "Lukas Hornícek",
       "awayGoalkeeper": "Alisson Becker",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 10,
@@ -1407,7 +1407,7 @@
       "homeGoalkeeper": "Bernd Leno",
       "awayGoalkeeper": "Robert Sanchez",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 15,
@@ -1430,7 +1430,7 @@
       "homeGoalkeeper": "Dean Henderson",
       "awayGoalkeeper": "Gianluigi Donnarumma",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 17,
@@ -1453,7 +1453,7 @@
       "homeGoalkeeper": "Alisson Becker",
       "awayGoalkeeper": "Matz Sels",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 11,
@@ -1476,7 +1476,7 @@
       "homeGoalkeeper": "Djordje Petrovic",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 14,
@@ -1499,7 +1499,7 @@
       "homeGoalkeeper": "Carl Rushworth",
       "awayGoalkeeper": "Konstantinos Tzolakis",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 20,
@@ -1522,7 +1522,7 @@
       "homeGoalkeeper": "Antonín Kinský",
       "awayGoalkeeper": "Lukas Hornícek",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 13,
@@ -1545,7 +1545,7 @@
       "homeGoalkeeper": "Emiliano Martínez",
       "awayGoalkeeper": "Bart Verbruggen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 16,
@@ -1568,7 +1568,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 19,
@@ -1591,7 +1591,7 @@
       "homeGoalkeeper": "Robin Roefs",
       "awayGoalkeeper": "Bernd Leno",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 18,
@@ -1614,7 +1614,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Kjell Scherpen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 12,
@@ -1637,7 +1637,7 @@
       "homeGoalkeeper": "Zion Suzuki",
       "awayGoalkeeper": "David Raya",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 27,
@@ -1660,7 +1660,7 @@
       "homeGoalkeeper": "Kjell Scherpen",
       "awayGoalkeeper": "Alisson Becker",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 29,
@@ -1683,7 +1683,7 @@
       "homeGoalkeeper": "Lukas Hornícek",
       "awayGoalkeeper": "Djordje Petrovic",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 22,
@@ -1706,7 +1706,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Robin Roefs",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 23,
@@ -1729,7 +1729,7 @@
       "homeGoalkeeper": "Bart Verbruggen",
       "awayGoalkeeper": "James Trafford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 25,
@@ -1752,7 +1752,7 @@
       "homeGoalkeeper": "Bernd Leno",
       "awayGoalkeeper": "Dean Henderson",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 28,
@@ -1775,7 +1775,7 @@
       "homeGoalkeeper": "Gianluigi Donnarumma",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 30,
@@ -1798,7 +1798,7 @@
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Antonín Kinský",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 26,
@@ -1821,7 +1821,7 @@
       "homeGoalkeeper": "Konstantinos Tzolakis",
       "awayGoalkeeper": "Zion Suzuki",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 24,
@@ -1844,7 +1844,7 @@
       "homeGoalkeeper": "Jordan Pickford",
       "awayGoalkeeper": "Senne Lammens",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 21,
@@ -1867,7 +1867,7 @@
       "homeGoalkeeper": "David Raya",
       "awayGoalkeeper": "Emiliano Martínez",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 31,
@@ -1890,7 +1890,7 @@
       "homeGoalkeeper": "Djordje Petrovic",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 32,
@@ -1913,7 +1913,7 @@
       "homeGoalkeeper": "Zion Suzuki",
       "awayGoalkeeper": "Matz Sels",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 33,
@@ -1936,7 +1936,7 @@
       "homeGoalkeeper": "Emiliano Martínez",
       "awayGoalkeeper": "Konstantinos Tzolakis",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 35,
@@ -1959,7 +1959,7 @@
       "homeGoalkeeper": "Walter Benítez",
       "awayGoalkeeper": "Kjell Scherpen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 37,
@@ -1982,7 +1982,7 @@
       "homeGoalkeeper": "Alisson Becker",
       "awayGoalkeeper": "Bernd Leno",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 40,
@@ -2005,7 +2005,7 @@
       "homeGoalkeeper": "Antonín Kinský",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 39,
@@ -2028,7 +2028,7 @@
       "homeGoalkeeper": "Robin Roefs",
       "awayGoalkeeper": "David Raya",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 34,
@@ -2051,7 +2051,7 @@
       "homeGoalkeeper": "Carl Rushworth",
       "awayGoalkeeper": "Bart Verbruggen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 38,
@@ -2074,7 +2074,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Gianluigi Donnarumma",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 36,
@@ -2097,7 +2097,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Lukas Hornícek",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 42,
@@ -2120,7 +2120,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Emiliano Martínez",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 50,
@@ -2143,7 +2143,7 @@
       "homeGoalkeeper": "Antonín Kinský",
       "awayGoalkeeper": "Zion Suzuki",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 43,
@@ -2166,7 +2166,7 @@
       "homeGoalkeeper": "Bart Verbruggen",
       "awayGoalkeeper": "David Raya",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 44,
@@ -2189,7 +2189,7 @@
       "homeGoalkeeper": "Jordan Pickford",
       "awayGoalkeeper": "Christian Walton",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 48,
@@ -2212,7 +2212,7 @@
       "homeGoalkeeper": "Lukas Hornícek",
       "awayGoalkeeper": "Konstantinos Tzolakis",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 49,
@@ -2235,7 +2235,7 @@
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 41,
@@ -2258,7 +2258,7 @@
       "homeGoalkeeper": "Djordje Petrovic",
       "awayGoalkeeper": "Alisson Becker",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 46,
@@ -2281,7 +2281,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Walter Benítez",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 47,
@@ -2304,7 +2304,7 @@
       "homeGoalkeeper": "Gianluigi Donnarumma",
       "awayGoalkeeper": "Robin Roefs",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 45,
@@ -2327,7 +2327,7 @@
       "homeGoalkeeper": "Bernd Leno",
       "awayGoalkeeper": "Senne Lammens",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 51,
@@ -2350,7 +2350,7 @@
       "homeGoalkeeper": "David Raya",
       "awayGoalkeeper": "James Trafford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 52,
@@ -2373,7 +2373,7 @@
       "homeGoalkeeper": "Zion Suzuki",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 53,
@@ -2396,7 +2396,7 @@
       "homeGoalkeeper": "Emiliano Martínez",
       "awayGoalkeeper": "Djordje Petrovic",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 57,
@@ -2419,7 +2419,7 @@
       "homeGoalkeeper": "Christian Walton",
       "awayGoalkeeper": "Bernd Leno",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 60,
@@ -2442,7 +2442,7 @@
       "homeGoalkeeper": "Robin Roefs",
       "awayGoalkeeper": "Bart Verbruggen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 59,
@@ -2465,7 +2465,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Antonín Kinský",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 55,
@@ -2488,7 +2488,7 @@
       "homeGoalkeeper": "Walter Benítez",
       "awayGoalkeeper": "Matz Sels",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 56,
@@ -2511,7 +2511,7 @@
       "homeGoalkeeper": "Konstantinos Tzolakis",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 58,
@@ -2534,7 +2534,7 @@
       "homeGoalkeeper": "Alisson Becker",
       "awayGoalkeeper": "Gianluigi Donnarumma",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 54,
@@ -2557,7 +2557,7 @@
       "homeGoalkeeper": "Carl Rushworth",
       "awayGoalkeeper": "Lukas Hornícek",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 64,
@@ -2580,7 +2580,7 @@
       "homeGoalkeeper": "Jordan Pickford",
       "awayGoalkeeper": "Emiliano Martínez",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 62,
@@ -2603,7 +2603,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Alisson Becker",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 65,
@@ -2626,7 +2626,7 @@
       "homeGoalkeeper": "Bernd Leno",
       "awayGoalkeeper": "Konstantinos Tzolakis",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 67,
@@ -2649,7 +2649,7 @@
       "homeGoalkeeper": "Gianluigi Donnarumma",
       "awayGoalkeeper": "Christian Walton",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 68,
@@ -2672,7 +2672,7 @@
       "homeGoalkeeper": "Lukas Hornícek",
       "awayGoalkeeper": "Zion Suzuki",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 61,
@@ -2695,7 +2695,7 @@
       "homeGoalkeeper": "Djordje Petrovic",
       "awayGoalkeeper": "Robin Roefs",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 63,
@@ -2718,7 +2718,7 @@
       "homeGoalkeeper": "Bart Verbruggen",
       "awayGoalkeeper": "Walter Benítez",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 66,
@@ -2741,7 +2741,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Senne Lammens",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 69,
@@ -2764,7 +2764,7 @@
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "David Raya",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 70,
@@ -2787,7 +2787,7 @@
       "homeGoalkeeper": "Antonín Kinský",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 77,
@@ -2810,7 +2810,7 @@
       "homeGoalkeeper": "Christian Walton",
       "awayGoalkeeper": "Matz Sels",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 72,
@@ -2833,7 +2833,7 @@
       "homeGoalkeeper": "Zion Suzuki",
       "awayGoalkeeper": "Gianluigi Donnarumma",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 71,
@@ -2856,7 +2856,7 @@
       "homeGoalkeeper": "David Raya",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 74,
@@ -2879,7 +2879,7 @@
       "homeGoalkeeper": "Carl Rushworth",
       "awayGoalkeeper": "Bernd Leno",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 73,
@@ -2902,7 +2902,7 @@
       "homeGoalkeeper": "Mike Penders",
       "awayGoalkeeper": "Antonín Kinský",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 75,
@@ -2925,7 +2925,7 @@
       "homeGoalkeeper": "Walter Benítez",
       "awayGoalkeeper": "Lukas Hornícek",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 76,
@@ -2948,7 +2948,7 @@
       "homeGoalkeeper": "Konstantinos Tzolakis",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 78,
@@ -2971,7 +2971,7 @@
       "homeGoalkeeper": "Alisson Becker",
       "awayGoalkeeper": "Bart Verbruggen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 79,
@@ -2994,7 +2994,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Djordje Petrovic",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 80,
@@ -3017,7 +3017,7 @@
       "homeGoalkeeper": "Robin Roefs",
       "awayGoalkeeper": "James Trafford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 84,
@@ -3040,7 +3040,7 @@
       "homeGoalkeeper": "Mike Penders",
       "awayGoalkeeper": "Senne Lammens",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 81,
@@ -3063,7 +3063,7 @@
       "homeGoalkeeper": "Djordje Petrovic",
       "awayGoalkeeper": "James Trafford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 83,
@@ -3086,7 +3086,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Matz Sels",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 85,
@@ -3109,7 +3109,7 @@
       "homeGoalkeeper": "Carl Rushworth",
       "awayGoalkeeper": "Robin Roefs",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 86,
@@ -3132,7 +3132,7 @@
       "homeGoalkeeper": "Konstantinos Tzolakis",
       "awayGoalkeeper": "Christian Walton",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 88,
@@ -3155,7 +3155,7 @@
       "homeGoalkeeper": "Gianluigi Donnarumma",
       "awayGoalkeeper": "Bart Verbruggen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 90,
@@ -3178,7 +3178,7 @@
       "homeGoalkeeper": "Antonín Kinský",
       "awayGoalkeeper": "Dean Henderson",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 82,
@@ -3201,7 +3201,7 @@
       "homeGoalkeeper": "Zion Suzuki",
       "awayGoalkeeper": "Bernd Leno",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 87,
@@ -3224,7 +3224,7 @@
       "homeGoalkeeper": "Alisson Becker",
       "awayGoalkeeper": "David Raya",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 89,
@@ -3247,7 +3247,7 @@
       "homeGoalkeeper": "Lukas Hornícek",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 94,
@@ -3270,7 +3270,7 @@
       "homeGoalkeeper": "Jordan Pickford",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 97,
@@ -3293,7 +3293,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Antonín Kinský",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 91,
@@ -3316,7 +3316,7 @@
       "homeGoalkeeper": "David Raya",
       "awayGoalkeeper": "Konstantinos Tzolakis",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 95,
@@ -3339,7 +3339,7 @@
       "homeGoalkeeper": "Bernd Leno",
       "awayGoalkeeper": "Lukas Hornícek",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 99,
@@ -3362,7 +3362,7 @@
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Gianluigi Donnarumma",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 92,
@@ -3385,7 +3385,7 @@
       "homeGoalkeeper": "Bart Verbruggen",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 93,
@@ -3408,7 +3408,7 @@
       "homeGoalkeeper": "Dean Henderson",
       "awayGoalkeeper": "Alisson Becker",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 96,
@@ -3431,7 +3431,7 @@
       "homeGoalkeeper": "Christian Walton",
       "awayGoalkeeper": "Djordje Petrovic",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 100,
@@ -3454,7 +3454,7 @@
       "homeGoalkeeper": "Robin Roefs",
       "awayGoalkeeper": "Mike Penders",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 98,
@@ -3477,7 +3477,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Zion Suzuki",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 108,
@@ -3500,7 +3500,7 @@
       "homeGoalkeeper": "Gianluigi Donnarumma",
       "awayGoalkeeper": "Bernd Leno",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 101,
@@ -3523,7 +3523,7 @@
       "homeGoalkeeper": "Djordje Petrovic",
       "awayGoalkeeper": "Matz Sels",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 102,
@@ -3546,7 +3546,7 @@
       "homeGoalkeeper": "Zion Suzuki",
       "awayGoalkeeper": "Robin Roefs",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 104,
@@ -3569,7 +3569,7 @@
       "homeGoalkeeper": "Emiliano Martínez",
       "awayGoalkeeper": "James Trafford",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 105,
@@ -3592,7 +3592,7 @@
       "homeGoalkeeper": "Carl Rushworth",
       "awayGoalkeeper": "Dean Henderson",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 110,
@@ -3615,7 +3615,7 @@
       "homeGoalkeeper": "Antonín Kinský",
       "awayGoalkeeper": "Christian Walton",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 109,
@@ -3638,7 +3638,7 @@
       "homeGoalkeeper": "Lukas Hornícek",
       "awayGoalkeeper": "David Raya",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 106,
@@ -3661,7 +3661,7 @@
       "homeGoalkeeper": "Konstantinos Tzolakis",
       "awayGoalkeeper": "Bart Verbruggen",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 107,
@@ -3684,7 +3684,7 @@
       "homeGoalkeeper": "Alisson Becker",
       "awayGoalkeeper": "Senne Lammens",
       "matchStatus": "Full Time",
-      "matchClock": null
+      "matchClock": "FT"
     },
     {
       "matchNumber": 103,
@@ -3699,15 +3699,15 @@
         "club": "Everton",
         "entry": "Bishop/Foster"
       },
-      "result": "1 - 0",
+      "result": "2 - 0",
       "homeResult": "Win",
       "awayResult": "Loss",
-      "homeGoals": 1,
+      "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "In Progress",
-      "matchClock": null
+      "matchClock": "32'"
     },
     {
       "matchNumber": 119,
@@ -11039,6 +11039,25 @@
       ]
     },
     {
+      "player": "Keane Lewis-Potter",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
+      "current": 4,
+      "history": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        4
+      ]
+    },
+    {
       "player": "Dominic Calvert-Lewin",
       "club": "Leeds United",
       "entry": "Nelson",
@@ -11225,25 +11244,6 @@
         2,
         2,
         3,
-        3
-      ]
-    },
-    {
-      "player": "Keane Lewis-Potter",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
-      "current": 3,
-      "history": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
         3
       ]
     },
@@ -23744,7 +23744,7 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": 65,
+          "tablePayout": 60,
           "luxuryTaxRebate": 22.8,
           "derbies": -25,
           "derbyWinner": 0,
@@ -23765,9 +23765,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 62.80000000000001,
-          "net": -137.2,
-          "return": -0.6859999999999999
+          "totalPayout": 57.80000000000001,
+          "net": -142.2,
+          "return": -0.711
         },
         {
           "rank": 3,
@@ -23814,7 +23814,7 @@
           "buyIn": 200,
           "luxuryTax": 53,
           "totalCost": 253,
-          "tablePayout": 40,
+          "tablePayout": 45,
           "luxuryTaxRebate": 22.8,
           "derbies": 0,
           "derbyWinner": 25,
@@ -23835,9 +23835,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 160.8,
-          "net": -92.19999999999999,
-          "return": -0.3644268774703557
+          "totalPayout": 165.8,
+          "net": -87.19999999999999,
+          "return": -0.3446640316205533
         },
         {
           "rank": 8,
@@ -24041,13 +24041,13 @@
           "return": 0.041666666666666664
         },
         {
-          "place": 9,
+          "place": 8,
           "entry": "Evans/Newell",
           "club": "Chelsea",
           "bid": 139,
           "luxuryTax": 53,
           "totalCost": 192,
-          "tablePayout": 25,
+          "tablePayout": 30,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 25,
@@ -24068,18 +24068,18 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 36.4,
-          "net": -155.6,
-          "return": -0.8104166666666667
+          "totalPayout": 41.4,
+          "net": -150.6,
+          "return": -0.7843749999999999
         },
         {
-          "place": 8,
+          "place": 9,
           "entry": "Bishop/Foster",
           "club": "Everton",
           "bid": 41,
           "luxuryTax": 0,
           "totalCost": 41,
-          "tablePayout": 30,
+          "tablePayout": 25,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
@@ -24100,9 +24100,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 41.4,
-          "net": 0.3999999999999986,
-          "return": 0.009756097560975575
+          "totalPayout": 36.4,
+          "net": -4.600000000000001,
+          "return": -0.11219512195121954
         },
         {
           "place": 5,
@@ -29228,6 +29228,16 @@
           "gap": 14
         },
         {
+          "winner": "Sunderland",
+          "loser": "Chelsea",
+          "venue": "Home",
+          "score": "1 - 0",
+          "matchweek": 10,
+          "winnerPlace": 18,
+          "loserPlace": 8,
+          "gap": 10
+        },
+        {
           "winner": "Aston Villa",
           "loser": "Man City",
           "venue": "Home",
@@ -29235,16 +29245,6 @@
           "matchweek": 8,
           "winnerPlace": 12,
           "loserPlace": 3,
-          "gap": 9
-        },
-        {
-          "winner": "Sunderland",
-          "loser": "Chelsea",
-          "venue": "Home",
-          "score": "1 - 0",
-          "matchweek": 10,
-          "winnerPlace": 18,
-          "loserPlace": 9,
           "gap": 9
         },
         {
@@ -29263,9 +29263,9 @@
           "venue": "Home",
           "score": "4 - 3",
           "matchweek": 2,
-          "winnerPlace": 9,
+          "winnerPlace": 8,
           "loserPlace": 2,
-          "gap": 7
+          "gap": 6
         },
         {
           "winner": "Crystal Palace",
@@ -29286,16 +29286,6 @@
           "winnerPlace": 17,
           "loserPlace": 12,
           "gap": 5
-        },
-        {
-          "winner": "Chelsea",
-          "loser": "Bournemouth",
-          "venue": "Home",
-          "score": "5 - 1",
-          "matchweek": 6,
-          "winnerPlace": 9,
-          "loserPlace": 5,
-          "gap": 4
         },
         {
           "winner": "Fulham",
@@ -29338,6 +29328,16 @@
           "gap": 3
         },
         {
+          "winner": "Chelsea",
+          "loser": "Bournemouth",
+          "venue": "Home",
+          "score": "5 - 1",
+          "matchweek": 6,
+          "winnerPlace": 8,
+          "loserPlace": 5,
+          "gap": 3
+        },
+        {
           "winner": "Crystal Palace",
           "loser": "Nott'm Forest",
           "venue": "Home",
@@ -29365,6 +29365,16 @@
           "matchweek": 5,
           "winnerPlace": 13,
           "loserPlace": 11,
+          "gap": 2
+        },
+        {
+          "winner": "Tottenham",
+          "loser": "Chelsea",
+          "venue": "Away",
+          "score": "0 - 2",
+          "matchweek": 8,
+          "winnerPlace": 10,
+          "loserPlace": 8,
           "gap": 2
         },
         {
@@ -29408,16 +29418,6 @@
           "gap": 1
         },
         {
-          "winner": "Chelsea",
-          "loser": "Everton",
-          "venue": "Away",
-          "score": "0 - 2",
-          "matchweek": 7,
-          "winnerPlace": 9,
-          "loserPlace": 8,
-          "gap": 1
-        },
-        {
           "winner": "Fulham",
           "loser": "Coventry City",
           "venue": "Away",
@@ -29425,16 +29425,6 @@
           "matchweek": 8,
           "winnerPlace": 15,
           "loserPlace": 14,
-          "gap": 1
-        },
-        {
-          "winner": "Tottenham",
-          "loser": "Chelsea",
-          "venue": "Away",
-          "score": "0 - 2",
-          "matchweek": 8,
-          "winnerPlace": 10,
-          "loserPlace": 9,
           "gap": 1
         }
       ],
@@ -29459,9 +29449,9 @@
         },
         {
           "club": "Everton",
-          "place": 8,
+          "place": 9,
           "lastSeasonPlace": 13,
-          "change": 5
+          "change": 4
         },
         {
           "club": "Brentford",
@@ -29470,15 +29460,15 @@
           "change": 3
         },
         {
+          "club": "Chelsea",
+          "place": 8,
+          "lastSeasonPlace": 10,
+          "change": 2
+        },
+        {
           "club": "Bournemouth",
           "place": 5,
           "lastSeasonPlace": 6,
-          "change": 1
-        },
-        {
-          "club": "Chelsea",
-          "place": 9,
-          "lastSeasonPlace": 10,
           "change": 1
         },
         {
