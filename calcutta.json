@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "In Progress - 9 complete, 1 in progress, 0 not started",
-    "generatedAt": "2026-11-23T13:21:09-08:00",
+    "generatedAt": "2026-11-23T13:32:08-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3707,7 +3707,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "In Progress",
-      "matchClock": "53'"
+      "matchClock": "60'"
     },
     {
       "matchNumber": 119,
