@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 11,
     "status": "In Progress - 9 complete, 1 in progress, 0 not started",
-    "generatedAt": "2026-11-23T12:45:19-08:00",
+    "generatedAt": "2026-11-23T12:55:44-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3707,7 +3707,7 @@
       "homeGoalkeeper": "Caoimhin Kelleher",
       "awayGoalkeeper": "Jordan Pickford",
       "matchStatus": "In Progress",
-      "matchClock": "45'"
+      "matchClock": "45'+10'"
     },
     {
       "matchNumber": 119,
@@ -5782,7 +5782,7 @@
     {
       "matchNumber": 201,
       "matchweek": 21,
-      "dateTime": "2027-01-16T07:00:00-08:00",
+      "dateTime": "2027-01-17T06:00:00-08:00",
       "location": "Vitality Stadium",
       "home": {
         "club": "Bournemouth",
@@ -5805,7 +5805,7 @@
     {
       "matchNumber": 202,
       "matchweek": 21,
-      "dateTime": "2027-01-16T07:00:00-08:00",
+      "dateTime": "2027-01-16T09:30:00-08:00",
       "location": "Villa Park",
       "home": {
         "club": "Aston Villa",
@@ -5828,7 +5828,7 @@
     {
       "matchNumber": 203,
       "matchweek": 21,
-      "dateTime": "2027-01-16T07:00:00-08:00",
+      "dateTime": "2027-01-18T12:00:00-08:00",
       "location": "Gtech Community Stadium",
       "home": {
         "club": "Brentford",
@@ -5874,7 +5874,7 @@
     {
       "matchNumber": 205,
       "matchweek": 21,
-      "dateTime": "2027-01-16T07:00:00-08:00",
+      "dateTime": "2027-01-16T04:30:00-08:00",
       "location": "Coventry Building Society Arena",
       "home": {
         "club": "Coventry City",
@@ -5989,7 +5989,7 @@
     {
       "matchNumber": 210,
       "matchweek": 21,
-      "dateTime": "2027-01-16T07:00:00-08:00",
+      "dateTime": "2027-01-17T08:30:00-08:00",
       "location": "Tottenham Hotspur Stadium",
       "home": {
         "club": "Tottenham",
@@ -6012,7 +6012,7 @@
     {
       "matchNumber": 211,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-23T09:30:00-08:00",
       "location": "Emirates Stadium",
       "home": {
         "club": "Arsenal",
@@ -6035,7 +6035,7 @@
     {
       "matchNumber": 212,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-23T12:00:00-08:00",
       "location": "American Express Stadium",
       "home": {
         "club": "Brighton",
@@ -6058,7 +6058,7 @@
     {
       "matchNumber": 213,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-24T06:00:00-08:00",
       "location": "Selhurst Park",
       "home": {
         "club": "Crystal Palace",
@@ -6081,7 +6081,7 @@
     {
       "matchNumber": 214,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-24T06:00:00-08:00",
       "location": "Hill Dickinson Stadium",
       "home": {
         "club": "Everton",
@@ -6150,7 +6150,7 @@
     {
       "matchNumber": 217,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-25T12:00:00-08:00",
       "location": "Elland Road",
       "home": {
         "club": "Leeds United",
@@ -6173,7 +6173,7 @@
     {
       "matchNumber": 218,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-24T08:30:00-08:00",
       "location": "Old Trafford",
       "home": {
         "club": "Man United",
@@ -6196,7 +6196,7 @@
     {
       "matchNumber": 219,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-24T06:00:00-08:00",
       "location": "The City Ground",
       "home": {
         "club": "Nott'm Forest",
@@ -6219,7 +6219,7 @@
     {
       "matchNumber": 220,
       "matchweek": 22,
-      "dateTime": "2027-01-23T07:00:00-08:00",
+      "dateTime": "2027-01-24T06:00:00-08:00",
       "location": "Stadium of Light",
       "home": {
         "club": "Sunderland",
@@ -6242,7 +6242,7 @@
     {
       "matchNumber": 221,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-31T06:00:00-08:00",
       "location": "Vitality Stadium",
       "home": {
         "club": "Bournemouth",
@@ -6288,7 +6288,7 @@
     {
       "matchNumber": 223,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-02-01T12:00:00-08:00",
       "location": "Gtech Community Stadium",
       "home": {
         "club": "Brentford",
@@ -6311,7 +6311,7 @@
     {
       "matchNumber": 224,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-30T09:30:00-08:00",
       "location": "Stamford Bridge",
       "home": {
         "club": "Chelsea",
@@ -6334,7 +6334,7 @@
     {
       "matchNumber": 225,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-31T06:00:00-08:00",
       "location": "Coventry Building Society Arena",
       "home": {
         "club": "Coventry City",
@@ -6357,7 +6357,7 @@
     {
       "matchNumber": 226,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-31T06:00:00-08:00",
       "location": "MKM Stadium",
       "home": {
         "club": "Hull City",
@@ -6380,7 +6380,7 @@
     {
       "matchNumber": 227,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-30T04:30:00-08:00",
       "location": "Anfield",
       "home": {
         "club": "Liverpool",
@@ -6403,7 +6403,7 @@
     {
       "matchNumber": 228,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-31T08:30:00-08:00",
       "location": "Etihad Stadium",
       "home": {
         "club": "Man City",
@@ -6449,7 +6449,7 @@
     {
       "matchNumber": 230,
       "matchweek": 23,
-      "dateTime": "2027-01-30T07:00:00-08:00",
+      "dateTime": "2027-01-31T06:00:00-08:00",
       "location": "Tottenham Hotspur Stadium",
       "home": {
         "club": "Tottenham",
