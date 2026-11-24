@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "Not Started",
-    "generatedAt": "2026-11-23T14:04:17-08:00",
+    "generatedAt": "2026-11-24T11:58:20-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -10713,23 +10713,6 @@
   },
   "brexit": [
     {
-      "club": "Aston Villa",
-      "entry": "Brennan",
-      "competition": "Champions",
-      "tablePlace": 6,
-      "cutoffPoints": 4,
-      "points": 9,
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "matchesRemaining": 4,
-      "clinched": false,
-      "status": "Safe Zone",
-      "nextDateTime": "2026-11-24T09:45:00-08:00",
-      "site": "Away",
-      "opponent": "Galatasaray"
-    },
-    {
       "club": "Arsenal",
       "entry": "Dilks",
       "competition": "Champions",
@@ -10864,6 +10847,23 @@
       "nextDateTime": "2026-11-26T12:00:00-08:00",
       "site": "Home",
       "opponent": "Jagiellonia Bialystok"
+    },
+    {
+      "club": "Aston Villa",
+      "entry": "Brennan",
+      "competition": "Champions",
+      "tablePlace": 7,
+      "cutoffPoints": 4,
+      "points": 9,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "matchesRemaining": 3,
+      "clinched": false,
+      "status": "Safe Zone",
+      "nextDateTime": "2026-12-08T20:00:00-08:00",
+      "site": "Away",
+      "opponent": "Paris Saint-Germain"
     }
   ],
   "goldenBoot": [
