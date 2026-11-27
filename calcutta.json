@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 12,
-    "status": "Not Started",
-    "generatedAt": "2026-11-26T15:54:45-08:00",
+    "status": "In Progress - 0 complete, 1 in progress, 9 not started",
+    "generatedAt": "2026-11-27T12:03:23-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1024,10 +1024,10 @@
     {
       "place": 8,
       "club": "Chelsea",
-      "played": 11,
-      "points": 16,
+      "played": 12,
+      "points": 17,
       "wins": 5,
-      "draws": 1,
+      "draws": 2,
       "losses": 5,
       "gf": 20,
       "ga": 20,
@@ -1132,10 +1132,10 @@
     {
       "place": 17,
       "club": "Nott'm Forest",
-      "played": 11,
-      "points": 9,
+      "played": 12,
+      "points": 10,
       "wins": 2,
-      "draws": 3,
+      "draws": 4,
       "losses": 6,
       "gf": 9,
       "ga": 15,
@@ -3722,15 +3722,15 @@
         "club": "Chelsea",
         "entry": "Evans/Newell"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null,
-      "matchStatus": null,
-      "matchClock": null
+      "result": "0 - 0",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Matz Sels",
+      "awayGoalkeeper": "Emiliano Martínez",
+      "matchStatus": "In Progress",
+      "matchClock": "3'"
     },
     {
       "matchNumber": 117,
@@ -14230,6 +14230,26 @@
       ]
     },
     {
+      "goalkeeper": "Matz Sels",
+      "club": "Nott'm Forest",
+      "entry": "Dilks",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "goalkeeper": "Lukas Hornícek",
       "club": "Newcastle",
       "entry": "Brennan",
@@ -14250,23 +14270,23 @@
       ]
     },
     {
-      "goalkeeper": "Matz Sels",
-      "club": "Nott'm Forest",
-      "entry": "Dilks",
-      "current": 1,
+      "goalkeeper": "Emiliano Martínez",
+      "club": "Chelsea",
+      "entry": "Evans/Newell",
+      "current": 2,
       "history": [
         0,
         0,
+        0,
+        0,
+        0,
+        0,
         1,
         1,
         1,
         1,
         1,
-        1,
-        1,
-        1,
-        1,
-        1
+        2
       ]
     },
     {
@@ -14281,26 +14301,6 @@
         0,
         1,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "goalkeeper": "Emiliano Martínez",
-      "club": "Chelsea",
-      "entry": "Evans/Newell",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         1,
         1,
         1,
@@ -31326,9 +31326,9 @@
         },
         {
           "club": "Chelsea",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 16,
-          "firstHalfPPM": 1.4545454545454546,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 17,
+          "firstHalfPPM": 1.4166666666666667,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31458,9 +31458,9 @@
         },
         {
           "club": "Nott'm Forest",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 9,
-          "firstHalfPPM": 0.8181818181818182,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 10,
+          "firstHalfPPM": 0.8333333333333334,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
