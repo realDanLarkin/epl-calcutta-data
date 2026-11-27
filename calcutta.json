@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 0 complete, 1 in progress, 9 not started",
-    "generatedAt": "2026-11-27T13:45:08-08:00",
+    "generatedAt": "2026-11-27T13:51:33-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1029,9 +1029,9 @@
       "wins": 5,
       "draws": 1,
       "losses": 6,
-      "gf": 21,
+      "gf": 22,
       "ga": 23,
-      "gd": -2
+      "gd": -1
     },
     {
       "place": 9,
@@ -1102,8 +1102,8 @@
       "draws": 3,
       "losses": 6,
       "gf": 12,
-      "ga": 16,
-      "gd": -4
+      "ga": 17,
+      "gd": -5
     },
     {
       "place": 15,
@@ -3722,15 +3722,15 @@
         "club": "Chelsea",
         "entry": "Evans/Newell"
       },
-      "result": "3 - 1",
+      "result": "3 - 2",
       "homeResult": "Win",
       "awayResult": "Loss",
       "homeGoals": 3,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Emiliano Martínez",
       "matchStatus": "In Progress",
-      "matchClock": "87'"
+      "matchClock": "90'+3'"
     },
     {
       "matchNumber": 117,
@@ -11548,6 +11548,26 @@
       ]
     },
     {
+      "player": "Emmanuel Emegha",
+      "club": "Chelsea",
+      "entry": "Evans/Newell",
+      "current": 3,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3
+      ]
+    },
+    {
       "player": "Emersonn",
       "club": "Ipswich Town",
       "entry": "Larkin",
@@ -12244,26 +12264,6 @@
         0,
         1,
         2,
-        2
-      ]
-    },
-    {
-      "player": "Emmanuel Emegha",
-      "club": "Chelsea",
-      "entry": "Evans/Newell",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
         2
       ]
     },
@@ -30999,7 +30999,7 @@
           "winner": "Nott'm Forest",
           "loser": "Chelsea",
           "venue": "Home",
-          "score": "3 - 1",
+          "score": "3 - 2",
           "matchweek": 12,
           "winnerPlace": 14,
           "loserPlace": 8,
