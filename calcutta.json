@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 0 complete, 1 in progress, 9 not started",
-    "generatedAt": "2026-11-27T12:41:45-08:00",
+    "generatedAt": "2026-11-27T12:48:03-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3730,7 +3730,7 @@
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Emiliano Martínez",
       "matchStatus": "In Progress",
-      "matchClock": "41'"
+      "matchClock": "HT"
     },
     {
       "matchNumber": 117,
