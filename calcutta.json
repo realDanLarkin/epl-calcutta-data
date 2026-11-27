@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 0 complete, 1 in progress, 9 not started",
-    "generatedAt": "2026-11-27T13:06:50-08:00",
+    "generatedAt": "2026-11-27T13:13:17-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1030,8 +1030,8 @@
       "draws": 1,
       "losses": 6,
       "gf": 20,
-      "ga": 21,
-      "gd": -1
+      "ga": 22,
+      "gd": -2
     },
     {
       "place": 9,
@@ -1101,9 +1101,9 @@
       "wins": 3,
       "draws": 3,
       "losses": 6,
-      "gf": 10,
+      "gf": 11,
       "ga": 15,
-      "gd": -5
+      "gd": -4
     },
     {
       "place": 15,
@@ -3722,15 +3722,15 @@
         "club": "Chelsea",
         "entry": "Evans/Newell"
       },
-      "result": "1 - 0",
+      "result": "2 - 0",
       "homeResult": "Win",
       "awayResult": "Loss",
-      "homeGoals": 1,
+      "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Emiliano Martínez",
       "matchStatus": "In Progress",
-      "matchClock": "48'"
+      "matchClock": "54'"
     },
     {
       "matchNumber": 117,
@@ -11688,6 +11688,26 @@
       ]
     },
     {
+      "player": "Morgan Gibbs-White",
+      "club": "Nott'm Forest",
+      "entry": "Dilks",
+      "current": 2,
+      "history": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "player": "Víctor Muñoz",
       "club": "Liverpool",
       "entry": "Hasz/Baby",
@@ -12394,26 +12414,6 @@
       "current": 1,
       "history": [
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Morgan Gibbs-White",
-      "club": "Nott'm Forest",
-      "entry": "Dilks",
-      "current": 1,
-      "history": [
-        0,
         1,
         1,
         1,
@@ -30999,7 +30999,7 @@
           "winner": "Nott'm Forest",
           "loser": "Chelsea",
           "venue": "Home",
-          "score": "1 - 0",
+          "score": "2 - 0",
           "matchweek": 12,
           "winnerPlace": 14,
           "loserPlace": 8,
