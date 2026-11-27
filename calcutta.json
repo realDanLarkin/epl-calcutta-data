@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 12,
-    "status": "In Progress - 0 complete, 1 in progress, 9 not started",
-    "generatedAt": "2026-11-27T13:51:33-08:00",
+    "status": "In Progress - 1 complete, 0 in progress, 9 not started",
+    "generatedAt": "2026-11-27T13:57:53-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3729,8 +3729,8 @@
       "awayGoals": 2,
       "homeGoalkeeper": "Matz Sels",
       "awayGoalkeeper": "Emiliano Martínez",
-      "matchStatus": "In Progress",
-      "matchClock": "90'+3'"
+      "matchStatus": "Full Time",
+      "matchClock": "FT"
     },
     {
       "matchNumber": 117,
