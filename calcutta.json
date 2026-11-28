@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 1 complete, 2 in progress, 7 not started",
-    "generatedAt": "2026-11-28T08:38:41-08:00",
+    "generatedAt": "2026-11-28T08:45:25-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -993,9 +993,9 @@
       "wins": 5,
       "draws": 5,
       "losses": 2,
-      "gf": 22,
+      "gf": 23,
       "ga": 11,
-      "gd": 11
+      "gd": 12
     },
     {
       "place": 6,
@@ -1162,8 +1162,8 @@
       "draws": 5,
       "losses": 6,
       "gf": 14,
-      "ga": 25,
-      "gd": -11
+      "ga": 26,
+      "gd": -12
     },
     {
       "place": 20,
@@ -3753,7 +3753,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "In Progress",
-      "matchClock": "81'"
+      "matchClock": "87'"
     },
     {
       "matchNumber": 118,
@@ -3768,15 +3768,15 @@
         "club": "Brentford",
         "entry": "Machel/Machel"
       },
-      "result": "0 - 2",
+      "result": "0 - 3",
       "homeResult": "Loss",
       "awayResult": "Win",
       "homeGoals": 0,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "In Progress",
-      "matchClock": "80'"
+      "matchClock": "86'"
     },
     {
       "matchNumber": 116,
@@ -12066,6 +12066,26 @@
       ]
     },
     {
+      "player": "Kristoffer Ajer",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "player": "Jordan Henderson",
       "club": "Chelsea",
       "entry": "Evans/Newell",
@@ -12266,9 +12286,9 @@
       ]
     },
     {
-      "player": "Callum Wilson",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
+      "player": "Sean Longstaff",
+      "club": "Leeds United",
+      "entry": "Nelson",
       "current": 2,
       "history": [
         0,
@@ -12286,9 +12306,9 @@
       ]
     },
     {
-      "player": "Sean Longstaff",
-      "club": "Leeds United",
-      "entry": "Nelson",
+      "player": "Callum Wilson",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
       "current": 2,
       "history": [
         0,
@@ -13047,26 +13067,6 @@
     },
     {
       "player": "Yehor Yarmoliuk",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "player": "Kristoffer Ajer",
       "club": "Brentford",
       "entry": "Machel/Machel",
       "current": 1,
