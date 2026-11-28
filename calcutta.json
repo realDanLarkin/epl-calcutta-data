@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 12,
-    "status": "In Progress - 1 complete, 2 in progress, 7 not started",
-    "generatedAt": "2026-11-28T08:45:25-08:00",
+    "status": "In Progress - 2 complete, 1 in progress, 7 not started",
+    "generatedAt": "2026-11-28T08:51:59-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -993,9 +993,9 @@
       "wins": 5,
       "draws": 5,
       "losses": 2,
-      "gf": 23,
+      "gf": 24,
       "ga": 11,
-      "gd": 12
+      "gd": 13
     },
     {
       "place": 6,
@@ -1162,8 +1162,8 @@
       "draws": 5,
       "losses": 6,
       "gf": 14,
-      "ga": 26,
-      "gd": -12
+      "ga": 27,
+      "gd": -13
     },
     {
       "place": 20,
@@ -3752,8 +3752,8 @@
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Carl Rushworth",
-      "matchStatus": "In Progress",
-      "matchClock": "87'"
+      "matchStatus": "Full Time",
+      "matchClock": "FT"
     },
     {
       "matchNumber": 118,
@@ -3768,15 +3768,15 @@
         "club": "Brentford",
         "entry": "Machel/Machel"
       },
-      "result": "0 - 3",
+      "result": "0 - 4",
       "homeResult": "Loss",
       "awayResult": "Win",
       "homeGoals": 0,
-      "awayGoals": 3,
+      "awayGoals": 4,
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "In Progress",
-      "matchClock": "86'"
+      "matchClock": "90'+3'"
     },
     {
       "matchNumber": 116,
@@ -11086,6 +11086,26 @@
       ]
     },
     {
+      "player": "Kevin Schade",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
+      "current": 4,
+      "history": [
+        0,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4
+      ]
+    },
+    {
       "player": "Pascal Groß",
       "club": "Brighton",
       "entry": "Machel/Machel",
@@ -11342,26 +11362,6 @@
         1,
         1,
         1,
-        3
-      ]
-    },
-    {
-      "player": "Kevin Schade",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
-      "current": 3,
-      "history": [
-        0,
-        1,
-        1,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
         3
       ]
     },
