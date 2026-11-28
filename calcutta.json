@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 1 complete, 2 in progress, 7 not started",
-    "generatedAt": "2026-11-28T07:40:42-08:00",
+    "generatedAt": "2026-11-28T07:47:17-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -21,7 +21,7 @@
       "luxuryTax": 0,
       "totalCost": 200,
       "tablePayout": 520,
-      "luxuryTaxRebate": 11.4,
+      "luxuryTaxRebate": 22.8,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
@@ -41,9 +41,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 100,
-      "totalPayout": 643.9,
-      "net": 443.9,
-      "return": 2.2195
+      "totalPayout": 655.3,
+      "net": 455.29999999999995,
+      "return": 2.2765
     },
     {
       "rank": 2,
@@ -163,7 +163,7 @@
       "luxuryTax": 22,
       "totalCost": 222,
       "tablePayout": 150,
-      "luxuryTaxRebate": 11.4,
+      "luxuryTaxRebate": 0,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
@@ -183,9 +183,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 222.4,
-      "net": 0.4000000000000057,
-      "return": 0.0018018018018018274
+      "totalPayout": 211,
+      "net": -11,
+      "return": -0.04954954954954955
     },
     {
       "rank": 5,
@@ -776,14 +776,14 @@
       "return": -1.9259259259259258
     },
     {
-      "place": 15,
+      "place": 14,
       "entry": "Dilks",
       "club": "Nott'm Forest",
       "bid": 66,
       "luxuryTax": 0,
       "totalCost": 66,
       "tablePayout": 0,
-      "luxuryTaxRebate": 0,
+      "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
@@ -803,19 +803,19 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 100,
-      "totalPayout": 100,
-      "net": 34,
-      "return": 0.5151515151515151
+      "totalPayout": 111.4,
+      "net": 45.400000000000006,
+      "return": 0.687878787878788
     },
     {
-      "place": 14,
+      "place": 15,
       "entry": "Hasz/Baby",
       "club": "Coventry City",
       "bid": 12,
       "luxuryTax": 0,
       "totalCost": 12,
       "tablePayout": 0,
-      "luxuryTaxRebate": 11.4,
+      "luxuryTaxRebate": 0,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
@@ -835,9 +835,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 72.4,
-      "net": 60.400000000000006,
-      "return": 5.033333333333334
+      "totalPayout": 61,
+      "net": 49,
+      "return": 4.083333333333333
     },
     {
       "place": 19,
@@ -1001,13 +1001,13 @@
       "place": 6,
       "club": "Leeds United",
       "played": 12,
-      "points": 18,
-      "wins": 4,
-      "draws": 6,
+      "points": 20,
+      "wins": 5,
+      "draws": 5,
       "losses": 2,
-      "gf": 14,
+      "gf": 16,
       "ga": 9,
-      "gd": 5
+      "gd": 7
     },
     {
       "place": 7,
@@ -1095,18 +1095,6 @@
     },
     {
       "place": 14,
-      "club": "Coventry City",
-      "played": 12,
-      "points": 13,
-      "wins": 4,
-      "draws": 1,
-      "losses": 7,
-      "gf": 13,
-      "ga": 21,
-      "gd": -8
-    },
-    {
-      "place": 15,
       "club": "Nott'm Forest",
       "played": 12,
       "points": 12,
@@ -1116,6 +1104,18 @@
       "gf": 12,
       "ga": 17,
       "gd": -5
+    },
+    {
+      "place": 15,
+      "club": "Coventry City",
+      "played": 12,
+      "points": 12,
+      "wins": 4,
+      "draws": 0,
+      "losses": 8,
+      "gf": 13,
+      "ga": 23,
+      "gd": -10
     },
     {
       "place": 16,
@@ -3745,15 +3745,15 @@
         "club": "Coventry City",
         "entry": "Hasz/Baby"
       },
-      "result": "0 - 0",
-      "homeResult": "Draw",
-      "awayResult": "Draw",
-      "homeGoals": 0,
+      "result": "2 - 0",
+      "homeResult": "Win",
+      "awayResult": "Loss",
+      "homeGoals": 2,
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "In Progress",
-      "matchClock": "40'"
+      "matchClock": "45'+2'"
     },
     {
       "matchNumber": 118,
@@ -3776,7 +3776,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "In Progress",
-      "matchClock": "40'"
+      "matchClock": "45'+2'"
     },
     {
       "matchNumber": 116,
@@ -11046,6 +11046,26 @@
       ]
     },
     {
+      "player": "Dominic Calvert-Lewin",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 5,
+      "history": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        5
+      ]
+    },
+    {
       "player": "Keane Lewis-Potter",
       "club": "Brentford",
       "entry": "Machel/Machel",
@@ -11061,26 +11081,6 @@
         2,
         2,
         2,
-        4,
-        4
-      ]
-    },
-    {
-      "player": "Dominic Calvert-Lewin",
-      "club": "Leeds United",
-      "entry": "Nelson",
-      "current": 4,
-      "history": [
-        0,
-        1,
-        1,
-        2,
-        2,
-        2,
-        3,
-        3,
-        3,
-        3,
         4,
         4
       ]
@@ -13984,6 +13984,26 @@
         1,
         1
       ]
+    },
+    {
+      "player": "Sean Longstaff",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
     }
   ],
   "goldenGlove": [
@@ -14268,26 +14288,6 @@
       ]
     },
     {
-      "goalkeeper": "Carl Rushworth",
-      "club": "Coventry City",
-      "entry": "Hasz/Baby",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2
-      ]
-    },
-    {
       "goalkeeper": "Matz Sels",
       "club": "Nott'm Forest",
       "entry": "Dilks",
@@ -14297,6 +14297,26 @@
         0,
         1,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "goalkeeper": "Carl Rushworth",
+      "club": "Coventry City",
+      "entry": "Hasz/Baby",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
         1,
         1,
         1,
@@ -24769,7 +24789,7 @@
           "luxuryTax": 0,
           "totalCost": 200,
           "tablePayout": 520,
-          "luxuryTaxRebate": 11.4,
+          "luxuryTaxRebate": 22.8,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
@@ -24789,9 +24809,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 100,
-          "totalPayout": 643.9,
-          "net": 443.9,
-          "return": 2.2195
+          "totalPayout": 655.3,
+          "net": 455.29999999999995,
+          "return": 2.2765
         },
         {
           "rank": 2,
@@ -24911,7 +24931,7 @@
           "luxuryTax": 22,
           "totalCost": 222,
           "tablePayout": 150,
-          "luxuryTaxRebate": 11.4,
+          "luxuryTaxRebate": 0,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
@@ -24931,9 +24951,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 222.4,
-          "net": 0.4000000000000057,
-          "return": 0.0018018018018018274
+          "totalPayout": 211,
+          "net": -11,
+          "return": -0.04954954954954955
         },
         {
           "rank": 5,
@@ -25524,14 +25544,14 @@
           "return": -1.9259259259259258
         },
         {
-          "place": 15,
+          "place": 14,
           "entry": "Dilks",
           "club": "Nott'm Forest",
           "bid": 66,
           "luxuryTax": 0,
           "totalCost": 66,
           "tablePayout": 0,
-          "luxuryTaxRebate": 0,
+          "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
@@ -25551,19 +25571,19 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 100,
-          "totalPayout": 100,
-          "net": 34,
-          "return": 0.5151515151515151
+          "totalPayout": 111.4,
+          "net": 45.400000000000006,
+          "return": 0.687878787878788
         },
         {
-          "place": 14,
+          "place": 15,
           "entry": "Hasz/Baby",
           "club": "Coventry City",
           "bid": 12,
           "luxuryTax": 0,
           "totalCost": 12,
           "tablePayout": 0,
-          "luxuryTaxRebate": 11.4,
+          "luxuryTaxRebate": 0,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
@@ -25583,9 +25603,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 72.4,
-          "net": 60.400000000000006,
-          "return": 5.033333333333334
+          "totalPayout": 61,
+          "net": 49,
+          "return": 4.083333333333333
         },
         {
           "place": 19,
@@ -30959,9 +30979,9 @@
           "venue": "Home",
           "score": "3 - 1",
           "matchweek": 10,
-          "winnerPlace": 15,
+          "winnerPlace": 14,
           "loserPlace": 3,
-          "gap": 12
+          "gap": 11
         },
         {
           "winner": "Sunderland",
@@ -30994,16 +31014,6 @@
           "gap": 9
         },
         {
-          "winner": "Nott'm Forest",
-          "loser": "Chelsea",
-          "venue": "Home",
-          "score": "3 - 2",
-          "matchweek": 12,
-          "winnerPlace": 15,
-          "loserPlace": 8,
-          "gap": 7
-        },
-        {
           "winner": "Chelsea",
           "loser": "Brighton",
           "venue": "Home",
@@ -31020,8 +31030,18 @@
           "score": "3 - 1",
           "matchweek": 6,
           "winnerPlace": 20,
-          "loserPlace": 15,
-          "gap": 5
+          "loserPlace": 14,
+          "gap": 6
+        },
+        {
+          "winner": "Nott'm Forest",
+          "loser": "Chelsea",
+          "venue": "Home",
+          "score": "3 - 2",
+          "matchweek": 12,
+          "winnerPlace": 14,
+          "loserPlace": 8,
+          "gap": 6
         },
         {
           "winner": "Fulham",
@@ -31054,16 +31074,6 @@
           "gap": 3
         },
         {
-          "winner": "Nott'm Forest",
-          "loser": "Aston Villa",
-          "venue": "Away",
-          "score": "1 - 2",
-          "matchweek": 4,
-          "winnerPlace": 15,
-          "loserPlace": 12,
-          "gap": 3
-        },
-        {
           "winner": "Sunderland",
           "loser": "Fulham",
           "venue": "Home",
@@ -31081,6 +31091,16 @@
           "matchweek": 2,
           "winnerPlace": 19,
           "loserPlace": 17,
+          "gap": 2
+        },
+        {
+          "winner": "Nott'm Forest",
+          "loser": "Aston Villa",
+          "venue": "Away",
+          "score": "1 - 2",
+          "matchweek": 4,
+          "winnerPlace": 14,
+          "loserPlace": 12,
           "gap": 2
         },
         {
@@ -31104,13 +31124,13 @@
           "gap": 2
         },
         {
-          "winner": "Fulham",
-          "loser": "Coventry City",
-          "venue": "Away",
-          "score": "0 - 1",
-          "matchweek": 8,
-          "winnerPlace": 16,
-          "loserPlace": 14,
+          "winner": "Coventry City",
+          "loser": "Newcastle",
+          "venue": "Home",
+          "score": "4 - 1",
+          "matchweek": 6,
+          "winnerPlace": 15,
+          "loserPlace": 13,
           "gap": 2
         },
         {
@@ -31144,6 +31164,16 @@
           "gap": 1
         },
         {
+          "winner": "Coventry City",
+          "loser": "Nott'm Forest",
+          "venue": "Away",
+          "score": "0 - 1",
+          "matchweek": 5,
+          "winnerPlace": 15,
+          "loserPlace": 14,
+          "gap": 1
+        },
+        {
           "winner": "Chelsea",
           "loser": "Bournemouth",
           "venue": "Home",
@@ -31164,13 +31194,13 @@
           "gap": 1
         },
         {
-          "winner": "Coventry City",
-          "loser": "Newcastle",
-          "venue": "Home",
-          "score": "4 - 1",
-          "matchweek": 6,
-          "winnerPlace": 14,
-          "loserPlace": 13,
+          "winner": "Fulham",
+          "loser": "Coventry City",
+          "venue": "Away",
+          "score": "0 - 1",
+          "matchweek": 8,
+          "winnerPlace": 16,
+          "loserPlace": 15,
           "gap": 1
         },
         {
@@ -31222,15 +31252,15 @@
           "change": 2
         },
         {
+          "club": "Nott'm Forest",
+          "place": 14,
+          "lastSeasonPlace": 16,
+          "change": 2
+        },
+        {
           "club": "Liverpool",
           "place": 4,
           "lastSeasonPlace": 5,
-          "change": 1
-        },
-        {
-          "club": "Nott'm Forest",
-          "place": 15,
-          "lastSeasonPlace": 16,
           "change": 1
         },
         {
@@ -31241,7 +31271,7 @@
         },
         {
           "club": "Coventry City",
-          "place": 14,
+          "place": 15,
           "lastSeasonPlace": "Promoted",
           "change": 0
         },
@@ -31376,8 +31406,8 @@
         {
           "club": "Coventry City",
           "firstHalfPlayed": 12,
-          "firstHalfPoints": 13,
-          "firstHalfPPM": 1.0833333333333333,
+          "firstHalfPoints": 12,
+          "firstHalfPPM": 1,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31442,8 +31472,8 @@
         {
           "club": "Leeds United",
           "firstHalfPlayed": 12,
-          "firstHalfPoints": 18,
-          "firstHalfPPM": 1.5,
+          "firstHalfPoints": 20,
+          "firstHalfPPM": 1.6666666666666667,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31547,16 +31577,16 @@
         {
           "club": "Coventry City",
           "entry": "Hasz/Baby",
-          "place": 14,
+          "place": 15,
           "played": 12,
           "wins": 4,
-          "draws": 1,
-          "losses": 7,
+          "draws": 0,
+          "losses": 8,
           "goalsFor": 13,
-          "goalsAgainst": 21,
-          "goalDifference": -8,
-          "points": 13,
-          "pointsVsRelegation": 4,
+          "goalsAgainst": 23,
+          "goalDifference": -10,
+          "points": 12,
+          "pointsVsRelegation": 3,
           "status": "Safe"
         },
         {
