@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 3 complete, 1 in progress, 6 not started",
-    "generatedAt": "2026-11-28T09:46:16-08:00",
+    "generatedAt": "2026-11-28T09:52:48-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1065,8 +1065,8 @@
       "wins": 3,
       "draws": 6,
       "losses": 3,
-      "gf": 14,
-      "ga": 17,
+      "gf": 15,
+      "ga": 18,
       "gd": -3
     },
     {
@@ -1113,8 +1113,8 @@
       "wins": 3,
       "draws": 3,
       "losses": 6,
-      "gf": 15,
-      "ga": 22,
+      "gf": 16,
+      "ga": 23,
       "gd": -7
     },
     {
@@ -3791,15 +3791,15 @@
         "club": "Aston Villa",
         "entry": "Brennan"
       },
-      "result": "0 - 0",
+      "result": "1 - 1",
       "homeResult": "Draw",
       "awayResult": "Draw",
-      "homeGoals": 0,
-      "awayGoals": 0,
+      "homeGoals": 1,
+      "awayGoals": 1,
       "homeGoalkeeper": "Christian Walton",
       "awayGoalkeeper": "Zion Suzuki",
       "matchStatus": "In Progress",
-      "matchClock": "15'"
+      "matchClock": "22'"
     },
     {
       "matchNumber": 114,
@@ -11266,6 +11266,26 @@
       ]
     },
     {
+      "player": "Emersonn",
+      "club": "Ipswich Town",
+      "entry": "Larkin",
+      "current": 3,
+      "history": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    {
       "player": "Kiernan Dewsbury-Hall",
       "club": "Everton",
       "entry": "Bishop/Foster",
@@ -11446,6 +11466,26 @@
       ]
     },
     {
+      "player": "Alysson",
+      "club": "Aston Villa",
+      "entry": "Brennan",
+      "current": 3,
+      "history": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    {
       "player": "Mohamed Belloumi",
       "club": "Hull City",
       "entry": "Evans/Newell",
@@ -11563,26 +11603,6 @@
         0,
         1,
         3
-      ]
-    },
-    {
-      "player": "Emersonn",
-      "club": "Ipswich Town",
-      "entry": "Larkin",
-      "current": 2,
-      "history": [
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
       ]
     },
     {
@@ -11841,26 +11861,6 @@
         1,
         1,
         1,
-        2,
-        2
-      ]
-    },
-    {
-      "player": "Alysson",
-      "club": "Aston Villa",
-      "entry": "Brennan",
-      "current": 2,
-      "history": [
-        0,
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2,
         2,
         2
       ]
@@ -14208,26 +14208,6 @@
       ]
     },
     {
-      "goalkeeper": "Zion Suzuki",
-      "club": "Aston Villa",
-      "entry": "Brennan",
-      "current": 4,
-      "history": [
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
-        3,
-        4
-      ]
-    },
-    {
       "goalkeeper": "Gianluigi Donnarumma",
       "club": "Man City",
       "entry": "Larkin",
@@ -14263,6 +14243,26 @@
         3,
         3,
         3,
+        3,
+        3
+      ]
+    },
+    {
+      "goalkeeper": "Zion Suzuki",
+      "club": "Aston Villa",
+      "entry": "Brennan",
+      "current": 3,
+      "history": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
         3,
         3
       ]
@@ -14368,26 +14368,6 @@
       ]
     },
     {
-      "goalkeeper": "Christian Walton",
-      "club": "Ipswich Town",
-      "entry": "Larkin",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ]
-    },
-    {
       "goalkeeper": "Mike Penders",
       "club": "Chelsea",
       "entry": "Evans/Newell",
@@ -14451,6 +14431,26 @@
       "goalkeeper": "Senne Lammens",
       "club": "Man United",
       "entry": "Nelson",
+      "current": 0,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "goalkeeper": "Christian Walton",
+      "club": "Ipswich Town",
+      "entry": "Larkin",
       "current": 0,
       "history": [
         0,
@@ -31572,8 +31572,8 @@
           "wins": 3,
           "draws": 3,
           "losses": 6,
-          "goalsFor": 15,
-          "goalsAgainst": 22,
+          "goalsFor": 16,
+          "goalsAgainst": 23,
           "goalDifference": -7,
           "points": 12,
           "pointsVsRelegation": 3,
