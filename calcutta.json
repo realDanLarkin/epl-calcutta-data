@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 1 complete, 2 in progress, 7 not started",
-    "generatedAt": "2026-11-28T07:27:45-08:00",
+    "generatedAt": "2026-11-28T07:34:20-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -993,9 +993,9 @@
       "wins": 5,
       "draws": 5,
       "losses": 2,
-      "gf": 21,
+      "gf": 22,
       "ga": 11,
-      "gd": 10
+      "gd": 11
     },
     {
       "place": 6,
@@ -1162,8 +1162,8 @@
       "draws": 5,
       "losses": 6,
       "gf": 14,
-      "ga": 24,
-      "gd": -10
+      "ga": 25,
+      "gd": -11
     },
     {
       "place": 20,
@@ -3753,7 +3753,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "In Progress",
-      "matchClock": "27'"
+      "matchClock": "33'"
     },
     {
       "matchNumber": 118,
@@ -3768,15 +3768,15 @@
         "club": "Brentford",
         "entry": "Machel/Machel"
       },
-      "result": "0 - 1",
+      "result": "0 - 2",
       "homeResult": "Loss",
       "awayResult": "Win",
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "In Progress",
-      "matchClock": "27'"
+      "matchClock": "34'"
     },
     {
       "matchNumber": 116,
@@ -12266,6 +12266,26 @@
       ]
     },
     {
+      "player": "Callum Wilson",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    {
       "player": "Semi Ajayi",
       "club": "Hull City",
       "entry": "Evans/Newell",
@@ -13962,26 +13982,6 @@
         0,
         0,
         1,
-        1
-      ]
-    },
-    {
-      "player": "Callum Wilson",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         1
       ]
     }
