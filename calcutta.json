@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 1 complete, 2 in progress, 7 not started",
-    "generatedAt": "2026-11-28T08:19:26-08:00",
+    "generatedAt": "2026-11-28T08:26:00-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -1005,9 +1005,9 @@
       "wins": 5,
       "draws": 5,
       "losses": 2,
-      "gf": 16,
+      "gf": 17,
       "ga": 9,
-      "gd": 7
+      "gd": 8
     },
     {
       "place": 7,
@@ -1114,8 +1114,8 @@
       "draws": 0,
       "losses": 8,
       "gf": 13,
-      "ga": 23,
-      "gd": -10
+      "ga": 24,
+      "gd": -11
     },
     {
       "place": 16,
@@ -3745,15 +3745,15 @@
         "club": "Coventry City",
         "entry": "Hasz/Baby"
       },
-      "result": "2 - 0",
+      "result": "3 - 0",
       "homeResult": "Win",
       "awayResult": "Loss",
-      "homeGoals": 2,
+      "homeGoals": 3,
       "awayGoals": 0,
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "In Progress",
-      "matchClock": "62'"
+      "matchClock": "68'"
     },
     {
       "matchNumber": 118,
@@ -3776,7 +3776,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "In Progress",
-      "matchClock": "61'"
+      "matchClock": "67'"
     },
     {
       "matchNumber": 116,
@@ -12286,6 +12286,26 @@
       ]
     },
     {
+      "player": "Sean Longstaff",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    {
       "player": "Semi Ajayi",
       "club": "Hull City",
       "entry": "Evans/Newell",
@@ -13982,26 +14002,6 @@
         0,
         0,
         1,
-        1
-      ]
-    },
-    {
-      "player": "Sean Longstaff",
-      "club": "Leeds United",
-      "entry": "Nelson",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         1
       ]
     }
@@ -31583,8 +31583,8 @@
           "draws": 0,
           "losses": 8,
           "goalsFor": 13,
-          "goalsAgainst": 23,
-          "goalDifference": -10,
+          "goalsAgainst": 24,
+          "goalDifference": -11,
           "points": 12,
           "pointsVsRelegation": 3,
           "status": "Safe"
