@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 12,
-    "status": "In Progress - 2 complete, 1 in progress, 7 not started",
-    "generatedAt": "2026-11-28T08:51:59-08:00",
+    "status": "In Progress - 3 complete, 0 in progress, 7 not started",
+    "generatedAt": "2026-11-28T08:58:21-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3775,8 +3775,8 @@
       "awayGoals": 4,
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
-      "matchStatus": "In Progress",
-      "matchClock": "90'+3'"
+      "matchStatus": "Full Time",
+      "matchClock": "FT"
     },
     {
       "matchNumber": 116,
