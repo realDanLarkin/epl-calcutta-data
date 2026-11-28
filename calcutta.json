@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 3 complete, 1 in progress, 6 not started",
-    "generatedAt": "2026-11-28T10:50:27-08:00",
+    "generatedAt": "2026-11-28T10:56:48-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3799,7 +3799,7 @@
       "homeGoalkeeper": "Christian Walton",
       "awayGoalkeeper": "Zion Suzuki",
       "matchStatus": "In Progress",
-      "matchClock": "62'"
+      "matchClock": "68'"
     },
     {
       "matchNumber": 114,
