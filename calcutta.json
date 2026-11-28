@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 12,
-    "status": "In Progress - 3 complete, 0 in progress, 7 not started",
-    "generatedAt": "2026-11-28T08:58:21-08:00",
+    "status": "In Progress - 3 complete, 1 in progress, 6 not started",
+    "generatedAt": "2026-11-28T09:33:34-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -197,7 +197,7 @@
       "buyIn": 200,
       "luxuryTax": 53,
       "totalCost": 253,
-      "tablePayout": 45,
+      "tablePayout": 40,
       "luxuryTaxRebate": 22.8,
       "derbies": 0,
       "derbyWinner": 25,
@@ -218,9 +218,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 165.8,
-      "net": -87.19999999999999,
-      "return": -0.3446640316205533
+      "totalPayout": 160.8,
+      "net": -92.19999999999999,
+      "return": -0.3644268774703557
     },
     {
       "rank": 8,
@@ -233,7 +233,7 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": -60,
+      "tablePayout": -55,
       "luxuryTaxRebate": 22.8,
       "derbies": -50,
       "derbyWinner": 0,
@@ -254,9 +254,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -87.2,
-      "net": -287.2,
-      "return": -1.436
+      "totalPayout": -82.2,
+      "net": -282.2,
+      "return": -1.411
     },
     {
       "rank": 7,
@@ -584,13 +584,13 @@
       "return": 2.1647058823529415
     },
     {
-      "place": 12,
+      "place": 11,
       "entry": "Brennan",
       "club": "Aston Villa",
       "bid": 100,
       "luxuryTax": 0,
       "totalCost": 100,
-      "tablePayout": 10,
+      "tablePayout": 15,
       "luxuryTaxRebate": 11.4,
       "derbies": -25,
       "derbyWinner": 0,
@@ -611,9 +611,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -3.6000000000000014,
-      "net": -103.6,
-      "return": -1.036
+      "totalPayout": 1.3999999999999986,
+      "net": -98.6,
+      "return": -0.986
     },
     {
       "place": 10,
@@ -680,13 +680,13 @@
       "return": -0.6355555555555555
     },
     {
-      "place": 11,
+      "place": 12,
       "entry": "Evans/Newell",
       "club": "Hull City",
       "bid": 14,
       "luxuryTax": 0,
       "totalCost": 14,
-      "tablePayout": 15,
+      "tablePayout": 10,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
@@ -707,12 +707,12 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 124.4,
-      "net": 110.4,
-      "return": 7.885714285714286
+      "totalPayout": 119.4,
+      "net": 105.4,
+      "return": 7.528571428571429
     },
     {
-      "place": 17,
+      "place": 15,
       "entry": "Larkin",
       "club": "Ipswich Town",
       "bid": 40,
@@ -744,7 +744,7 @@
       "return": -0.1
     },
     {
-      "place": 16,
+      "place": 17,
       "entry": "Bishop/Foster",
       "club": "Fulham",
       "bid": 27,
@@ -808,7 +808,7 @@
       "return": 0.687878787878788
     },
     {
-      "place": 15,
+      "place": 16,
       "entry": "Hasz/Baby",
       "club": "Coventry City",
       "bid": 12,
@@ -1059,6 +1059,18 @@
     },
     {
       "place": 11,
+      "club": "Aston Villa",
+      "played": 12,
+      "points": 15,
+      "wins": 3,
+      "draws": 6,
+      "losses": 3,
+      "gf": 14,
+      "ga": 17,
+      "gd": -3
+    },
+    {
+      "place": 12,
       "club": "Hull City",
       "played": 11,
       "points": 14,
@@ -1068,18 +1080,6 @@
       "gf": 13,
       "ga": 11,
       "gd": 2
-    },
-    {
-      "place": 12,
-      "club": "Aston Villa",
-      "played": 11,
-      "points": 14,
-      "wins": 3,
-      "draws": 5,
-      "losses": 3,
-      "gf": 14,
-      "ga": 17,
-      "gd": -3
     },
     {
       "place": 13,
@@ -1107,6 +1107,18 @@
     },
     {
       "place": 15,
+      "club": "Ipswich Town",
+      "played": 12,
+      "points": 12,
+      "wins": 3,
+      "draws": 3,
+      "losses": 6,
+      "gf": 15,
+      "ga": 22,
+      "gd": -7
+    },
+    {
+      "place": 16,
       "club": "Coventry City",
       "played": 12,
       "points": 12,
@@ -1118,7 +1130,7 @@
       "gd": -11
     },
     {
-      "place": 16,
+      "place": 17,
       "club": "Fulham",
       "played": 11,
       "points": 11,
@@ -1128,18 +1140,6 @@
       "gf": 11,
       "ga": 13,
       "gd": -2
-    },
-    {
-      "place": 17,
-      "club": "Ipswich Town",
-      "played": 11,
-      "points": 11,
-      "wins": 3,
-      "draws": 2,
-      "losses": 6,
-      "gf": 15,
-      "ga": 22,
-      "gd": -7
     },
     {
       "place": 18,
@@ -3791,15 +3791,15 @@
         "club": "Aston Villa",
         "entry": "Brennan"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null,
-      "matchStatus": null,
-      "matchClock": null
+      "result": "0 - 0",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Christian Walton",
+      "awayGoalkeeper": "Zion Suzuki",
+      "matchStatus": "In Progress",
+      "matchClock": "3'"
     },
     {
       "matchNumber": 114,
@@ -14208,6 +14208,26 @@
       ]
     },
     {
+      "goalkeeper": "Zion Suzuki",
+      "club": "Aston Villa",
+      "entry": "Brennan",
+      "current": 4,
+      "history": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4
+      ]
+    },
+    {
       "goalkeeper": "Gianluigi Donnarumma",
       "club": "Man City",
       "entry": "Larkin",
@@ -14243,26 +14263,6 @@
         3,
         3,
         3,
-        3,
-        3
-      ]
-    },
-    {
-      "goalkeeper": "Zion Suzuki",
-      "club": "Aston Villa",
-      "entry": "Brennan",
-      "current": 3,
-      "history": [
-        0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
         3,
         3
       ]
@@ -14368,6 +14368,26 @@
       ]
     },
     {
+      "goalkeeper": "Christian Walton",
+      "club": "Ipswich Town",
+      "entry": "Larkin",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
       "goalkeeper": "Mike Penders",
       "club": "Chelsea",
       "entry": "Evans/Newell",
@@ -14431,26 +14451,6 @@
       "goalkeeper": "Senne Lammens",
       "club": "Man United",
       "entry": "Nelson",
-      "current": 0,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "goalkeeper": "Christian Walton",
-      "club": "Ipswich Town",
-      "entry": "Larkin",
       "current": 0,
       "history": [
         0,
@@ -24965,7 +24965,7 @@
           "buyIn": 200,
           "luxuryTax": 53,
           "totalCost": 253,
-          "tablePayout": 45,
+          "tablePayout": 40,
           "luxuryTaxRebate": 22.8,
           "derbies": 0,
           "derbyWinner": 25,
@@ -24986,9 +24986,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 165.8,
-          "net": -87.19999999999999,
-          "return": -0.3446640316205533
+          "totalPayout": 160.8,
+          "net": -92.19999999999999,
+          "return": -0.3644268774703557
         },
         {
           "rank": 8,
@@ -25001,7 +25001,7 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": -60,
+          "tablePayout": -55,
           "luxuryTaxRebate": 22.8,
           "derbies": -50,
           "derbyWinner": 0,
@@ -25022,9 +25022,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -87.2,
-          "net": -287.2,
-          "return": -1.436
+          "totalPayout": -82.2,
+          "net": -282.2,
+          "return": -1.411
         },
         {
           "rank": 7,
@@ -25352,13 +25352,13 @@
           "return": 2.1647058823529415
         },
         {
-          "place": 12,
+          "place": 11,
           "entry": "Brennan",
           "club": "Aston Villa",
           "bid": 100,
           "luxuryTax": 0,
           "totalCost": 100,
-          "tablePayout": 10,
+          "tablePayout": 15,
           "luxuryTaxRebate": 11.4,
           "derbies": -25,
           "derbyWinner": 0,
@@ -25379,9 +25379,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -3.6000000000000014,
-          "net": -103.6,
-          "return": -1.036
+          "totalPayout": 1.3999999999999986,
+          "net": -98.6,
+          "return": -0.986
         },
         {
           "place": 10,
@@ -25448,13 +25448,13 @@
           "return": -0.6355555555555555
         },
         {
-          "place": 11,
+          "place": 12,
           "entry": "Evans/Newell",
           "club": "Hull City",
           "bid": 14,
           "luxuryTax": 0,
           "totalCost": 14,
-          "tablePayout": 15,
+          "tablePayout": 10,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
@@ -25475,12 +25475,12 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 124.4,
-          "net": 110.4,
-          "return": 7.885714285714286
+          "totalPayout": 119.4,
+          "net": 105.4,
+          "return": 7.528571428571429
         },
         {
-          "place": 17,
+          "place": 15,
           "entry": "Larkin",
           "club": "Ipswich Town",
           "bid": 40,
@@ -25512,7 +25512,7 @@
           "return": -0.1
         },
         {
-          "place": 16,
+          "place": 17,
           "entry": "Bishop/Foster",
           "club": "Fulham",
           "bid": 27,
@@ -25576,7 +25576,7 @@
           "return": 0.687878787878788
         },
         {
-          "place": 15,
+          "place": 16,
           "entry": "Hasz/Baby",
           "club": "Coventry City",
           "bid": 12,
@@ -30994,24 +30994,24 @@
           "gap": 10
         },
         {
-          "winner": "Aston Villa",
-          "loser": "Man City",
-          "venue": "Home",
-          "score": "2 - 1",
-          "matchweek": 8,
-          "winnerPlace": 12,
-          "loserPlace": 3,
-          "gap": 9
-        },
-        {
           "winner": "Hull City",
           "loser": "Brighton",
           "venue": "Home",
           "score": "2 - 0",
           "matchweek": 11,
-          "winnerPlace": 11,
+          "winnerPlace": 12,
           "loserPlace": 2,
-          "gap": 9
+          "gap": 10
+        },
+        {
+          "winner": "Aston Villa",
+          "loser": "Man City",
+          "venue": "Home",
+          "score": "2 - 1",
+          "matchweek": 8,
+          "winnerPlace": 11,
+          "loserPlace": 3,
+          "gap": 8
         },
         {
           "winner": "Chelsea",
@@ -31049,18 +31049,18 @@
           "venue": "Home",
           "score": "1 - 0",
           "matchweek": 7,
-          "winnerPlace": 16,
-          "loserPlace": 11,
+          "winnerPlace": 17,
+          "loserPlace": 12,
           "gap": 5
         },
         {
-          "winner": "Crystal Palace",
-          "loser": "Fulham",
-          "venue": "Away",
-          "score": "2 - 3",
-          "matchweek": 3,
-          "winnerPlace": 20,
-          "loserPlace": 16,
+          "winner": "Man United",
+          "loser": "Ipswich Town",
+          "venue": "Home",
+          "score": "5 - 2",
+          "matchweek": 2,
+          "winnerPlace": 19,
+          "loserPlace": 15,
           "gap": 4
         },
         {
@@ -31074,24 +31074,14 @@
           "gap": 3
         },
         {
-          "winner": "Sunderland",
+          "winner": "Crystal Palace",
           "loser": "Fulham",
-          "venue": "Home",
-          "score": "1 - 0",
-          "matchweek": 2,
-          "winnerPlace": 18,
-          "loserPlace": 16,
-          "gap": 2
-        },
-        {
-          "winner": "Man United",
-          "loser": "Ipswich Town",
-          "venue": "Home",
-          "score": "5 - 2",
-          "matchweek": 2,
-          "winnerPlace": 19,
+          "venue": "Away",
+          "score": "2 - 3",
+          "matchweek": 3,
+          "winnerPlace": 20,
           "loserPlace": 17,
-          "gap": 2
+          "gap": 3
         },
         {
           "winner": "Nott'm Forest",
@@ -31100,28 +31090,8 @@
           "score": "1 - 2",
           "matchweek": 4,
           "winnerPlace": 14,
-          "loserPlace": 12,
-          "gap": 2
-        },
-        {
-          "winner": "Aston Villa",
-          "loser": "Tottenham",
-          "venue": "Away",
-          "score": "2 - 3",
-          "matchweek": 5,
-          "winnerPlace": 12,
-          "loserPlace": 10,
-          "gap": 2
-        },
-        {
-          "winner": "Newcastle",
-          "loser": "Hull City",
-          "venue": "Home",
-          "score": "2 - 1",
-          "matchweek": 5,
-          "winnerPlace": 13,
           "loserPlace": 11,
-          "gap": 2
+          "gap": 3
         },
         {
           "winner": "Coventry City",
@@ -31129,8 +31099,18 @@
           "venue": "Home",
           "score": "4 - 1",
           "matchweek": 6,
-          "winnerPlace": 15,
+          "winnerPlace": 16,
           "loserPlace": 13,
+          "gap": 3
+        },
+        {
+          "winner": "Coventry City",
+          "loser": "Nott'm Forest",
+          "venue": "Away",
+          "score": "0 - 1",
+          "matchweek": 5,
+          "winnerPlace": 16,
+          "loserPlace": 14,
           "gap": 2
         },
         {
@@ -31154,6 +31134,26 @@
           "gap": 2
         },
         {
+          "winner": "Sunderland",
+          "loser": "Fulham",
+          "venue": "Home",
+          "score": "1 - 0",
+          "matchweek": 2,
+          "winnerPlace": 18,
+          "loserPlace": 17,
+          "gap": 1
+        },
+        {
+          "winner": "Aston Villa",
+          "loser": "Tottenham",
+          "venue": "Away",
+          "score": "2 - 3",
+          "matchweek": 5,
+          "winnerPlace": 11,
+          "loserPlace": 10,
+          "gap": 1
+        },
+        {
           "winner": "Brighton",
           "loser": "Arsenal",
           "venue": "Home",
@@ -31164,13 +31164,13 @@
           "gap": 1
         },
         {
-          "winner": "Coventry City",
-          "loser": "Nott'm Forest",
-          "venue": "Away",
-          "score": "0 - 1",
+          "winner": "Newcastle",
+          "loser": "Hull City",
+          "venue": "Home",
+          "score": "2 - 1",
           "matchweek": 5,
-          "winnerPlace": 15,
-          "loserPlace": 14,
+          "winnerPlace": 13,
+          "loserPlace": 12,
           "gap": 1
         },
         {
@@ -31184,23 +31184,13 @@
           "gap": 1
         },
         {
-          "winner": "Ipswich Town",
-          "loser": "Fulham",
-          "venue": "Home",
-          "score": "2 - 1",
-          "matchweek": 6,
-          "winnerPlace": 17,
-          "loserPlace": 16,
-          "gap": 1
-        },
-        {
           "winner": "Fulham",
           "loser": "Coventry City",
           "venue": "Away",
           "score": "0 - 1",
           "matchweek": 8,
-          "winnerPlace": 16,
-          "loserPlace": 15,
+          "winnerPlace": 17,
+          "loserPlace": 16,
           "gap": 1
         },
         {
@@ -31271,19 +31261,19 @@
         },
         {
           "club": "Coventry City",
-          "place": 15,
+          "place": 16,
           "lastSeasonPlace": "Promoted",
           "change": 0
         },
         {
           "club": "Hull City",
-          "place": 11,
+          "place": 12,
           "lastSeasonPlace": "Promoted",
           "change": 0
         },
         {
           "club": "Ipswich Town",
-          "place": 17,
+          "place": 15,
           "lastSeasonPlace": "Promoted",
           "change": 0
         },
@@ -31313,15 +31303,15 @@
         },
         {
           "club": "Fulham",
-          "place": 16,
+          "place": 17,
           "lastSeasonPlace": 11,
-          "change": -5
+          "change": -6
         },
         {
           "club": "Aston Villa",
-          "place": 12,
+          "place": 11,
           "lastSeasonPlace": 4,
-          "change": -8
+          "change": -7
         },
         {
           "club": "Sunderland",
@@ -31350,9 +31340,9 @@
         },
         {
           "club": "Aston Villa",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 14,
-          "firstHalfPPM": 1.2727272727272727,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 15,
+          "firstHalfPPM": 1.25,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31460,8 +31450,8 @@
         },
         {
           "club": "Ipswich Town",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 11,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 12,
           "firstHalfPPM": 1,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
@@ -31562,7 +31552,7 @@
         {
           "club": "Hull City",
           "entry": "Evans/Newell",
-          "place": 11,
+          "place": 12,
           "played": 11,
           "wins": 3,
           "draws": 5,
@@ -31575,9 +31565,24 @@
           "status": "Safe"
         },
         {
+          "club": "Ipswich Town",
+          "entry": "Larkin",
+          "place": 15,
+          "played": 12,
+          "wins": 3,
+          "draws": 3,
+          "losses": 6,
+          "goalsFor": 15,
+          "goalsAgainst": 22,
+          "goalDifference": -7,
+          "points": 12,
+          "pointsVsRelegation": 3,
+          "status": "Safe"
+        },
+        {
           "club": "Coventry City",
           "entry": "Hasz/Baby",
-          "place": 15,
+          "place": 16,
           "played": 12,
           "wins": 4,
           "draws": 0,
@@ -31587,21 +31592,6 @@
           "goalDifference": -11,
           "points": 12,
           "pointsVsRelegation": 3,
-          "status": "Safe"
-        },
-        {
-          "club": "Ipswich Town",
-          "entry": "Larkin",
-          "place": 17,
-          "played": 11,
-          "wins": 3,
-          "draws": 2,
-          "losses": 6,
-          "goalsFor": 15,
-          "goalsAgainst": 22,
-          "goalDifference": -7,
-          "points": 11,
-          "pointsVsRelegation": 2,
           "status": "Safe"
         }
       ]
