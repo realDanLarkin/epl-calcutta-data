@@ -4,7 +4,7 @@
     "season": "2026-27",
     "matchweek": 12,
     "status": "In Progress - 1 complete, 2 in progress, 7 not started",
-    "generatedAt": "2026-11-28T07:47:17-08:00",
+    "generatedAt": "2026-11-28T07:53:41-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -3753,7 +3753,7 @@
       "homeGoalkeeper": "James Trafford",
       "awayGoalkeeper": "Carl Rushworth",
       "matchStatus": "In Progress",
-      "matchClock": "45'+2'"
+      "matchClock": "HT"
     },
     {
       "matchNumber": 118,
@@ -3776,7 +3776,7 @@
       "homeGoalkeeper": "Senne Lammens",
       "awayGoalkeeper": "Caoimhin Kelleher",
       "matchStatus": "In Progress",
-      "matchClock": "45'+2'"
+      "matchClock": "HT"
     },
     {
       "matchNumber": 116,
