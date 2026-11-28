@@ -3,8 +3,8 @@
     "competition": "Roger's Raiders EPL Calcutta",
     "season": "2026-27",
     "matchweek": 12,
-    "status": "In Progress - 1 complete, 0 in progress, 9 not started",
-    "generatedAt": "2026-11-27T13:57:53-08:00",
+    "status": "In Progress - 1 complete, 2 in progress, 7 not started",
+    "generatedAt": "2026-11-28T07:02:05-08:00",
     "sourceWorkbook": "RaidersEPL-Standings.xlsx",
     "note": "Full export rebuilt from workbook on every run. Values are cached results saved by Excel; the exporter does not recalculate workbook formulas."
   },
@@ -21,11 +21,11 @@
       "luxuryTax": 0,
       "totalCost": 200,
       "tablePayout": 520,
-      "luxuryTaxRebate": 22.8,
+      "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
-      "props": 162.5,
+      "props": 112.5,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -35,15 +35,15 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 50,
+      "biggestRise": 0,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 100,
-      "totalPayout": 705.3,
-      "net": 505.29999999999995,
-      "return": 2.5265
+      "totalPayout": 643.9,
+      "net": 443.9,
+      "return": 2.2195
     },
     {
       "rank": 2,
@@ -55,7 +55,7 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": 350,
+      "tablePayout": 360,
       "luxuryTaxRebate": 11.4,
       "derbies": 50,
       "derbyWinner": 50,
@@ -76,9 +76,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 423.9,
-      "net": 223.89999999999998,
-      "return": 1.1195
+      "totalPayout": 433.9,
+      "net": 233.89999999999998,
+      "return": 1.1695
     },
     {
       "rank": 4,
@@ -116,7 +116,7 @@
       "return": -0.2217573221757322
     },
     {
-      "rank": 6,
+      "rank": 7,
       "entry": "Bishop/Foster",
       "clubs": [
         "Everton",
@@ -127,7 +127,7 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": 60,
+      "tablePayout": 15,
       "luxuryTaxRebate": 22.8,
       "derbies": -25,
       "derbyWinner": 0,
@@ -148,9 +148,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 57.80000000000001,
-      "net": -142.2,
-      "return": -0.711
+      "totalPayout": 12.799999999999997,
+      "net": -187.2,
+      "return": -0.9359999999999999
     },
     {
       "rank": 3,
@@ -163,7 +163,7 @@
       "luxuryTax": 22,
       "totalCost": 222,
       "tablePayout": 150,
-      "luxuryTaxRebate": 0,
+      "luxuryTaxRebate": 11.4,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
@@ -183,9 +183,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 211,
-      "net": -11,
-      "return": -0.04954954954954955
+      "totalPayout": 222.4,
+      "net": 0.4000000000000057,
+      "return": 0.0018018018018018274
     },
     {
       "rank": 5,
@@ -259,7 +259,7 @@
       "return": -1.436
     },
     {
-      "rank": 7,
+      "rank": 6,
       "entry": "Nelson",
       "clubs": [
         "Man United",
@@ -268,12 +268,12 @@
       "buyIn": 200,
       "luxuryTax": 0,
       "totalCost": 200,
-      "tablePayout": -10,
+      "tablePayout": 25,
       "luxuryTaxRebate": 11.4,
       "derbies": -25,
       "derbyWinner": 0,
       "derbyLoser": -25,
-      "props": -25,
+      "props": 25,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -283,15 +283,15 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 50,
+      "biggestRise": 100,
       "biggestFall": -100,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -48.599999999999994,
-      "net": -248.6,
-      "return": -1.2429999999999999
+      "totalPayout": 36.400000000000006,
+      "net": -163.6,
+      "return": -0.818
     }
   ],
   "clubs": [
@@ -488,13 +488,13 @@
       "return": -0.11219512195121954
     },
     {
-      "place": 5,
+      "place": 7,
       "entry": "Bishop/Foster",
       "club": "Bournemouth",
       "bid": 35,
       "luxuryTax": 0,
       "totalCost": 35,
-      "tablePayout": 60,
+      "tablePayout": 40,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
@@ -515,18 +515,18 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 71.4,
-      "net": 36.400000000000006,
-      "return": 1.0400000000000003
+      "totalPayout": 51.4,
+      "net": 16.4,
+      "return": 0.4685714285714285
     },
     {
-      "place": 6,
+      "place": 5,
       "entry": "Machel/Machel",
       "club": "Brentford",
       "bid": 80,
       "luxuryTax": 0,
       "totalCost": 80,
-      "tablePayout": 50,
+      "tablePayout": 60,
       "luxuryTaxRebate": 11.4,
       "derbies": 25,
       "derbyWinner": 25,
@@ -547,23 +547,23 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 86.4,
-      "net": 6.400000000000006,
-      "return": 0.08000000000000007
+      "totalPayout": 96.4,
+      "net": 16.400000000000006,
+      "return": 0.20500000000000007
     },
     {
-      "place": 7,
+      "place": 6,
       "entry": "Nelson",
       "club": "Leeds United",
       "bid": 51,
       "luxuryTax": 0,
       "totalCost": 51,
-      "tablePayout": 40,
+      "tablePayout": 50,
       "luxuryTaxRebate": 11.4,
       "derbies": 0,
       "derbyWinner": 0,
       "derbyLoser": 0,
-      "props": 50,
+      "props": 100,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -573,15 +573,15 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 50,
+      "biggestRise": 100,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 101.4,
-      "net": 50.400000000000006,
-      "return": 0.9882352941176472
+      "totalPayout": 161.4,
+      "net": 110.4,
+      "return": 2.1647058823529415
     },
     {
       "place": 12,
@@ -627,7 +627,7 @@
       "derbies": 0,
       "derbyWinner": 0,
       "derbyLoser": 0,
-      "props": 50,
+      "props": 0,
       "faCup": 0,
       "eflCup": 0,
       "goldenBoot": 0,
@@ -637,15 +637,15 @@
       "survivalPool": 0,
       "brexitPenalty": 0,
       "brexitReward": 0,
-      "biggestRise": 50,
+      "biggestRise": 0,
       "biggestFall": 0,
       "secondHalfSurge": 0,
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 81.4,
-      "net": 14.400000000000006,
-      "return": 0.21492537313432844
+      "totalPayout": 31.4,
+      "net": -35.6,
+      "return": -0.5313432835820896
     },
     {
       "place": 13,
@@ -776,14 +776,14 @@
       "return": -1.9259259259259258
     },
     {
-      "place": 14,
+      "place": 15,
       "entry": "Dilks",
       "club": "Nott'm Forest",
       "bid": 66,
       "luxuryTax": 0,
       "totalCost": 66,
       "tablePayout": 0,
-      "luxuryTaxRebate": 11.4,
+      "luxuryTaxRebate": 0,
       "derbies": 0,
       "derbyWinner": 25,
       "derbyLoser": -25,
@@ -803,19 +803,19 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 100,
-      "totalPayout": 111.4,
-      "net": 45.400000000000006,
-      "return": 0.687878787878788
+      "totalPayout": 100,
+      "net": 34,
+      "return": 0.5151515151515151
     },
     {
-      "place": 15,
+      "place": 14,
       "entry": "Hasz/Baby",
       "club": "Coventry City",
       "bid": 12,
       "luxuryTax": 0,
       "totalCost": 12,
       "tablePayout": 0,
-      "luxuryTaxRebate": 0,
+      "luxuryTaxRebate": 11.4,
       "derbies": 25,
       "derbyWinner": 25,
       "derbyLoser": 0,
@@ -835,18 +835,18 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": 61,
-      "net": 49,
-      "return": 4.083333333333333
+      "totalPayout": 72.4,
+      "net": 60.400000000000006,
+      "return": 5.033333333333334
     },
     {
-      "place": 19,
+      "place": 18,
       "entry": "Nelson",
       "club": "Man United",
       "bid": 99,
       "luxuryTax": 0,
       "totalCost": 99,
-      "tablePayout": -50,
+      "tablePayout": -25,
       "luxuryTaxRebate": 0,
       "derbies": -25,
       "derbyWinner": 0,
@@ -867,18 +867,18 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -150,
-      "net": -249,
-      "return": -2.515151515151515
+      "totalPayout": -125,
+      "net": -224,
+      "return": -2.2626262626262625
     },
     {
-      "place": 18,
+      "place": 19,
       "entry": "Bishop/Foster",
       "club": "Sunderland",
       "bid": 41,
       "luxuryTax": 0,
       "totalCost": 41,
-      "tablePayout": -25,
+      "tablePayout": -50,
       "luxuryTaxRebate": 0,
       "derbies": 0,
       "derbyWinner": 0,
@@ -899,9 +899,9 @@
       "secondHalfCollapse": 0,
       "biggestUpsetLoss": 0,
       "biggestUpsetWin": 0,
-      "totalPayout": -25,
-      "net": -66,
-      "return": -1.6097560975609757
+      "totalPayout": -50,
+      "net": -91,
+      "return": -2.2195121951219514
     },
     {
       "place": 20,
@@ -987,6 +987,30 @@
     },
     {
       "place": 5,
+      "club": "Brentford",
+      "played": 12,
+      "points": 18,
+      "wins": 4,
+      "draws": 6,
+      "losses": 2,
+      "gf": 20,
+      "ga": 11,
+      "gd": 9
+    },
+    {
+      "place": 6,
+      "club": "Leeds United",
+      "played": 12,
+      "points": 18,
+      "wins": 4,
+      "draws": 6,
+      "losses": 2,
+      "gf": 14,
+      "ga": 9,
+      "gd": 5
+    },
+    {
+      "place": 7,
       "club": "Bournemouth",
       "played": 11,
       "points": 18,
@@ -996,30 +1020,6 @@
       "gf": 18,
       "ga": 14,
       "gd": 4
-    },
-    {
-      "place": 6,
-      "club": "Brentford",
-      "played": 11,
-      "points": 17,
-      "wins": 4,
-      "draws": 5,
-      "losses": 2,
-      "gf": 20,
-      "ga": 11,
-      "gd": 9
-    },
-    {
-      "place": 7,
-      "club": "Leeds United",
-      "played": 11,
-      "points": 17,
-      "wins": 4,
-      "draws": 5,
-      "losses": 2,
-      "gf": 14,
-      "ga": 9,
-      "gd": 5
     },
     {
       "place": 8,
@@ -1095,6 +1095,18 @@
     },
     {
       "place": 14,
+      "club": "Coventry City",
+      "played": 12,
+      "points": 13,
+      "wins": 4,
+      "draws": 1,
+      "losses": 7,
+      "gf": 13,
+      "ga": 21,
+      "gd": -8
+    },
+    {
+      "place": 15,
       "club": "Nott'm Forest",
       "played": 12,
       "points": 12,
@@ -1104,18 +1116,6 @@
       "gf": 12,
       "ga": 17,
       "gd": -5
-    },
-    {
-      "place": 15,
-      "club": "Coventry City",
-      "played": 11,
-      "points": 12,
-      "wins": 4,
-      "draws": 0,
-      "losses": 7,
-      "gf": 13,
-      "ga": 21,
-      "gd": -8
     },
     {
       "place": 16,
@@ -1143,6 +1143,18 @@
     },
     {
       "place": 18,
+      "club": "Man United",
+      "played": 12,
+      "points": 9,
+      "wins": 1,
+      "draws": 6,
+      "losses": 5,
+      "gf": 14,
+      "ga": 23,
+      "gd": -9
+    },
+    {
+      "place": 19,
       "club": "Sunderland",
       "played": 11,
       "points": 9,
@@ -1151,18 +1163,6 @@
       "losses": 6,
       "gf": 8,
       "ga": 17,
-      "gd": -9
-    },
-    {
-      "place": 19,
-      "club": "Man United",
-      "played": 11,
-      "points": 8,
-      "wins": 1,
-      "draws": 5,
-      "losses": 5,
-      "gf": 14,
-      "ga": 23,
       "gd": -9
     },
     {
@@ -3745,15 +3745,15 @@
         "club": "Coventry City",
         "entry": "Hasz/Baby"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null,
-      "matchStatus": null,
-      "matchClock": null
+      "result": "0 - 0",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeGoalkeeper": "James Trafford",
+      "awayGoalkeeper": "Carl Rushworth",
+      "matchStatus": "In Progress",
+      "matchClock": "1'"
     },
     {
       "matchNumber": 118,
@@ -3768,15 +3768,15 @@
         "club": "Brentford",
         "entry": "Machel/Machel"
       },
-      "result": null,
-      "homeResult": null,
-      "awayResult": null,
-      "homeGoals": null,
-      "awayGoals": null,
-      "homeGoalkeeper": null,
-      "awayGoalkeeper": null,
-      "matchStatus": null,
-      "matchClock": null
+      "result": "0 - 0",
+      "homeResult": "Draw",
+      "awayResult": "Draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeGoalkeeper": "Senne Lammens",
+      "awayGoalkeeper": "Caoimhin Kelleher",
+      "matchStatus": "In Progress",
+      "matchClock": "1'"
     },
     {
       "matchNumber": 116,
@@ -10014,13 +10014,11 @@
       "name": "Biggest Rise",
       "payout": 100,
       "calculatedWinner": [
-        "Leeds United",
-        "Tottenham"
+        "Leeds United"
       ],
       "override": [],
       "winner": [
-        "Leeds United",
-        "Tottenham"
+        "Leeds United"
       ]
     },
     {
@@ -14010,6 +14008,26 @@
       ]
     },
     {
+      "goalkeeper": "Caoimhin Kelleher",
+      "club": "Brentford",
+      "entry": "Machel/Machel",
+      "current": 5,
+      "history": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        4,
+        5
+      ]
+    },
+    {
       "goalkeeper": "Alisson Becker",
       "club": "Liverpool",
       "entry": "Hasz/Baby",
@@ -14046,6 +14064,26 @@
         4,
         4,
         5,
+        5
+      ]
+    },
+    {
+      "goalkeeper": "James Trafford",
+      "club": "Leeds United",
+      "entry": "Nelson",
+      "current": 5,
+      "history": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
         5
       ]
     },
@@ -14090,26 +14128,6 @@
       ]
     },
     {
-      "goalkeeper": "Caoimhin Kelleher",
-      "club": "Brentford",
-      "entry": "Machel/Machel",
-      "current": 4,
-      "history": [
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
-        3,
-        3,
-        4,
-        4
-      ]
-    },
-    {
       "goalkeeper": "Djordje Petrovic",
       "club": "Bournemouth",
       "entry": "Bishop/Foster",
@@ -14125,26 +14143,6 @@
         2,
         3,
         3,
-        4,
-        4
-      ]
-    },
-    {
-      "goalkeeper": "James Trafford",
-      "club": "Leeds United",
-      "entry": "Nelson",
-      "current": 4,
-      "history": [
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        3,
-        3,
-        4,
         4,
         4
       ]
@@ -14250,6 +14248,26 @@
       ]
     },
     {
+      "goalkeeper": "Carl Rushworth",
+      "club": "Coventry City",
+      "entry": "Hasz/Baby",
+      "current": 2,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
       "goalkeeper": "Matz Sels",
       "club": "Nott'm Forest",
       "entry": "Dilks",
@@ -14259,26 +14277,6 @@
         0,
         1,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "goalkeeper": "Carl Rushworth",
-      "club": "Coventry City",
-      "entry": "Hasz/Baby",
-      "current": 1,
-      "history": [
-        0,
-        0,
-        0,
-        0,
         1,
         1,
         1,
@@ -14306,6 +14304,26 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "goalkeeper": "Senne Lammens",
+      "club": "Man United",
+      "entry": "Nelson",
+      "current": 1,
+      "history": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1
       ]
     },
@@ -14373,26 +14391,6 @@
       "goalkeeper": "Dean Henderson",
       "club": "Crystal Palace",
       "entry": "Brennan",
-      "current": 0,
-      "history": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "goalkeeper": "Senne Lammens",
-      "club": "Man United",
-      "entry": "Nelson",
       "current": 0,
       "history": [
         0,
@@ -24751,11 +24749,11 @@
           "luxuryTax": 0,
           "totalCost": 200,
           "tablePayout": 520,
-          "luxuryTaxRebate": 22.8,
+          "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
-          "props": 162.5,
+          "props": 112.5,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -24765,15 +24763,15 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 50,
+          "biggestRise": 0,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 100,
-          "totalPayout": 705.3,
-          "net": 505.29999999999995,
-          "return": 2.5265
+          "totalPayout": 643.9,
+          "net": 443.9,
+          "return": 2.2195
         },
         {
           "rank": 2,
@@ -24785,7 +24783,7 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": 350,
+          "tablePayout": 360,
           "luxuryTaxRebate": 11.4,
           "derbies": 50,
           "derbyWinner": 50,
@@ -24806,9 +24804,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 423.9,
-          "net": 223.89999999999998,
-          "return": 1.1195
+          "totalPayout": 433.9,
+          "net": 233.89999999999998,
+          "return": 1.1695
         },
         {
           "rank": 4,
@@ -24846,7 +24844,7 @@
           "return": -0.2217573221757322
         },
         {
-          "rank": 6,
+          "rank": 7,
           "entry": "Bishop/Foster",
           "clubs": [
             "Everton",
@@ -24857,7 +24855,7 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": 60,
+          "tablePayout": 15,
           "luxuryTaxRebate": 22.8,
           "derbies": -25,
           "derbyWinner": 0,
@@ -24878,9 +24876,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 57.80000000000001,
-          "net": -142.2,
-          "return": -0.711
+          "totalPayout": 12.799999999999997,
+          "net": -187.2,
+          "return": -0.9359999999999999
         },
         {
           "rank": 3,
@@ -24893,7 +24891,7 @@
           "luxuryTax": 22,
           "totalCost": 222,
           "tablePayout": 150,
-          "luxuryTaxRebate": 0,
+          "luxuryTaxRebate": 11.4,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
@@ -24913,9 +24911,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 211,
-          "net": -11,
-          "return": -0.04954954954954955
+          "totalPayout": 222.4,
+          "net": 0.4000000000000057,
+          "return": 0.0018018018018018274
         },
         {
           "rank": 5,
@@ -24989,7 +24987,7 @@
           "return": -1.436
         },
         {
-          "rank": 7,
+          "rank": 6,
           "entry": "Nelson",
           "clubs": [
             "Man United",
@@ -24998,12 +24996,12 @@
           "buyIn": 200,
           "luxuryTax": 0,
           "totalCost": 200,
-          "tablePayout": -10,
+          "tablePayout": 25,
           "luxuryTaxRebate": 11.4,
           "derbies": -25,
           "derbyWinner": 0,
           "derbyLoser": -25,
-          "props": -25,
+          "props": 25,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -25013,15 +25011,15 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 50,
+          "biggestRise": 100,
           "biggestFall": -100,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -48.599999999999994,
-          "net": -248.6,
-          "return": -1.2429999999999999
+          "totalPayout": 36.400000000000006,
+          "net": -163.6,
+          "return": -0.818
         }
       ],
       "clubs": [
@@ -25218,13 +25216,13 @@
           "return": -0.11219512195121954
         },
         {
-          "place": 5,
+          "place": 7,
           "entry": "Bishop/Foster",
           "club": "Bournemouth",
           "bid": 35,
           "luxuryTax": 0,
           "totalCost": 35,
-          "tablePayout": 60,
+          "tablePayout": 40,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
@@ -25245,18 +25243,18 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 71.4,
-          "net": 36.400000000000006,
-          "return": 1.0400000000000003
+          "totalPayout": 51.4,
+          "net": 16.4,
+          "return": 0.4685714285714285
         },
         {
-          "place": 6,
+          "place": 5,
           "entry": "Machel/Machel",
           "club": "Brentford",
           "bid": 80,
           "luxuryTax": 0,
           "totalCost": 80,
-          "tablePayout": 50,
+          "tablePayout": 60,
           "luxuryTaxRebate": 11.4,
           "derbies": 25,
           "derbyWinner": 25,
@@ -25277,23 +25275,23 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 86.4,
-          "net": 6.400000000000006,
-          "return": 0.08000000000000007
+          "totalPayout": 96.4,
+          "net": 16.400000000000006,
+          "return": 0.20500000000000007
         },
         {
-          "place": 7,
+          "place": 6,
           "entry": "Nelson",
           "club": "Leeds United",
           "bid": 51,
           "luxuryTax": 0,
           "totalCost": 51,
-          "tablePayout": 40,
+          "tablePayout": 50,
           "luxuryTaxRebate": 11.4,
           "derbies": 0,
           "derbyWinner": 0,
           "derbyLoser": 0,
-          "props": 50,
+          "props": 100,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -25303,15 +25301,15 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 50,
+          "biggestRise": 100,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 101.4,
-          "net": 50.400000000000006,
-          "return": 0.9882352941176472
+          "totalPayout": 161.4,
+          "net": 110.4,
+          "return": 2.1647058823529415
         },
         {
           "place": 12,
@@ -25357,7 +25355,7 @@
           "derbies": 0,
           "derbyWinner": 0,
           "derbyLoser": 0,
-          "props": 50,
+          "props": 0,
           "faCup": 0,
           "eflCup": 0,
           "goldenBoot": 0,
@@ -25367,15 +25365,15 @@
           "survivalPool": 0,
           "brexitPenalty": 0,
           "brexitReward": 0,
-          "biggestRise": 50,
+          "biggestRise": 0,
           "biggestFall": 0,
           "secondHalfSurge": 0,
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 81.4,
-          "net": 14.400000000000006,
-          "return": 0.21492537313432844
+          "totalPayout": 31.4,
+          "net": -35.6,
+          "return": -0.5313432835820896
         },
         {
           "place": 13,
@@ -25506,14 +25504,14 @@
           "return": -1.9259259259259258
         },
         {
-          "place": 14,
+          "place": 15,
           "entry": "Dilks",
           "club": "Nott'm Forest",
           "bid": 66,
           "luxuryTax": 0,
           "totalCost": 66,
           "tablePayout": 0,
-          "luxuryTaxRebate": 11.4,
+          "luxuryTaxRebate": 0,
           "derbies": 0,
           "derbyWinner": 25,
           "derbyLoser": -25,
@@ -25533,19 +25531,19 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 100,
-          "totalPayout": 111.4,
-          "net": 45.400000000000006,
-          "return": 0.687878787878788
+          "totalPayout": 100,
+          "net": 34,
+          "return": 0.5151515151515151
         },
         {
-          "place": 15,
+          "place": 14,
           "entry": "Hasz/Baby",
           "club": "Coventry City",
           "bid": 12,
           "luxuryTax": 0,
           "totalCost": 12,
           "tablePayout": 0,
-          "luxuryTaxRebate": 0,
+          "luxuryTaxRebate": 11.4,
           "derbies": 25,
           "derbyWinner": 25,
           "derbyLoser": 0,
@@ -25565,18 +25563,18 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": 61,
-          "net": 49,
-          "return": 4.083333333333333
+          "totalPayout": 72.4,
+          "net": 60.400000000000006,
+          "return": 5.033333333333334
         },
         {
-          "place": 19,
+          "place": 18,
           "entry": "Nelson",
           "club": "Man United",
           "bid": 99,
           "luxuryTax": 0,
           "totalCost": 99,
-          "tablePayout": -50,
+          "tablePayout": -25,
           "luxuryTaxRebate": 0,
           "derbies": -25,
           "derbyWinner": 0,
@@ -25597,18 +25595,18 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -150,
-          "net": -249,
-          "return": -2.515151515151515
+          "totalPayout": -125,
+          "net": -224,
+          "return": -2.2626262626262625
         },
         {
-          "place": 18,
+          "place": 19,
           "entry": "Bishop/Foster",
           "club": "Sunderland",
           "bid": 41,
           "luxuryTax": 0,
           "totalCost": 41,
-          "tablePayout": -25,
+          "tablePayout": -50,
           "luxuryTaxRebate": 0,
           "derbies": 0,
           "derbyWinner": 0,
@@ -25629,9 +25627,9 @@
           "secondHalfCollapse": 0,
           "biggestUpsetLoss": 0,
           "biggestUpsetWin": 0,
-          "totalPayout": -25,
-          "net": -66,
-          "return": -1.6097560975609757
+          "totalPayout": -50,
+          "net": -91,
+          "return": -2.2195121951219514
         },
         {
           "place": 20,
@@ -30941,9 +30939,9 @@
           "venue": "Home",
           "score": "3 - 1",
           "matchweek": 10,
-          "winnerPlace": 14,
+          "winnerPlace": 15,
           "loserPlace": 3,
-          "gap": 11
+          "gap": 12
         },
         {
           "winner": "Sunderland",
@@ -30951,9 +30949,9 @@
           "venue": "Home",
           "score": "1 - 0",
           "matchweek": 10,
-          "winnerPlace": 18,
+          "winnerPlace": 19,
           "loserPlace": 8,
-          "gap": 10
+          "gap": 11
         },
         {
           "winner": "Aston Villa",
@@ -30976,6 +30974,16 @@
           "gap": 9
         },
         {
+          "winner": "Nott'm Forest",
+          "loser": "Chelsea",
+          "venue": "Home",
+          "score": "3 - 2",
+          "matchweek": 12,
+          "winnerPlace": 15,
+          "loserPlace": 8,
+          "gap": 7
+        },
+        {
           "winner": "Chelsea",
           "loser": "Brighton",
           "venue": "Home",
@@ -30992,18 +31000,8 @@
           "score": "3 - 1",
           "matchweek": 6,
           "winnerPlace": 20,
-          "loserPlace": 14,
-          "gap": 6
-        },
-        {
-          "winner": "Nott'm Forest",
-          "loser": "Chelsea",
-          "venue": "Home",
-          "score": "3 - 2",
-          "matchweek": 12,
-          "winnerPlace": 14,
-          "loserPlace": 8,
-          "gap": 6
+          "loserPlace": 15,
+          "gap": 5
         },
         {
           "winner": "Fulham",
@@ -31036,34 +31034,14 @@
           "gap": 3
         },
         {
-          "winner": "Chelsea",
-          "loser": "Bournemouth",
-          "venue": "Home",
-          "score": "5 - 1",
-          "matchweek": 6,
-          "winnerPlace": 8,
-          "loserPlace": 5,
-          "gap": 3
-        },
-        {
           "winner": "Sunderland",
           "loser": "Fulham",
           "venue": "Home",
           "score": "1 - 0",
           "matchweek": 2,
-          "winnerPlace": 18,
-          "loserPlace": 16,
-          "gap": 2
-        },
-        {
-          "winner": "Man United",
-          "loser": "Ipswich Town",
-          "venue": "Home",
-          "score": "5 - 2",
-          "matchweek": 2,
           "winnerPlace": 19,
-          "loserPlace": 17,
-          "gap": 2
+          "loserPlace": 16,
+          "gap": 3
         },
         {
           "winner": "Nott'm Forest",
@@ -31071,9 +31049,9 @@
           "venue": "Away",
           "score": "1 - 2",
           "matchweek": 4,
-          "winnerPlace": 14,
+          "winnerPlace": 15,
           "loserPlace": 12,
-          "gap": 2
+          "gap": 3
         },
         {
           "winner": "Aston Villa",
@@ -31096,13 +31074,13 @@
           "gap": 2
         },
         {
-          "winner": "Coventry City",
-          "loser": "Newcastle",
-          "venue": "Home",
-          "score": "4 - 1",
-          "matchweek": 6,
-          "winnerPlace": 15,
-          "loserPlace": 13,
+          "winner": "Fulham",
+          "loser": "Coventry City",
+          "venue": "Away",
+          "score": "0 - 1",
+          "matchweek": 8,
+          "winnerPlace": 16,
+          "loserPlace": 14,
           "gap": 2
         },
         {
@@ -31126,6 +31104,16 @@
           "gap": 2
         },
         {
+          "winner": "Man United",
+          "loser": "Ipswich Town",
+          "venue": "Home",
+          "score": "5 - 2",
+          "matchweek": 2,
+          "winnerPlace": 18,
+          "loserPlace": 17,
+          "gap": 1
+        },
+        {
           "winner": "Brighton",
           "loser": "Arsenal",
           "venue": "Home",
@@ -31136,13 +31124,13 @@
           "gap": 1
         },
         {
-          "winner": "Coventry City",
-          "loser": "Nott'm Forest",
-          "venue": "Away",
-          "score": "0 - 1",
-          "matchweek": 5,
-          "winnerPlace": 15,
-          "loserPlace": 14,
+          "winner": "Chelsea",
+          "loser": "Bournemouth",
+          "venue": "Home",
+          "score": "5 - 1",
+          "matchweek": 6,
+          "winnerPlace": 8,
+          "loserPlace": 7,
           "gap": 1
         },
         {
@@ -31156,22 +31144,32 @@
           "gap": 1
         },
         {
-          "winner": "Fulham",
-          "loser": "Coventry City",
-          "venue": "Away",
-          "score": "0 - 1",
-          "matchweek": 8,
-          "winnerPlace": 16,
-          "loserPlace": 15,
+          "winner": "Coventry City",
+          "loser": "Newcastle",
+          "venue": "Home",
+          "score": "4 - 1",
+          "matchweek": 6,
+          "winnerPlace": 14,
+          "loserPlace": 13,
+          "gap": 1
+        },
+        {
+          "winner": "Bournemouth",
+          "loser": "Leeds United",
+          "venue": "Home",
+          "score": "2 - 0",
+          "matchweek": 9,
+          "winnerPlace": 7,
+          "loserPlace": 6,
           "gap": 1
         }
       ],
       "riseFall": [
         {
           "club": "Leeds United",
-          "place": 7,
+          "place": 6,
           "lastSeasonPlace": 14,
-          "change": 7
+          "change": 8
         },
         {
           "club": "Tottenham",
@@ -31186,16 +31184,16 @@
           "change": 6
         },
         {
+          "club": "Brentford",
+          "place": 5,
+          "lastSeasonPlace": 9,
+          "change": 4
+        },
+        {
           "club": "Everton",
           "place": 9,
           "lastSeasonPlace": 13,
           "change": 4
-        },
-        {
-          "club": "Brentford",
-          "place": 6,
-          "lastSeasonPlace": 9,
-          "change": 3
         },
         {
           "club": "Chelsea",
@@ -31204,21 +31202,15 @@
           "change": 2
         },
         {
-          "club": "Nott'm Forest",
-          "place": 14,
-          "lastSeasonPlace": 16,
-          "change": 2
-        },
-        {
-          "club": "Bournemouth",
-          "place": 5,
-          "lastSeasonPlace": 6,
-          "change": 1
-        },
-        {
           "club": "Liverpool",
           "place": 4,
           "lastSeasonPlace": 5,
+          "change": 1
+        },
+        {
+          "club": "Nott'm Forest",
+          "place": 15,
+          "lastSeasonPlace": 16,
           "change": 1
         },
         {
@@ -31229,7 +31221,7 @@
         },
         {
           "club": "Coventry City",
-          "place": 15,
+          "place": 14,
           "lastSeasonPlace": "Promoted",
           "change": 0
         },
@@ -31244,6 +31236,12 @@
           "place": 17,
           "lastSeasonPlace": "Promoted",
           "change": 0
+        },
+        {
+          "club": "Bournemouth",
+          "place": 7,
+          "lastSeasonPlace": 6,
+          "change": -1
         },
         {
           "club": "Man City",
@@ -31277,15 +31275,15 @@
         },
         {
           "club": "Sunderland",
-          "place": 18,
+          "place": 19,
           "lastSeasonPlace": 7,
-          "change": -11
+          "change": -12
         },
         {
           "club": "Man United",
-          "place": 19,
+          "place": 18,
           "lastSeasonPlace": 3,
-          "change": -16
+          "change": -15
         }
       ],
       "surgeCollapse": [
@@ -31324,9 +31322,9 @@
         },
         {
           "club": "Brentford",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 17,
-          "firstHalfPPM": 1.5454545454545454,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 18,
+          "firstHalfPPM": 1.5,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31357,9 +31355,9 @@
         },
         {
           "club": "Coventry City",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 12,
-          "firstHalfPPM": 1.0909090909090908,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 13,
+          "firstHalfPPM": 1.0833333333333333,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31423,9 +31421,9 @@
         },
         {
           "club": "Leeds United",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 17,
-          "firstHalfPPM": 1.5454545454545454,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 18,
+          "firstHalfPPM": 1.5,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31456,9 +31454,9 @@
         },
         {
           "club": "Man United",
-          "firstHalfPlayed": 11,
-          "firstHalfPoints": 8,
-          "firstHalfPPM": 0.7272727272727273,
+          "firstHalfPlayed": 12,
+          "firstHalfPoints": 9,
+          "firstHalfPPM": 0.75,
           "secondHalfPlayed": 0,
           "secondHalfPoints": 0,
           "secondHalfPPM": 0,
@@ -31529,16 +31527,16 @@
         {
           "club": "Coventry City",
           "entry": "Hasz/Baby",
-          "place": 15,
-          "played": 11,
+          "place": 14,
+          "played": 12,
           "wins": 4,
-          "draws": 0,
+          "draws": 1,
           "losses": 7,
           "goalsFor": 13,
           "goalsAgainst": 21,
           "goalDifference": -8,
-          "points": 12,
-          "pointsVsRelegation": 3,
+          "points": 13,
+          "pointsVsRelegation": 4,
           "status": "Safe"
         },
         {
